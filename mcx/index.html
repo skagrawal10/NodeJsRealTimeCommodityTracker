@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Invero Softwares | Smart Solutions</title>
+		<meta charset="UTF-8" />
+        <link rel="stylesheet" type="text/css" href="css/style.css" />
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js"></script>
+		<script type="text/javascript" src="js/socket.io.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46849111-1', 'inverosoft.com');
+  ga('send', 'pageview');
+
+</script>
+
+		<script type="text/javascript">
+
+function setObj(obj, newValue){
+	if (obj){
+		var oldValue = parseInt(obj.innerHTML);
+		newValue = parseInt(newValue);
+		var bgcolor = "";
+		var fgcolor = "";
+		if (oldValue > newValue){
+			bgcolor = "Red";
+			fgcolor = "White";
+		}
+		else if (newValue > oldValue){
+			bgcolor = "Green";
+			fgcolor = "White";
+		}
+		obj.style.color = fgcolor;
+		obj.style.backgroundColor = bgcolor;
+		obj.innerHTML = newValue;
+	}
+}
+
+
+	$(document).ready(function() {
+	var rates = new Array();
+	var socket = io.connect('http://54.235.27.146:13334');
+	socket.emit('user', 'mcx');
+	socket.on('rate', function (obj) {
+//	console.log(obj);
+	if (obj["market"] == "close")
+	{
+		document.getElementById('timestamp').innerHTML = "Market will Open shortly...";
+		//document.getElementById('silver_kaccha_sale').innerHTML = "-";
+		//document.getElementById('silver_kaccha_pur').innerHTML = "-";
+		document.getElementById('silver_bar_sale').innerHTML = "-";
+		//document.getElementById('silver_bar_pur').innerHTML = "-";
+		//document.getElementById('silver_bar_rtgs_sale').innerHTML = "-";
+		//document.getElementById('silver_bar_rtgs_pur').innerHTML = "-";
+		//document.getElementById('silver_99_sale').innerHTML = "-";
+		//document.getElementById('silver_99_pur').innerHTML = "-";
+		document.getElementById('gold_sale').innerHTML = "-";
+		//document.getElementById('gold_pur').innerHTML = "-";
+		//document.getElementById('gold_rtgs_sale').innerHTML = "-";
+		//document.getElementById('gold_rtgs_pur').innerHTML = "-";
+		//document.getElementById('gold_bithoor_sale').innerHTML = "-";
+		//document.getElementById('gold_bithoor_pur').innerHTML = "-";
+	}
+	else
+	{
+		if(obj["timestamp"])
+		{
+			str = obj["timestamp"].split("/");
+			if(str.length == 3)
+			{
+				obj["timestamp"] = str[1] + "/" + str[0] + "/" + str[2];
+			}
+		}
+		document.getElementById('timestamp').innerHTML = obj["timestamp"];
+		//document.getElementById('silver_kaccha_sale').innerHTML = obj["rates"]["silver_kaccha"]["sale"];
+		//document.getElementById('silver_kaccha_pur').innerHTML = obj["rates"]["silver_kaccha"]["pur"];
+		setObj(document.getElementById('gold_sale'), obj["rates"]["gold"]["sale"]);
+		
+		setObj(document.getElementById('silver_bar_sale'), obj["rates"]["silver_bar"]["ask"]);
+		setObj(document.getElementById('silver_bar_pur'), obj["rates"]["silver_bar"]["bid"]);
+		setObj(document.getElementById('silver_bar_high'), obj["rates"]["silver_bar"]["high"]);
+		setObj(document.getElementById('silver_bar_low'), obj["rates"]["silver_bar"]["low"]);
+		//document.getElementById('silver_bar_pur').innerHTML = obj["rates"]["silver_bar"]["pur"];
+		//document.getElementById('silver_bar_rtgs_sale').innerHTML = obj["rates"]["silver_bar_rtgs"]["sale"];
+		//document.getElementById('silver_bar_rtgs_pur').innerHTML = obj["rates"]["silver_bar_rtgs"]["pur"];
+		//document.getElementById('silver_99_sale').innerHTML = obj["rates"]["silver_99"]["sale"];
+		//document.getElementById('silver_99_pur').innerHTML = obj["rates"]["silver_99"]["pur"];
+		setObj(document.getElementById('gold_sale'), obj["rates"]["gold"]["ask"]);
+		setObj(document.getElementById('gold_pur'), obj["rates"]["gold"]["bid"]);
+		setObj(document.getElementById('gold_high'), obj["rates"]["gold"]["high"]);
+		setObj(document.getElementById('gold_low'), obj["rates"]["gold"]["low"]);
+		//document.getElementById('gold_pur').innerHTML = obj["rates"]["gold"]["pur"];
+		//document.getElementById('gold_rtgs_sale').innerHTML = obj["rates"]["gold_rtgs"]["sale"];
+		//document.getElementById('gold_rtgs_pur').innerHTML = obj["rates"]["gold_rtgs"]["pur"];
+		//document.getElementById('gold_bithoor_sale').innerHTML = obj["rates"]["gold_bithoor"]["sale"];
+		//document.getElementById('gold_bithoor_pur').innerHTML = obj["rates"]["gold_bithoor"]["pur"];
+	}
+  });
+	});
+</script>
+
+
+ <style type="text/css">
+
+body {
+	
+	background: #000000;
+	font-size : 44px;
+	color : #FFFFFF;
+}
+
+table, th, td
+{
+border: 3px solid rgb(148, 148, 148);
+}
+
+
+
+    </style>
+</head>
+   <!--[if IE]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+    <body>   
+	<div class="content">
+	<header> 
+	<!--
+	<div class="header-div" style="background : #FFFFFF; width : 100%; height : 70px" >
+	
+	<!--			
+	<logo>            
+	 <h1 class="text"><a href="#">Invero Softwares</a></h1>
+	 </logo>
+	 
+	 <center>
+	<img src="../images/invero_logo2.png" width="500px" height="70px"/>
+	<span style="font-family: 'Patrick Hand SC', cursive; font-size: 40px; color:#000000; font-weight: bold;"></span>
+	 </center>
+	</div>
+	
+	<br />
+	<br />
+-->
+	<div style="width:100%; margin-left:auto; margin-right:auto;">
+	  <div class="section_box" style="width:100%;">
+
+	<table width="95%">
+	<tr>
+	<td width="100%" valign="top">
+		
+	 <center>
+		<br />
+		<b><span id="timestamp" style="background-color:#FF9900;"></span></b>
+		<br />
+		<br />
+		
+		<table id= "rateTable" border=10 style="text-align: center; width : 100%">
+			  <!--
+			  <col width="120">
+			  <col width="120">
+			  <col width="120">
+			  -->
+			<tr height="70">
+				<td ><b>Item</b></td>
+				<td><b>Bid</b></td>
+				<td><b>Ask</b></td>
+			</tr>	
+			<tr height="70">
+				<td><b></b></td>
+				<td><b>High</b></td>
+				<td><b>Low</b></td>
+			</tr>
+			
+			
+			<tr height="70">
+				<td><b>Gold</b></td>
+				<td id="gold_pur"></td>
+				<td id="gold_sale"></td>
+			</tr>
+			<tr height="70">
+				<td></td>
+				<td id="gold_high"></td>
+				<td id="gold_low"></td>
+			
+			</tr>
+			
+			<tr height="70">
+				<td><b>Silver</b></td>
+				<td id="silver_bar_pur"></td>
+				<td id="silver_bar_sale"></td>
+			</tr>
+			<tr height="70">
+				<td></td>
+				<td id="silver_bar_high"></td>
+				<td id="silver_bar_low"></td>
+			
+			</tr>
+		</table>
+	 </center>
+	</td>
+	<!--
+	<td valign="top">
+	 <div style="float: left;">
+		<br/>
+		<br/>
+		<br/>
+	</div>
+	</td>
+	-->
+	</tr>
+	</table>
+     </div>
+    </div>
+	
+	
+
+		<footer style="margin-top : 0px">
+          <div class="footerwrap" style="margin-right : 15px">
+			<div id="footerleft" style="font-size : 34px; width : 100%; ">
+				<p align="right">Powered By <a href="http://inverosoft.com/">InveroSoft, Mathura (U.P.)</a> (09457869845)</p>
+			</div>
+          </div>          
+        </footer>
+		<br/>
+		<p align="right" style="font-size : 34px; width : 100%; ">To Download Android App Visit </p>
+		<br/>
+		<p align="right" style="font-size : 34px; width : 100%; ">http://inverosoft.com/mcx.apk</p>
+<!--		
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+		<script type="text/javascript" src="js/jquery.transform-0.9.3.min_.js"></script>
+		<script type="text/javascript" src="js/jquery.mousewheel.js"></script>
+		<script type="text/javascript" src="js/jquery.RotateImageMenu.js"></script>
+	-->	
+<!-- Free template distributed by http://freehtml5templates.com --> 
+</body>
+</html>

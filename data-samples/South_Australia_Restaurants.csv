@@ -1,0 +1,776 @@
+SN,Suburb,Category,Business Name,Address,Latitude,Longitude,Short Description,Contact Phone,Contact Email,Website,Rating,Reviews
+1,"Adelaide, SA",restaurants,Jasmin Indian Restaurant,"31 Hindmarsh Sq, Adelaide SA 5000",-34.92436,138.604998,City Centre Location,,,http://www.jasmin.com.au,0,0
+2,"West Lakes, SA",restaurants,Crusoes Restaurant,"141 Brebner Drv, West Lakes SA 5021",-34.880027,138.488698,West Lakes Premier Food and Wine Destination,,enquiries@lakesresorthotel.com.au,http://www.lakesresorthotel.com.au/a-bar-and-food-for-every-occassion/crusoes/,4,3
+3,"Port Lincoln, SA",restaurants,Grand Tasman Hotel,"94 Tasman Tce, Port Lincoln SA 5606",-34.72161,135.86091,Great Times At The Grand Tasman Hotel.,,gthotel@internode.on.net,http://www.grandtasmanhotel.com.au,0,0
+4,"Port Lincoln, SA",restaurants,The Marina Hotel Apartments,"13 Jubilee Drv, Port Lincoln SA 5606",-34.74294,135.87443,Port Lincoln's only alfresco dining on the water.,,stay@marinahotel.com.au,http://www.marinahotel.com.au,0,0
+5,"Semaphore, SA",restaurants,Lickerish Kitchen,"Shp B/ 26 Semaphore Rd, Semaphore SA 5019",-34.838906,138.481998,Kitchen & Bar - Good Wine - Great Service - Outstanding Food,,info@lickerish.com.au,http://www.lickerish.com.au,0,0
+6,"Glenelg North, SA",restaurants,Watermark Glenelg,"631 Anzac Hwy, Glenelg North SA 5045",-34.97613,138.51476,"Award Winning ""All You Can Eat"" International Buffet, Sports Bar",,info@watermarkglenelg.com.au,http://www.watermarkglenelg.com.au,3.5,8
+7,"Glenelg, SA",restaurants,Fish,"Shop 8, Marina Pr Holdfast Shores, Glenelg SA 5045",-34.980227,138.515604,Simply Fresh Local Food,,jay@fishglenelg.com.au,http://www.fishglenelg.com.au/FISH.html,1,1
+8,"Adelaide, SA",restaurants,Skycity Adelaide,Adelaide SA 5000,-34.928605,138.601685,Live Large,,marketing@adelaidecasino.com.au,http://www.adelaidecasino.com.au/restaurants/welcome,0,0
+9,"Henley Beach, SA",restaurants,Stella Restaurant,"2/ 257 Seaview Rd, Henley Beach SA 5022",-34.91905,138.49391,We Can Cater From 2 People Through To 120 People For Any Occasion.,,info@stellarestaurant.com.au,http://www.stellarestaurant.com.au,4,4
+10,"Mt Gambier, SA",restaurants,Wild Ginger Thai,"17 Commercial St West, Mt Gambier SA 5290",-37.82848,140.77981,Fine Thai Cuisine | Dine In | Take Away | Functions | Fully Licensed,,info@wildginger.com.au,http://www.wildginger.com.au,0,0
+11,"Mt Gambier, SA",restaurants,Lakes Resort Mount Gambier,"17 Lake Tce West, Mt Gambier SA 5290",-37.836144,140.768503,Open everyday for dinner (6pm) and breakfast (7-9am).,,lakesresort@bigpond.com,http://www.lakesresort.com.au,0,0
+12,"Adelaide, SA",restaurants,Culshaws Restaurant,"Ground Floor, Majestic Roof Garden Hotel, 55 Frome St, Adelaide SA 5000",-34.922803,138.607768,Australian fine food and wine,,functions@majestichotels.com.au,http://www.majestichotels.com.au,4.5,3
+13,"McLaren Vale, SA",restaurants,The Kitchen Door Restaurant at Pennys Hill  Mr Riggs Cellars,"281 Main Rd, McLaren Vale SA 5171",-35.244094,138.552136,"Regional, Seasonal Produce In Our Ever Changing Menus - Award Winning.",,tyarra@pennyshill.com.au,http://www.pennyshill.com.au,0,0
+14,"Adelaide, SA",restaurants,Union Hotel,"70 Waymouth street, Adelaide SA 5000",-34.925682,138.597319,Menu Ranges From Traditional Pub Plates To Modern Australian Creations,,info@theunionhotel.com.au,http://www.theunionhotel.com.au,3.5,12
+15,"Parkside, SA",restaurants,La Tombola Italian Restaurant,"61 Unley Rd, Parkside SA 5063",-34.94495,138.60745,Experience The Difference Of Our Modern Italian Cuisine,,info@latombola.com.au,http://www.latombola.com.au,4.5,4
+16,"Mt Gambier, SA",restaurants,Commodore Motel,"1 Jubilee Hwy, Mt Gambier SA 5290",-37.82384,140.78461,"Commodore Motel Provides 53 Luxury Rooms, Ideal For Functions/Weddings",,reception@commodoremotel.com.au,http://www.commodoreonthepark.com.au,4,1
+17,"Sevenhill, SA",restaurants,Sevenhill Hotel,Sevenhill SA 5453,-33.891305,138.629709,Family Friendly Restaurant,,paul@sevenhillhotel.com.au,http://www.sevenhillhotel.com.au,0,0
+18,"North Adelaide, SA",restaurants,The Lion Hotel,"161 Melbourne St, North Adelaide SA 5006",-34.907829,138.60594,Award Winning Restaurant 5 Minutes From The City,,contactus@thelionhotel.com,http://www.thelionhotel.com,4,15
+19,"Victor Harbor, SA",restaurants,Ninos Of Victor Harbor,"17 Albert Pl, Victor Harbor SA 5211",-35.555799,138.622763,Serving High Quality Food Since 1974,,enquiry@ninoscafe.com.au,http://www.ninoscafe.com.au,0,0
+20,"Adelaide, SA",restaurants,Parlamento Restaurant,"140 North Tce, Adelaide SA 5000",-34.921856,138.597721,Italian Owned And Operated Since 1988.,,info@parlamento.com.au,http://www.parlamento.com.au,0,0
+21,"North Adelaide, SA",restaurants,Himalayan Kitchen,"73 Melbourne St, North Adelaide SA 5006",-34.906186,138.608777,Delicious Tibetan & Nepalese Restaurant. Private Functions Available.,,info@thehimalayankitchen.com,http://www.thehimalayankitchen.com,4.5,3
+22,"Adelaide, SA",restaurants,Cafe Michael 2,"204 Rundle St, Adelaide SA 5000",-34.92236,138.60721,Legendary Authentic Thai Food Made By Thai Chefs - Take Away Available,,,http://www.cafemichael2.com.au,3.5,5
+23,"Auburn, SA",restaurants,The Rising Sun Hotel,"19 Main North Rd, Auburn SA 5451",-34.025914,138.685119,Clare Valley's Award Winning Hotel,,rising@capri.net.au,http://www.therisingsunhotel.com.au/,0,0
+24,"Glenelg, SA",restaurants,Cafe Strand,"108 Jetty Rd, Glenelg SA 5045",-34.98053,138.51621,Modern Mediterranean Cuisine. Large Enclosed Outdoor Area.,,cafe@senet.com.au,http://www.cafestrand.com.au,0,0
+25,"Mt Gambier, SA",restaurants,Sorrentos Cafe,"6 Bay Rd, Mt Gambier SA 5290",-37.8291,140.780025,"Modern Australian Cuisine, Gourmet Pizza. All Day Menu 7 Days A Week.",,eat@sorrentoscafe.com.au,http://www.sorrentoscafe.com.au,5,1
+26,"Adelaide, SA",restaurants,Taj Tandoor,"290 Rundle St, Adelaide SA 5000",-34.922261,138.610218,Multi Award Winning Restaurant.,,,http://www.tajtandoor.com.au,2.5,11
+27,"Prospect, SA",restaurants,Shanghai Palace Restaurant,"274a Main North Rd, Prospect SA 5082",-34.87434,138.60154,"Fully Licensed, Dine In & Take Away",,,,1,1
+28,"Angle Park, SA",restaurants,Greyhound Racing SA,Angle Park SA 5010,-34.859133,138.560566,All Your Gaming & Racing Needs.,,admin@grsa.com.au,http://www.grsa.com.au,0,0
+29,"Adelaide, SA",restaurants,Nu Thai Restaurant,"117 Gouger St, Adelaide SA 5000",-34.93064,138.595,Traditional And Modern Thai Food.,,nuthai.restaurant@gmail.com,http://www.nuthai.com.au,4,10
+30,"Norwood, SA",restaurants,The Hazara,". 211A The Pde, Norwood SA 5067",-34.920769,138.638649,Specialising In North Indian And Singaporean Cuisine,,hazarabistro@hotmail.com,http://www.hazarabistro.com.au,4,1
+31,"Glenelg, SA",restaurants,The Buffalo Family Restaurant,"Cnr Adelphi Terrace & Anzac Highway,, Glenelg SA 5045",-34.976517,138.514118,"Unique, Historic Ship At The Bay Great Food Great Prices All Functions",,info@thebuffalo.com.au,http://www.thebuffalo.com.au,0,0
+32,"Adelaide, SA",restaurants,House Of Chow Pty Ltd,"82 Hutt St (Cnr Wakefield St), Adelaide SA 5000",-34.92835,138.6124,Innovative Gourmet Food In Elegant Surroundings At Affordable Prices,,,http://www.houseofchow.com.au,3.2,6
+33,"North Adelaide, SA",restaurants,Zapatas Mexican Restaurant,"42 Melbourne St, North Adelaide SA 5006",-34.905633,138.609421,"Mexican Restaurant, Established For Over 30 Years.",,info@zapatas.com.au,http://www.zapatas.com.au,3.5,15
+34,"Kent Town, SA",restaurants,Chloes Restaurant  Function Centre,"36 College Rd, Kent Town SA 5067",-34.92104,138.62232,Contemporary Australian Cuisine In Stylish Setting. 09 Chef Of The Yr.,,office@chloes.com.au,http://www.chloes.com.au/,4.5,2
+35,"Adelaide, SA",restaurants,Balcony Restaurant,"129 North Tce, Adelaide SA 5000",-34.922,138.59695,Twice Awarded Best Brasserie Restaurant.,,,http://www.strath.com.au,0,0
+36,"Adelaide, SA",restaurants,Sosta Argentinian Kitchen,"291 Rundle St, Adelaide SA 5000",-34.92244,138.61037,Open Charcoal Cooking.,,info@sostarundle.com,http://www.sostaargentiniankitchen.com.au,4,7
+37,"McLaren Vale, SA",restaurants,Hotel McLaren,"208 Main Rd, McLaren Vale SA 5171",-35.213369,138.535669,Enjoy al fresco dining overlooking landscaped gardens.,,,http://www.hotelmclaren.com.au,4,1
+38,"North Adelaide, SA",restaurants,Beyond India,"170 O'Connell St, North Adelaide SA 5006",-34.903564,138.595356,"A blend of spice, a blend of colour, a blend of flavour.",,robby@beyondindia.net.au,http://www.beyondindia.net.au,4,6
+39,"Adelaide, SA",restaurants,From Orient,"125- 127 Pirie St, Adelaide SA 5000",-34.925888,138.604431,World Class Modern Chinese Restaurant.,,jenny@fromorientrestaurant.com,http://www.fromorient.com.au,4.5,4
+40,"Adelaide, SA",restaurants,Alphutte Restaurant,"242 Pulteney St, Adelaide SA 5000",-34.92855,138.60631,"Quality Restaurant In Adelaide, SA",,enquiry@alphutte.com.au,http://www.alphutte.com.au,4.1,7
+41,"Hawthorn, SA",restaurants,Lenzerheide Restaurant,"146 Belair Rd, Hawthorn SA 5062",-34.972106,138.608655,Offering A Quality Restaurant,,info@lenzerheide.com.au,http://www.lenzerheide.com.au,4.5,8
+42,"Adelaide, SA",restaurants,Lemongrass Thai Bistro,"289 Rundle St, Adelaide SA 5000",-34.92264,138.61029,Located in Adelaide's Trendy East End - Modern Thai Cuisine,,info@lemongrassbistro.com.au,http://www.lemongrassthaibistro.com.au,3.5,15
+43,"Glenelg, SA",restaurants,Esca Restaurant,"Holdfast Shores Shop 13- 15 Marine Pr, Glenelg SA 5045",-34.980227,138.515604,Authentic Mediterranean cuisine in a great location,,info@esca.net.au,http://www.esca.net.au,4,2
+44,Restaurants,restaurants,1918 Bistro  Grill,"Holdfast Shores Shop 13- 15 Marine Pr, Glenelg SA 5045",-34.980227,138.515604,1918 Serves Freshly Prepared Modern Australian Food And Local Wines.,,enquiries@1918.com.au,http://www.1918.com.au,4.5,7
+45,"Parafield Gardens, SA",restaurants,Parafield Gardens Community Club Inc,"65 Shepherdson Rd, Parafield Gardens SA 5107",-34.783116,138.6116,Our Bistro Boasts An Extensive Menu At Reasonable Prices.,,parafie@bigpond.net.au,http://www.communityclub.com.au,0,0
+46,"Adelaide, SA",restaurants,Jasmin Indian Restaurant,"31 Hindmarsh Sq, Adelaide SA 5000",-34.923827,138.604671,North India Style Cuisine,,,http://www.jasmin.com.au,0,0
+47,"Norton Summit, SA",restaurants,Scenic Hotel,"Old Norton Summit Rd, Norton Summit SA 5136",-34.922821,138.724162,"""So Near...Yet So Far"" Breathtaking Views Over The City & Coast.",,admin@scenichotel.com.au,http://www.scenichotel.com.au,4.5,4
+48,"Mt Gambier, SA",restaurants,The Barn Steakhouse,"747 Glenelg River Rd, Mt Gambier SA 5291",-37.899301,140.791895,The Finest Local Grass-Fed Beef Cooked To Perfection.,,functions@barn.com.au,http://www.barn.com.au,0,0
+49,"Campbelltown, SA",restaurants,Tookie Thai,"2/ 90 Newton Rd, Campbelltown SA 5074",-34.878705,138.673269,"Authentic Thai Food, Great Atmosphere & Friendly Staff.",,tookiethaicuisine@gmail.com,http://www.tookiethai.com,4,1
+50,"North Adelaide, SA",restaurants,Harvest Of India,"91 O'Connell St, North Adelaide SA 5006",-34.906481,138.595495,"Northern Indian Home Style Cooking, Dine In Or Take Away-Open 7 Days.",,,http://www.harvestofindia.com.au,4,4
+51,"Victor Harbor, SA",restaurants,Anchorage Cafe Restaurant Wine Bar,"21 Flinders Pde, Victor Harbor SA 5211",-35.553418,138.624366,Seafront Central Location Open From 8am For Breakfast Lunch & Dinner,,anchoragevh@ozemail.com.au,http://www.anchorageseafronthotel.com,4,3
+52,"Whyalla, SA",restaurants,Percys on Playford,"99 Playford Ave, Whyalla SA 5600",-33.034726,137.562151,Percy's Restaurant & Piano Bar  A-La-Carte Dining - Breakfast & Dinner,,info@alexandermotel.com.au,http://www.alexandermotel.com.au,0,0
+53,"Glenelg, SA",restaurants,Sammys On The Marina,"R 1/12 Holdfast Promenade Marina Pier Glenelg Foreshore, Glenelg SA 5045",-34.9762,138.51027,Multi Award Winning Restaurant With Magnificent Views,,sammys.rest@bigpond.com,http://www.sammys.net.au,1,1
+54,"Mannum, SA",restaurants,Mannum Community Club Incorporated,"66 Randell St, Mannum SA 5238",-34.91271,139.31272,"Enjoy The Atmosphere, The Views, The Great Food And Wine",,admin@mannumclub.com.au,http://www.mannumclub.com.au,1,1
+55,"Sevenhill, SA",restaurants,Skillogalee Winery  Restaurant,"Lot 1 Trevarrick Rd, Sevenhill SA 5453",-33.905359,138.617394,Award Winning Boutique Wines - Great Food - Comfortable Accommodation,,info@skillogalee.com.au,http://www.skillogalee.com.au,0,0
+56,"Gawler, SA",restaurants,Feast On Murray,"111 Murray St, Gawler SA 5118",-34.598227,138.749555,Fine Wine & Global Cuisine In An Indoor Or Courtyard Setting,,,,4,1
+57,"North Adelaide, SA",restaurants,Sato Japanese Restaurant,"131 Melbourne St, North Adelaide SA 5006",-34.907447,138.6071,"Authentic Japanese Restaurant, Japanese Chef. Established Over 18 Yrs.",,reefcity@senet.com.au,http://www.satorestaurant.com.au,3.5,4
+58,"Adelaide, SA",restaurants,Homevalley BBQ Restaurant,"291 Morphett St, Adelaide SA 5000",-34.930891,138.593729,Christmas Drinks Special: All Beer & Soft Drinks Buy One Get One Free!,,,http://www.homevalleybbq.com.au,0,0
+59,"Semaphore, SA",restaurants,The Red Ass Curry  Noodle Cafe  Restaurant,"Shop 2/ 120 Semaphore Rd, Semaphore SA 5019",-34.840045,138.488199,Quality Food - Takeaway Restaurant,,,http://www.redasscurry.com,4,3
+60,"Glenelg, SA",restaurants,The Oyster Bar Holdfast Shores,"Holdfast Shores Shop 10 Marina Pr, Glenelg SA 5045",-34.985464,138.519862,"Quality Restaurant - Glenelg, SA",,oysterbar@oysterbar.com.au,http://www.oysterbar.com.au,4.5,3
+61,"Henley Beach, SA",restaurants,Estia Restaurant,"255 Seaview Rd, Henley Beach SA 5022",-34.91999,138.49393,Estia are Adelaide's Greek food specialist at Henley Beach Square.,,email@estia.com.au,http://www.estia.com.au,4,6
+62,"Adelaide, SA",restaurants,PJOBriens Irish Pub,"14 East Tce, Adelaide SA 5000",-34.92214,138.61049,The Irish Pub,,,http://www.pjobriens.com.au/adelaide/,4,13
+63,"Adelaide, SA",restaurants,Great River Korean BBQ Restaurant,"103 Gouger St, Adelaide SA 5000",-34.93062,138.59559,Korean Cuisine,,info@greatriver.com.au,http://www.greatriver.com.au,3.5,3
+64,"Norwood, SA",restaurants,Ambrosinis Restaurant,"136 Magill Rd, Norwood SA 5067",-34.9154,138.63326,Northern Italian Cuisine.,,,http://www.ambrosinis.com.au,3.5,3
+65,"Mt Gambier, SA",restaurants,Caff Belgiorno,"7 Percy St, Mt Gambier SA 5290",-37.828421,140.78362,"A Fine Italian, Mediterranean & Tappas Experience In Mount Gambier",,gent@ansonic.com.au,http://www.febelgiorno.com.au,0,0
+66,"Mawson Lakes, SA",restaurants,Golden Star 26,"1/ 32 Metro Pl, Mawson Lakes SA 5095",-34.805929,138.613753,Best Authentic Vietnamese Cuisine.,,golden.star26@hotmail.com,,3,1
+67,"Bridgewater, SA",restaurants,Petalumas Bridgewater Mill,"Mount Barker Rd,, Bridgewater SA 5155",-35.0118305,138.7693988,A Fine Dining Restaurant In Bridgewater,,bridgewatermill@petaluma.com.au,http://www.petaluma.com.au,0,0
+68,"Adelaide, SA",restaurants,Eros Ouzeri,"277 Rundle Street,, Adelaide SA 5000",-34.92246,138.60976,Authentic Modern Greek Cuisine In The City.,,erosouzeri@internode.on.net,http://www.erosouzeri.com.au,3.1,7
+69,"Unley, SA",restaurants,Pira Thai Cuisine,"Shp 18, 13-23 Unley Rd, Unley SA 5061",-34.94261,138.60723,Authentic Thai Cuisine.,,,,4.5,4
+70,"Glenelg, SA",restaurants,Mamma Carmela Cafe Pizzeria,"4 Jetty Rd, Glenelg SA 5045",-34.98067,138.51175,"Pizza,Foccacia,Pasta,Risotto,Seafood,Steak Or Chicken, We Have It All",,admin@mammacarmela.com.au,http://www.mammacarmela.com.au,4,8
+71,"Adelaide, SA",restaurants,Park Lok Chinese Restaurant,"130 Grote St, Adelaide SA 5000",-34.928616,138.594367,"Whether Dining In Or Take Away, We Provide High Quality Chinese Food.",,kelvin@kartini.co,,5,1
+72,"Victor Harbor, SA",restaurants,Anchorage Cafe Restaurant Wine Bar,"21 Flinders Pde, Victor Harbor SA 5211",-35.553597,138.624398,Seafront Central Location Iconic Victor Restaurant Cafe Wine Bar,,info@anchorageseafronthotel.com,http://www.anchorageseafronthotel.com,4,3
+73,"Malvern, SA",restaurants,Chefs Of Tandoori,"Shop 8, 259- 269 Unley Rd, Malvern SA 5061",-34.95694,138.60839,A Taste Of India. Adelaide's Finest Indian Food. Take Away Menu Online,,,http://www.chefsoftandoori.com.au,4.5,3
+74,"Nuriootpa, SA",restaurants,Chinese Dragon Licensed Restaurant,"9 Gawler St, Nuriootpa SA 5355",-34.472856,138.99376,Dine In & Takeaway,,lvsadmin@bigpond.com,,0,0
+75,"Torrens Park, SA",restaurants,Dolci,"119 Belair Rd Mitcham Shoping Cntr, Torrens Park SA 5062",-34.975827,138.609725,Pasta Bar - Pizzeria - Birroteca - Espresso Bar.,,,,0,0
+76,"Kadina, SA",restaurants,Bellagio The,"41 Taylor St, Kadina SA 5554",-33.961952,137.713635,Fine Italian Cuisine,,bookings@thebellagiokadina.com.au,http://www.thebellagiokadina.com.au/,0,0
+77,"North Adelaide, SA",restaurants,Regent Thai,"165 O'Connell St, North Adelaide SA 5006",-34.903925,138.594662,Authentic Thai Cuisine,,regentthai@bigpond.com.au,http://www.regentthai.com.au,3.5,3
+78,"Glenelg South, SA",restaurants,Mediterranean Cafe Ristorante,"Shop 2/ 72 Broadway, Glenelg South SA 5045",-34.98834,138.51807,"Open 7 Days, 8am Till Late. Outdoor Dining & Group Bookings Available.",,dine@mediterraneanristorante.com.au,http://www.mediterraneanristorante.com.au,0,0
+79,"Victor Harbor, SA",restaurants,Original Victor Harbor Fish Shop,"20 Ocean St, Victor Harbor SA 5211",-35.55489,138.62338,"Come Visit Us,Treat Yourself To Fine Food & Hospitality by Dining in!",,dgmay@internode.on.net,http://www.originalvictorharborfishshop.com.au/,0,0
+80,"Prospect, SA",restaurants,Caffe Cena,"101- 103 Prospect Rd, Prospect SA 5082",-34.88634,138.59432,,,cafecena@internode.on.net,http://www.caffecena.com.au,3.5,5
+81,"Adelaide, SA",restaurants,The Original Pancake Kitchen,"13 Gilbert Pl, Adelaide SA 5000",-34.92352,138.59877,Go On Indulge Yourself. Famous For Pancakes For Nearly 50 Years.,,bookings@pancakehouse.com.au,http://www.theoriginalpancakekitchen.com.au,3.1,19
+82,"Hawthorn, SA",restaurants,Caffe Buongiorno,"212 Belair Rd, Hawthorn SA 5062",-34.974903,138.608157,Pasta Bar - Pizzeria - Birroteca - Espresso Bar.,,buongiorno@adelaide.on.net,,3,7
+83,"Strathalbyn, SA",restaurants,Tiffins Restaurant,"9 Rankine St, Strathalbyn SA 5255",-35.259377,138.893061,Modern Australian Cuisine,,,,0,0
+84,"Adelaide, SA",restaurants,Celsius Restaurant  Bar,"95 Gouger St, Adelaide SA 5000",-34.930617,138.595734,Fine Dining In The Heart Of The City,,info@celsiusrestaurant.com.au,http://www.celsiusrestaurant.com.au,3.5,4
+85,"Glenunga, SA",restaurants,ChaChis Mexican Cantina,"493 Portrush Rd, Glenunga SA 5064",-34.946744,138.642406,"Dine In ,Take Away &  Home Delivery",,,,3.5,5
+86,"Elizabeth, SA",restaurants,Grand Central,Elizabeth SA 5112,-34.720522,138.670222,"Grand Food, Grand Value And A Grand Location.",,cdfc@cdfc.com.au,http://www.grandcentral.net.au,0,0
+87,"Mt Gambier, SA",restaurants,Gourmet India Restaurant,"99 Commercial St (East), Mt Gambier SA 5290",-37.829864,140.785853,"""Please come and Experience the seamless taste in the tranquil milieu""",,gourmetindia@bigpond.com,http://www.gourmetindia.com.au/,0,0
+88,"Adelaide, SA",restaurants,Le Riad Restaurant,"314b Pulteney St, Adelaide SA 5000",-34.93089,138.60654,Real Moroccan Cuisine,,le-riad-rest@hotmail.com,http://www.leriadrestaurant.com.au,3.5,3
+89,"Adelaide, SA",restaurants,Ky Chow Chinese Restaurant,"27-29 Gouger St, Adelaide SA 5000",-34.93048,138.598174,"Fresh, Delicious and Authentic Chinese Cuisine",,raymond.wongct@gmail.com,,0,0
+90,"Glenside, SA",restaurants,Shanghai Tea House,"Burnside Village Shop 108 447 Portrush Rd, Glenside SA 5065",-34.941417,138.641803,"Tea House & Dim Sum Restaurant - its Fresh, Tasty and Healthy.",,info@shanghaiteahouse.com.au,,0,0
+91,"Camden Park, SA",restaurants,Morphettville Junction,"470 Anzac Hwy, Camden Park SA 5038",-34.97425,138.54017,"Brasserie For Lunch & Dinner. Functions, Sports Bar & Gaming Lounge.",,mjunction@sajc.com.au,http://www.morphettvillejunction.com.au,0,0
+92,Restaurants,restaurants,St Kilda Beach Hotel,"470 Anzac Hwy, Camden Park SA 5038",-34.97425,138.54017,"Quality Menu, Friendly Service & Ocean Views For Up To 220 Guests",,info@stkildabeachhotel.com.au,http://www.stkildabeachhotel.com.au,0,0
+93,"Stirling, SA",restaurants,Siemers Indian Restaurant  Takeaway,"143 Mount Barker Rd, Stirling SA 5152",-35.008146,138.724912,"Authentic Indian Cuisine, Open Tues - Sat from 5pm.",,,http://siemersindian.com.au,0,0
+94,"Glenelg, SA",restaurants,Glenelg Barbeque Inn,"160 Jetty Rd, Glenelg SA 5045",-34.98038,138.51892,The Best Steaks In Town,,,http://www.bbqinn.com.au,0,0
+95,"Hawthorn, SA",restaurants,Astros,"45c Sussex Tce, Hawthorn SA 5062",-34.973893,138.600067,The Tastiest and Best Value Greek Cuisine in South Australia.,,,http://www.astros.com.au,3.5,3
+96,"Glenelg, SA",restaurants,Outback Jacks Bar  Grill,"Shop 11 Marina Pr, Glenelg SA 5045",-34.980227,138.515604,"Simply The Largest, Greatest Steaks",,,http://www.outbackjacks.com.au,2.5,9
+97,"Kensington, SA",restaurants,Rising Sun The,"60 Bridge St, Kensington SA 5068",-34.92501,138.64483,Bar - A La 'Carte - Group & Corporate Functions,,therisingsun@adam.com.au,,4.5,3
+98,"North Adelaide, SA",restaurants,Cafe Palazzo North Adelaide,"180 O'Connell St, North Adelaide SA 5006",-34.903425,138.595328,"Open 7 Days, Breakfast-Lunch-Dinner, Open Till Late.",,levm@bigpond.com,,3,2
+99,"Adelaide, SA",restaurants,Treasury On King William,"Within the Adina Apartment Hotel, 144 King William St,, Adelaide SA 5000",-34.92671,138.60038,The Treasury is the oasis in the middle of the city.,,info@treasurykw.com,,4,4
+100,"Bordertown, SA",restaurants,Bordertown Chinese Restaurant,"66 Woolshed St, Bordertown SA 5268",-36.310377,140.773734,"Healthy, Tasty And Quality Food.",,,,0,0
+101,"Inman Valley, SA",restaurants,Rock View Cafe,"1 Mount Alma Rd, Inman Valley SA 5211",-35.4638076,138.5114968,"Traditional Home Cooked Meals, Devonshire Teas And Local Produce.",,,,0,0
+102,"Clare, SA",restaurants,Indii Of Clare,"201 Main North Rd, Clare SA 5453",-33.835091,138.613832,Authentic Indian Cuisine,,info@indiiofclare.com.au,,0,0
+103,"Murray Bridge, SA",restaurants,Riverscape Restaurant  Cafe,"50 Sturt Reserve Rd, Murray Bridge SA 5253",-35.1259,139.27393,Quality Coffee & Meals in a relaxing friendly environment,,,,0,0
+104,"Fullarton, SA",restaurants,Chopstix,"306 Glen Osmond Rd, Fullarton SA 5063",-34.95579,138.63734,Two Locations - Specialising In Asian Cuisine - Open 7 Days.,,chopstix287@live.com.au,,2,3
+105,"Hyde Park, SA",restaurants,Surees Thai Kitchen,"330 Unley Rd, Hyde Park SA 5061",-34.95804,138.60811,"Authentic Thai Cuisine, Open 7 Days, Takeaway Available",,,,4,2
+106,"Redwood Park, SA",restaurants,MokLee Flower Queen Chinese Restaurant,"414 Milne Rd, Redwood Park SA 5097",-34.81537,138.69941,Lunch - Thursday to Saturday / Dinner - 6 Days / Closed Tuesday,,,,5,1
+107,"Port Lincoln, SA",restaurants,Peacock Gardens Chinese  Thai Restaurant,"91 Tasman Tce, Port Lincoln SA 5606",-34.721215,135.860047,Take Away Or Dine In - Excellent Quality Chinese Food,,,,0,0
+108,"Marion, SA",restaurants,Delhi Spice Indian Restaurant,"271a Oaklands Rd, Marion SA 5043",-34.99558,138.54886,"Dine In, Take Away, Fully Licensed For Lunch.",,,,3.5,8
+109,"Hahndorf, SA",restaurants,Hahndorf Chinese Restaurant,"63-65 Main St, Hahndorf SA 5245",-35.027304,138.808542,Come Visit Us Today!,,,,4,1
+110,"Brighton, SA",restaurants,In Thais Cafe  Noodle Bar,"63 Jetty Rd, Brighton SA 5048",-35.017496,138.516042,Delicious Thai Food Dine In Or Take Away.,,,,3.5,3
+111,"Ridgehaven, SA",restaurants,Mandarin Coin Chinese Restaurant,"1259 North East Rd, Ridgehaven SA 5097",-34.82083,138.7162,Chinese Restaurant.,,,,3,3
+112,"Goodwood, SA",restaurants,Korea Restaurant,Goodwood SA 5034,-34.95126,138.589666,We Have An Authentic Korean BBQ Menu.,,,,4,1
+113,"Regency Park, SA",restaurants,Sunnybrae Function Centre,"1 Naweena Rd, Regency Park SA 5010",-34.863229,138.574269,,,info@sunnybrae.com.au,http://www.sunnybrae.com.au,3.5,2
+114,"Stirling, SA",restaurants,Locavore,"49 Mount Barker Rd, Stirling SA 5152",-35.00459,138.717773,,,info@locavore.com.au,http://www.thelocavore.com.au,4.5,8
+115,"Gawler, SA",restaurants,Harvest Of India,"1A Calton Rd, Gawler SA 5118",-34.60065,138.75045,,,,http://www.harvestofindia.com.au,4,1
+116,"Bridgewater, SA",restaurants,Bridgewater Mill Petalumas,"Mount Barker Rd, Bridgewater SA 5155",-35.009279,138.7599,,,bridgewatermill@petaluma.com.au,http://www.bridgewatermill.com.au,4.5,3
+117,"Glenelg, SA",restaurants,Pride of India,"7/ 118 Jetty Rd, Glenelg SA 5045",-34.980501,138.516704,,,mogeorgesam@yahoo.co.in,http://www.prideofindia.com.au,3.6,4
+118,"Mt Gambier, SA",restaurants,Quality Inn Presidential,"Jubilee Hwy West, Mt Gambier SA 5290",-37.84362809,140.8278024,Using Time Honoured Techniques & The Best Of Ingredients.,,,,0,0
+119,"Glenelg, SA",restaurants,Zucca Greek Mezze,"Shop 5/Marina Pier -Holdfast Shores, Glenelg SA 5045",-34.980227,138.515604,,,zucca@zucca.com.au,http://www.zucca.com.au,4,3
+120,"Victor Harbor, SA",restaurants,Beach House Cafe  TakeAway,"62 Franklin Pde, Victor Harbor SA 5211",-35.5749,138.60189,Authentic North Indian Cuisine,,,,3.9,4
+121,"Regency Park, SA",restaurants,Sunnybrae Function Centre,"Tikalara St, Regency Park SA 5010",-34.86792324,138.5731571,,,info@sunnybrae.com.au,http://www.sunnybrae.com.au,3.5,2
+122,"Adelaide, SA",restaurants,The Gallery,"30 Waymouth St, Adelaide SA 5000",-34.925625,138.598501,,,info@galleryadelaide.com.au,http://www.galleryadelaide.com.au,4,5
+123,"Hilton, SA",restaurants,Hilton Hotel,"Cnr South Rd & Sir Donald Bradman Drv, Hilton SA 5033",-34.93158,138.56977,,,info@hilton-hotel.com.au,http://www.hilton-hotel.com.au,3,7
+124,"Victor Harbor, SA",restaurants,Anchorage At Victor Harbor,"21 Flinders Pde, Victor Harbor SA 5211",-35.5536,138.6244,,,info@anchorageseafronthotel.com,http://anchorageseafronthotel.com,4,2
+125,"Oaklands Park, SA",restaurants,Verve Bar  Kitchen,"Shop 2052c 297 Diagonal Rd, Oaklands Park SA 5046",-35.01,138.54,,,info@vervebar.com.au,http://www.vervebar.com.au,3,3
+126,"Adelaide, SA",restaurants,Hey Jupiter,"11 Ebenezer Pl, Adelaide SA 5000",-34.92,138.6,,,hey-jupiter@hotmail.com,https://www.facebook.com/pages/Hey-Jupiter/,4.5,17
+127,"Adelaide, SA",restaurants,Woolshed On Hindley Pty Ltd,"94 Hindley St, Adelaide SA 5000",-34.922786,138.595972,,,woolshed@dodo.com.au,http://www.woolshedonhindley.com.au,2.5,9
+128,"Parkside, SA",restaurants,Mexican Living,"69 Unley Rd, Parkside SA 5063",-34.945546,138.607584,,,chimex@bigpond.net.au,http://www.mexicanliving.com.au,4,4
+129,"Tanunda, SA",restaurants,1918 Bistro  Grill,"94 Murray St, Tanunda SA 5352",-34.52291,138.961018,,,enquiries@1918.com.au,http://www.1918.com.au,4.5,7
+130,"Henley Beach South, SA",restaurants,Cucina Nuova,"17 Henley Beach Rd, Henley Beach South SA 5022",-34.92577,138.49815,,,enquiries@cucinanuovaristorante.com.au,http://www.cucinanuovaristorante.com.au,4,1
+131,"Christies Beach, SA",restaurants,Blu C Cafe,"13 Beach Rd, Christies Beach SA 5165",-35.139209,138.471864,,,info@bluccafe.com.au,http://www.bluccafe.com.au,2,3
+132,"Leabrook, SA",restaurants,The Spice Kitchen,Leabrook SA 5068,-34.930095,138.654959,,,info@spicekitchen.com.au,http://www.spicekitchen.com.au,3.5,5
+133,"Mt Gambier East, SA",restaurants,The Gates At Southgate,"175 Commercial St, Mt Gambier East SA 5290",-37.825713,140.771085,,,reservations@southgatemotel.com.au,http://www.southgatemotel.com.au,4,1
+134,"Adelaide, SA",restaurants,Cos Restaurant,"18 Leigh St, Adelaide SA 5000",-34.92365,138.59779,,,cosbar@e-access.com.au,http://www.justcos.com.au,4.5,5
+135,"St Morris, SA",restaurants,Mughlai On Magill,"399 Magill Rd, St Morris SA 5068",-34.913891,138.652688,,,kamla.osborn@gmail.com,http://www.mughlaionmagill.com.au,4,3
+136,"North Adelaide, SA",restaurants,Quality Hotel Old Adelaide,"160 O'Connell St, North Adelaide SA 5006",-34.903981,138.595828,,,reception@oldadelaideinn.com.au,http://www.oldadelaideinn.com.au,4,1
+137,"Adelaide, SA",restaurants,Decant Restaurant,"264 Flinders St, Adelaide SA 5000",-34.92637,138.61037,,,decant@clarionhotelsoho.com.au,http://www.clarionhotelsoho.com.au,2,2
+138,"Angaston, SA",restaurants,Vintners Bar  Grill,Angaston SA 5353,-34.506198,139.047666,,,chef@vintners.com.au,http://www.vintners.com.au,5,1
+139,"Seaford, SA",restaurants,Seaford Hotel,"Cnr Commercial Rd & Griffiths Drv, Seaford SA 5169",-35.193336,138.477899,,,admin.seaford@indpg.com.au,http://www.seafordhotel.com.au,3.5,4
+140,"North Adelaide, SA",restaurants,The Curious Squire,"10 O'Connell St, North Adelaide SA 5006",-34.908832,138.597218,,,curious@thecurioussquire.com.au,http://www.thecurioussquire.com.au,3.5,19
+141,Restaurants,restaurants,Lime  Lemon Thai Cafe,"10 O'Connell St, North Adelaide SA 5006",-34.908832,138.597218,,,enquiries@limelemon.com.au,http://www.limelemon.com.au,2.5,9
+142,"Parkside, SA",restaurants,Puccinis Restaurant,"309 Fullarton Rd, Parkside SA 5063",-34.950182,138.625356,,,info@puccinisrestaurant.com.au,http://www.puccinisrestaurant.com.au,5,1
+143,"Walkerville, SA",restaurants,Candles on Walkerville,"119 Walkerville Tce, Walkerville SA 5081",-34.894895,138.617472,,,admin@candlesrestaurant.net.au,http://www.candlesrestaurant.net.au,0,0
+144,"Adelaide, SA",restaurants,Adelaide Casino,Adelaide SA 5000,-34.928605,138.601685,,,marketing@adelaidecasino.com.au,http://www.adelaidecasino.com.au,3.4,12
+145,"Malvern, SA",restaurants,Duthy Thai Restaurant,"19-21 Duthy St, Malvern SA 5061",-34.95208,138.61462,,,duthythai@gmail.com,http://www.duthythai.com.au,3.5,2
+146,"Glenelg, SA",restaurants,Seasons at the Bay,"750 Anzac Hwy,, Glenelg SA 5045",-34.97701,138.51439,,,seasons@bigpond.com.au,http://www.seasonsatthebay.com.au/,4,1
+147,"Stirling, SA",restaurants,Tranquilo Restaurant,"Shop 3/ 4 Mount Barker Rd, Stirling SA 5152",-35.004535,138.715412,,,info@tranquilo.com.au,http://www.tranquilo.com.au,3,5
+148,"Bowden, SA",restaurants,Plant 13,"18 Park Tce, Bowden SA 5007",-34.905266,138.579833,,,info@plant13.com,http://www.plant13.com,4,6
+149,"Parkside, SA",restaurants,Namaste Nepalese Restaurant,"41 George St, Parkside SA 5063",-34.94548,138.61323,,,,http://namasterestaurant.com.au,0,0
+150,"Glenelg, SA",restaurants,Ambient Restaurant,"2/ 1 Colley Tce, Glenelg SA 5045",-34.980112,138.512729,,,ambient@live.com.au,http://ambientrestaurant.com.au,3.5,3
+151,"Adelaide, SA",restaurants,Restaurant Orana,"285 Rundle St, Adelaide SA 5000",-34.922626,138.610128,,,info@restaurantorana.com,http://www.restaurantorana.com,3.5,3
+152,"Linden Park, SA",restaurants,East Asian Bistro,"Shp 1 / 466 Greenhill Rd, Linden Park SA 5065",-34.939143,138.651127,"East Asian Bistro Serves Up The Exotic Tastes, Textures And Flavours",,,,0,0
+153,"Whyalla Norrie, SA",restaurants,City Pearl Chinese Restaurant,"Shop 12 Jenkins Ave & Crn of Murn Cres, Whyalla Norrie SA 5608",-33.019976,137.550236,"Chinese, Thai & Australian Cuisine.",,,,0,0
+154,"Murray Bridge, SA",restaurants,Oriental Garden Chinese Restaurant,"16 Adelaide Rd, Murray Bridge SA 5253",-35.12073,139.27278,"Catering For Banquets & Functions, Dine In Or Take Away.",,,,0,0
+155,"Glenelg South, SA",restaurants,Bay Of Bengal,"73 Partridge St, Glenelg South SA 5045",-34.987894,138.518217,,,,http://www.bayofbengal.com.au,3,1
+156,"Glynde, SA",restaurants,Glynde Hotel,"Cnr Payneham & Glynburn Rds, Glynde SA 5070",-34.889557,138.656453,,,,http://www.gogobuffalo.com.au,3,9
+157,"McLaren Vale, SA",restaurants,Oscars,"201 Main Rd, McLaren Vale SA 5171",-35.21417,138.53595,,,,http://www.oscars.com.au,3,5
+158,"Gawler East, SA",restaurants,fig22 at The Wheatsheaf Inn,"2 Sunnydale Ave, Gawler East SA 5118",-34.597064,138.776099,,,,http://www.fig22.com.au,5,1
+159,"Glenelg, SA",restaurants,Yakumi Kitchen,"111 Jetty Rd, Glenelg SA 5045",-34.97988,138.5187,100% Charcoal Grill - Cook At Your Own Table,,,,0,0
+160,"Unley, SA",restaurants,Sakura Japanese Teppanyaki Restaurant,"190 Unley Rd, Unley SA 5061",-34.95006,138.60663,Try Our Expert Teppanyaki Chef's Magic Touch Of Cooking,,,,0,0
+161,"Belair, SA",restaurants,House Of Zen,"6 Main Rd, Belair SA 5052",-34.998354,138.62257,Authentic Chinese & Thai Cuisine,,,,3,1
+162,"Tea Tree Gully, SA",restaurants,Ruby Raja,"1 Perserverance Rd, Tea Tree Gully SA 5091",-34.822006,138.731106,,,,http://www.rubyraja.com.au,3,4
+163,"Adelaide, SA",restaurants,Cafe Brunelli,"187 Rundle St, Adelaide SA 5000",-34.92261,138.60675,,,,http://www.cafebrunelli.com.au,3,14
+164,"Mt Barker, SA",restaurants,Auchendarroch House And Wallis Tavern,"17 Adelaide Rd, Mt Barker SA 5251",-35.06691,138.85712,,,,http://www.wallistavern.com.au,2.5,2
+165,"Aberfoyle Park, SA",restaurants,Double Dragon Chinese Restaurant,"Shop 64 Hub Shopping Cntr Hub Drv, Aberfoyle Park SA 5159",-35.06632,138.59643,,,,http://www.doubledragonrestaurant.com.au,4,1
+166,"Hyde Park, SA",restaurants,Assaggio Ristorante,"92- 94 King William Rd, Hyde Park SA 5061",-34.95175,138.59953,,,,http://www.assaggio.com.au,4.5,7
+167,"Adelaide, SA",restaurants,Manna Caffe,"12 Waymouth St, Adelaide SA 5000",-34.92559,138.5991,,,,http://www.mannacaffe.com,3,1
+168,"Coromandel Valley, SA",restaurants,Weinstadl Restaurant,"446 Main Rd, Coromandel Valley SA 5051",-35.05303,138.61954,,,,http://www.weinstadl.com,3,1
+169,"Glenside, SA",restaurants,bistrofrance,"Shop 10, The Boulevarde 374 Greenhill Rd, Glenside SA 5065",-34.93973,138.64146,,,,http://www.bistrofrance.com.au,4.5,4
+170,"Glenelg, SA",restaurants,The Promenade Restaurant,"Moseley Sq, Glenelg SA 5045",-34.980735,138.511403,,,,http://www.stamford.com.au,4,1
+171,"Adelaide, SA",restaurants,Jolleys Boathouse Restaurant,"Jolleys La, Adelaide SA 5000",-34.916849,138.599598,,,,http://www.jolleysboathouse.com,3.5,8
+172,"McLaren Vale, SA",restaurants,dArrys Verandah Restaurant at dArenberg Cellar Door,"Osborn Rd, McLaren Vale SA 5171",-35.198164,138.548393,,,,http://www.darenberg.com.au,5,6
+173,"Salisbury, SA",restaurants,Tandoori Temptations,"Shop 6B Cinema 8 Complex, Salisbury SA 5108",-34.765854,138.623962,,,,http://www.tandooritemptations.com.au,4,1
+174,"Adelaide, SA",restaurants,GILBERT STREET HOTEL,"88 GILBERT St, Adelaide SA 5000",-34.93423,138.59708,,,,http://www.gilbertsthotel.com.au,4,7
+175,"Tranmere, SA",restaurants,Decorsos,"28A 28 Reid Ave, Tranmere SA 5073",-34.897622,138.660072,,,adecorso@bigpond.net.au,http://www.decorsos.com.au,0,0
+176,"Adelaide, SA",restaurants,Amalfi Pizzeria Ristorante,"29 Frome St, Adelaide SA 5000",-34.92223,138.60767,,,,http://www.amalfipizzeria.com.au/,4.5,11
+177,"Hyde Park, SA",restaurants,Thailand Thai Restaurant,"5/ 100 King William Rd, Hyde Park SA 5061",-34.95222,138.59989,Authentic Thai Cuisine,,,,0,0
+178,"Mt Gambier, SA",restaurants,Barn Steakhouse The,Mt Gambier SA 5290,-37.82536,140.78223,,,,http://www.barn.com.au,0,0
+179,"Adelaide, SA",restaurants,Mothers Crepe,"69 Grote St, Adelaide SA 5000",-34.92,138.59,,,,http://www.motherscrepe.com.au,4.5,5
+180,"Gilles Plains, SA",restaurants,Fasta Pasta,"511 North East Rd, Gilles Plains SA 5086",-34.857313,138.654653,,,,http://www.fastapasta.com.au,2.5,3
+181,"Adelaide, SA",restaurants,The Promethean,"116 Grote St, Adelaide SA 5000",-34.928595,138.594906,,,,http://www.theprom.com.au,4,6
+182,"Bedford Park, SA",restaurants,Kwik Stix,"Cnr Main South Road And Flinders Dr, Bedford Park SA 5042",-35.01,138.56,,,,http://www.kwikstix.com.au,3.5,7
+183,"Angaston, SA",restaurants,Angaston Roaring 40s Cafe,"30 Murray St, Angaston SA 5353",-34.500716,139.04899,,,,http://www.40scafe.com.au,5,2
+184,"Glynde, SA",restaurants,La Casa Del Formaggio,"35 Sunbeam Rd, Glynde SA 5070",-34.895674,138.653056,,,,http://www.lacasa.com,4,2
+185,"Greenock, SA",restaurants,Kalleske Wines,"6 Murray St, Greenock SA 5360",-34.456932,138.927741,,,,http://www.kalleske.com,4,1
+186,"North Adelaide, SA",restaurants,Legacy Of India North Adelaide,"116 O'Connell St, North Adelaide SA 5006",-34.905382,138.595956,,,,http://www.eatout-adelaide.com.au/Adelaide-City-Surrounds/North-Adelaide/Restaurants/Legacy-of-India-North-Adelaide.html,3.3,3
+187,"Adelaide, SA",restaurants,TGs Restaurant,"150 North Tce, Adelaide SA 5000",-34.92204,138.59848,,,,http://www.stamford.com.au,4,1
+188,"Whyalla, SA",restaurants,Watersedge Restaurant,"Watson Tce, Whyalla SA 5600",-33.0391886,137.584697,,,,http://www.whyallaforeshore.com.au,0,0
+189,"Warooka, SA",restaurants,Warooka Hotel Motel,"Main St, Warooka SA 5577",-34.99054821,137.4009516,,,,http://www.warookahotel.com.au,3,1
+190,"Robe, SA",restaurants,Dons Kitchen,"6 Bagot St, Robe SA 5276",-37.163177,139.756078,,,,http://www.donskitchen.weebly.com,0,0
+191,"Holden Hill, SA",restaurants,Orientai,"744 North East Rd, Holden Hill SA 5088",-34.845892,138.670923,,,,http://www.orientai.com.au,3.5,5
+192,"Glenelg, SA",restaurants,Seasons at the BAY,"750 Anzac Hwy, Glenelg SA 5045",-34.977009,138.514388,,,,http://www.seasonsatthebay.com.au/,4,1
+193,"Adelaide, SA",restaurants,Rickshaws Restaurant,"150 North Tce, Adelaide SA 5000",-34.92204,138.59848,,,,http://www.stamford.com.au,3.5,2
+194,"McLaren Vale, SA",restaurants,Market 190,"190 Main Rd, McLaren Vale SA 5171",-35.215,138.53819,,,info@bracegirdles.com.au,http://www.market190.com.au,0,0
+195,"Semaphore, SA",restaurants,Palais Hotel,"The Esp, Semaphore SA 5019",-34.838264,138.480525,,,,http://www.palais.com.au,4,6
+196,"Ridgehaven, SA",restaurants,Saffron Indian Restaurant,"Shop 5, Pelican Plaza 1007 North East Rd, Ridgehaven SA 5097",-34.82712,138.69438,,,,http://www.saffronadelaide.com.au,5,1
+197,"Para Hills, SA",restaurants,Somerset Hotel,"505 Bridge Rd, Para Hills SA 5096",-34.8004,138.65564,,,,http://www.somersethotel.com.au,3,1
+198,"Brooklyn Park, SA",restaurants,Vietnam Sunrise,"Shop 2/ 285 Henley Beach Rd, Brooklyn Park SA 5032",-34.925289,138.549362,,,,http://www.vietnamsunrise.com.au,3.5,3
+199,"Campbelltown, SA",restaurants,Assaggio Cafe,"84 Newton Rd, Campbelltown SA 5074",-34.878912,138.673267,,,,http://www.assagio.com.au,3.5,6
+200,"Hendon, SA",restaurants,Scheffs Kitchens  Cabinets,"93 Tapleys Hill Rd, Hendon SA 5014",-34.87463,138.51284,,,scheffs@bigpond.com,http://www.scheffskitchens.com.au,0,0
+201,"Flinders Park, SA",restaurants,Angkor Thai Restaurant,"194b Grange Rd, Flinders Park SA 5025",-34.90512,138.54597,,,,http://www.angkorthai.com.au,0,0
+202,"Adelaide, SA",restaurants,Botanic Gardens Restaurant,"Plane Tree Dr, Adelaide SA 5000",-34.91590153,138.6104418,,,,http://www.botanicgardensrestaurant.com.au,0,0
+203,"Tranmere, SA",restaurants,Barnacle Bill,"190 Glynburn Rd, Tranmere SA 5073",-34.90367,138.65788,,,,http://www.barnaclebill.com.au,0,0
+204,"Glenelg, SA",restaurants,Capriccio Italian Restaurant,"10 Sussex St, Glenelg SA 5045",-34.97946,138.51408,,,,http://www.capricciorestaurant.com.au,0,0
+205,"Queenstown, SA",restaurants,Chada Thai Cuisine,"Shp2/ 2 Webb St, Queenstown SA 5014",-34.859163,138.503604,,,,http://menus.grubfinder.com.au/sites/default/files/ChadaThaiCuisine.pdf#zoom=100,0,0
+206,"West Lakes, SA",restaurants,Brunelli Westlakes,"Shop 308/ 111 Brebner Drv, West Lakes SA 5021",-34.882735,138.489601,,,,http://www.cafebrunelli.com.au,0,0
+207,"Mt Compass, SA",restaurants,Fleurieu Golf Course,Mt Compass SA 5210,-35.351128,138.611218,,,,http://www.fleurieugolfcourse.com.au,0,0
+208,"Moonta Bay, SA",restaurants,Seagate Moonta Bay,"171 Bay Rd, Moonta Bay SA 5558",-34.05516,137.56166,,,,http://www.seagatemoontabay.com.au,0,0
+209,"Truro, SA",restaurants,Truro Weighbridge Motel Licensed Restaurant,"45 Moorundie St, Truro SA 5356",-34.409669,139.128616,,,,http://www.weighbridgemotel.com.au,0,0
+210,"Adelaide, SA",restaurants,Un Caffe,"11 Waymouth St, Adelaide SA 5000",-34.926173,138.598856,,,,http://www.uncaffe.com,0,0
+211,"Bolivar, SA",restaurants,SOUTHERN GO KART CLUB,"Summer Rd, Bolivar SA 5110",-34.7542,138.5869,,,,http://www.southernskc.asn.au,0,0
+212,"Springton, SA",restaurants,Peter Seppelt Wines,"R.dewells Rd, Springton SA 5235",-34.7105,139.0937,,,,http://www.peterseppeltwines.com.au,0,0
+213,"Melrose Park, SA",restaurants,African Soul,"128 Richmond Ave, Melrose Park SA 5039",-34.981803,138.578997,,,,http://www.africansoul.com.au/content/,0,0
+214,"McLaren Vale, SA",restaurants,Angove Family Winemakers McLaren Vale Cellar Door,"117 Chalkhill Rd, McLaren Vale SA 5171",-35.209022,138.542933,,,,http://www.angove.com.au,0,0
+215,"Adelaide, SA",restaurants,North Terrace Skycity,"Station Rd, Adelaide SA 5000",-34.92,138.59,,,,http://www.adelaidecasino.com.au,0,0
+216,"Ascot Park, SA",restaurants,Little Chilli Padi,"Shop 3 645 Marion Rd, Ascot Park SA 5043",-34.98,138.55,,,,http://www.littlechillipadi.com.au/,0,0
+217,"Mt Gambier, SA",restaurants,The Gates At Southgate,"175 Commercial St, Mt Gambier SA 5290",-37.82,140.77,,,,http://www.southgatemotel.com.au/,0,0
+218,"Kensington Park, SA",restaurants,Pho Nam,"267 Kensington Rd, Kensington Park SA 5068",-34.926169,138.651126,,,,http://www.phonam.com.au,0,0
+219,"McLaren Vale, SA",restaurants,Tintara Cellar Door,"Main Rd, McLaren Vale SA 5171",-35.218256,138.542817,,,,http://www.tintara.com.au,0,0
+220,"Murray Bridge, SA",restaurants,Swanport Hotel,"Jervois Rd, Murray Bridge SA 5253",-35.16432453,139.2946966,,,,http://www.dundeeshotel.com.au,0,0
+221,"Adelaide, SA",restaurants,Chennai Palace,"85 Moonta St, Adelaide SA 5000",-34.93,138.59,,,,http://www.chennaipalace.com.au,0,0
+222,"North Adelaide, SA",restaurants,Amarin Thai Restaurant,"108 Tynte St, North Adelaide SA 5006",-34.905567,138.596413,,,,http://www.theamarinthai.com.au,0,0
+223,"Tanunda, SA",restaurants,Barossa Basketball,"Magnolia St, Tanunda SA 5352",-34.518642,138.979381,,,,http://www.barossa.basketball.net.au,0,0
+224,"Welland, SA",restaurants,Sushi Train Australia,"25/ 522 Port Rd, Welland SA 5007",-34.895579,138.557013,,,,http://www.sushitrain.com.au,0,0
+225,"McLaren Vale, SA",restaurants,Maximus Wines,"Foggo Rd, McLaren Vale SA 5171",-35.202571,138.567991,,,,http://www.maximuswinesaustralia.com.au,0,0
+226,"Torrensville, SA",restaurants,Highway Meat,"16 Howie Ave, Torrensville SA 5031",-34.924183,138.559683,,,,http://www.highwaymeat.com,0,0
+227,"Williamstown, SA",restaurants,Barossa Ranges Vineyards,"250 Springton Rd, Williamstown SA 5351",-34.672361,138.925718,,,,http://www.barossarangesvineyards.com.au,0,0
+228,"Allenby Gardens, SA",restaurants,Cafe 540,"540 Port Rd, Allenby Gardens SA 5009",-34.895232,138.55592,,,,http://www.tavern540.com.au,0,0
+229,"Balhannah, SA",restaurants,Shaw  Smith Wines,"136 Jones Rd, Balhannah SA 5242",-35.007241,138.826106,,,,http://www.shawandsmith.com,0,0
+230,"Yahl, SA",restaurants,Caroline Hills,"Norman Rd, Yahl SA 5291",-37.8721,140.8306,,,,http://www.carolinehills.com.au,0,0
+231,"Stepney, SA",restaurants,Villa Mondo Pty Ltd,"49 Henry St, Stepney SA 5069",-34.91312,138.628998,,,,http://www.villamondo.com,0,0
+232,"Kent Town, SA",restaurants,Tap Inn,"76 Rundle St, Kent Town SA 5067",-34.920024,138.620474,,,,http://www.tapinn.com.au,0,0
+233,"Parndana, SA",restaurants,Marron Cafe,"Harriet Rd, Parndana SA 5220",-35.78,137.25,,,,http://www.andermel.com,0,0
+234,"Adelaide, SA",restaurants,North Restaurant,"Station Rd, Adelaide SA 5000",-34.92,138.59,,,,http://www.adelaidecasino.com.au,0,0
+235,"Welland, SA",restaurants,YUMMY SNACK FOODS,"110 Frederick St, Welland SA 5007",-34.906431,138.557474,,,,http://www.yummysnackco.com.au,0,0
+236,"Adelaide, SA",restaurants,Red Salt Restaurant,"16 Hindmarsh Sq, Adelaide SA 5000",-34.92,138.6,,,,http://www.crowneplaza.com.au/,0,0
+237,"Gumeracha, SA",restaurants,Chain Of Ponds Wines,"Main Rd, Gumeracha SA 5233",-35.059172,138.61909,,,,http://www.chainofponds.com.au,0,0
+238,"Adelaide, SA",restaurants,Ashoka Indian Cuisine,"171a Hutt St, Adelaide SA 5000",-34.931332,138.611886,,,,http://ashokaindiancuisine.com.au,0,0
+239,"Adelaide, SA",restaurants,Un Caffe,"1 King William St, Adelaide SA 5000",-34.921982,138.599075,,,,http://www.uncaffe.com,0,0
+240,"Whyalla Playford, SA",restaurants,Percys on Playford,"99 Playford Ave, Whyalla Playford SA 5600",-33.03,137.56,,,,http://www.alexandermotel.com.au,0,0
+241,"Hindmarsh, SA",restaurants,My Tho City Vietnamese Restaurant,"199 Port Rd, Hindmarsh SA 5007",-34.90448,138.57176,,,,http://www.mythocity.com.au,0,0
+242,"Parkside, SA",restaurants,Mondiali Cafe,"55 Unley Rd, Parkside SA 5063",-34.944611,138.607113,,,,http://www.mondiali.com.au,0,0
+243,"Adelaide, SA",restaurants,Assagio,"Stall 41 Adelaide Central Market. Gouger Street, Adelaide SA 5000",-35.00290813,117.8443358,,,,http://www.assagio.com.au,0,0
+244,"Norwood, SA",restaurants,Charminar Parade Indian Restaurant,"Shp 1/ 136 The Parade, Norwood SA 5067",-34.921757,138.633778,,,,http://www.charminar.com.au,0,0
+245,"Adelaide, SA",restaurants,Buenos Aires Argentinian Restaurant,"240 Hutt St, Adelaide SA 5000",-34.93339,138.61282,,,,http://www.buenosairesbrasserie.com.au,0,0
+246,"Hyde Park, SA",restaurants,Parisis Restaurant,"138 King William Rd, Hyde Park SA 5061",-34.95366,138.599759,,,,http://www.parisis.net.au,0,0
+247,"Littlehampton, SA",restaurants,Out Of The Pan,"82 North Tce, Littlehampton SA 5250",-35.04861,138.86525,,,,http://www.outofthepan.com.au,0,0
+248,"North Adelaide, SA",restaurants,Taj Mahal Authen Indian Cuisine,"116 O'connell St, North Adelaide SA 5006",-34.905382,138.595981,,,,http://www.tajmahal.net.au/,0,0
+249,"Mt Compass, SA",restaurants,The Eagles Nest,"George Francis Drv, Mt Compass SA 5210",-35.357504,138.608644,,,,http://www.fleurieugolfcourse.com.au,0,0
+250,"Mawson Lakes, SA",restaurants,Watershed Function Centre  Cafe The,"665 Salisbury Hwy, Mawson Lakes SA 5095",-34.805205,138.601623,,,,http://www.thewatershed.net.au,0,0
+251,"St Peters, SA",restaurants,Hello Dolly Lebanese Food  Catering,"Shp1a/ 103 Payneham Rd, St Peters SA 5069",-34.91024,138.62675,,,,http://www.hellodollylebanese.com.au,0,0
+252,"Adelaide, SA",restaurants,Taj Tandor Indian Restaurant,"242 Rundle St, Adelaide SA 5000",-34.922325,138.608588,,,,http://www.tajtandoor.com.au,0,0
+253,"Adelaide, SA",restaurants,Brasserie Restaurant,"233 Victoria Square,, Adelaide SA 5000",-34.92915,138.598687,,,,http://www.thebrasserie.com.au,0,0
+254,"Kingscote, SA",restaurants,The Kangaroo Island Seaside Inn,"7 Cygnet Rd, Kingscote SA 5223",-35.65964,137.63086,,,,http://www.kiseasideinn.com.au,0,0
+255,"Adelaide, SA",restaurants,Brasserie Restaurant,"233 Victoria Sq, Adelaide SA 5000",-34.92915,138.59869,,,,http://www.thebrasserie.com.au,0,0
+256,"Oaklands Park, SA",restaurants,Spargos,"Shop 2051 Level 2 Westfield Shoppingtown Marion, Oaklands Park SA 5046",-35.016287,138.545748,,,,http://www.spargos.net.au,0,0
+257,"Port Noarlunga, SA",restaurants,Harvest Of India,"24 Saltfleet St, Port Noarlunga SA 5167",-35.149164,138.470361,,,,http://www.harvestofindia.com.au,0,0
+258,"Mt Gambier, SA",restaurants,The Barn Steakhouse,Mt Gambier SA 5291,-37.7737,140.8272,,,,http://barn.com.au,0,0
+259,"Encounter Bay, SA",restaurants,Eat at Whalers,"121 Franklin Pde, Encounter Bay SA 5211",-35.586842,138.598739,,,,http://www.whalers.com.au,0,0
+260,"Unley, SA",restaurants,Ristorante Pinocchio,"50 Unley Rd, Unley SA 5061",-34.943724,138.606514,,,,http://www.pinocchioristorante.com.au,0,0
+261,"Kingswood, SA",restaurants,Australian Wine Centre The,"4 Truro Ave, Kingswood SA 5062",-34.974014,138.614709,,,,http://www.auswine.com.au,0,0
+262,"Murray Bridge, SA",restaurants,Murray Bridge Pizza House,"57 Bridge St, Murray Bridge SA 5253",-35.11919,139.27458,,,,http://www.murraybridgepizzahouse.com.au,0,0
+263,"Angle Vale, SA",restaurants,Cafe Bellavia,"2/ 34 Heaslip Rd, Angle Vale SA 5117",-34.645711,138.645119,,,,http://www.cafebellavia.com.au,0,0
+264,"Woodville South, SA",restaurants,Stonehouse Bar  Grill,"878 Port Rd, Woodville South SA 5011",-34.88064,138.53398,,,,http://www.woodvillehotel.com.au,0,0
+265,"Mt Lofty, SA",restaurants,Mount Lofty Summit Restaurant,"Mt Lofty Lookout Summit Rd, Mt Lofty SA 5152",-34.995533,138.705969,,,,http://www.mtloftysummit.com,0,0
+266,"Camden Park, SA",restaurants,Silks Bistro,"470 Anzac Hwy, Camden Park SA 5038",-34.97425,138.54017,,,,http://www.morphettvillejunction.com.au,0,0
+267,"McLaren Vale, SA",restaurants,Pennys Hill and Mr Riggs Cellars,"281 Main Rd, McLaren Vale SA 5171",-35.246342,138.550514,,,,http://www.pennyshill.com.au,0,0
+268,"Oaklands Park, SA",restaurants,TGI Fridays Marion,"Westfield Marion, Level 2, Shop 2051A, 297 Diagonal Rd, Oaklands Park SA 5046",-35.015947,138.546143,,,,http://www.tgifridays.com.au,0,0
+269,"Brompton, SA",restaurants,The Brompton,"5 First St, Brompton SA 5007",-34.90255,138.572046,,,,http://www.thebrompton.com.au,0,0
+270,"Adelaide, SA",restaurants,Cafe One Two Nine,"129 North Tce, Adelaide SA 5000",-34.922,138.59695,,,,http://www.strath.com.au,0,0
+271,"Penola, SA",restaurants,Penola Fantasy Model Railway  Roses Tearoom,"38 Riddoch St, Penola SA 5277",-37.380457,140.836431,,,,http://www.penolafantasymodelrailway.com,0,0
+272,"Tanunda, SA",restaurants,Grant Burge Wines Pty Ltd,"Krondorf Rd, Tanunda SA 5352",-34.55322,138.951597,,,,http://www.grantburgewines.com.au,0,0
+273,Restaurants,restaurants,Victorias Kitchen,"Krondorf Rd, Tanunda SA 5352",-34.55322,138.951597,,,,http://www.victoriaskitchen.com.au,0,0
+274,"Clarence Gardens, SA",restaurants,PARMALAT FOOD PRODUCTS PTY LTD,"154 Caulfield Ave, Clarence Gardens SA 5039",-34.977253,138.575019,,,,http://www.parmalat.com.au,0,0
+275,"McLaren Vale, SA",restaurants,PENNYS HILL THE KITCHEN DOOR RESTAURANT,"281 Main Rd, McLaren Vale SA 5171",-35.246342,138.550514,,,,http://www.pennyshill.com.au,0,0
+276,"Mt Compass, SA",restaurants,Mountain Fresh Fruit Juices,"Nangkita Rd, Mt Compass SA 5210",-35.36672,138.731353,,,,http://www.mountainfreshfruitjuices.com.au,0,0
+277,"Gepps Cross, SA",restaurants,SEKISUI Rib Loc Australia Pty Ltd,"587 Grand Junction Rd, Gepps Cross SA 5094",-34.847489,138.593622,,,,http://www.sekisuispr.com.au,0,0
+278,"Oakbank, SA",restaurants,Oakbank Pizza Bar  Cafe,"229 Onkaparinga Valley Rd, Oakbank SA 5243",-34.983075,138.844406,,,,http://www.oakbankpizzabar.com.au,0,0
+279,"Oakbank, SA",restaurants,Oakbank Racing Club Incorporated,"Oakwood Rd, Oakbank SA 5243",-34.974183,138.825441,,,,http://www.oakbankracingclub.com.au,0,0
+280,"Nuriootpa, SA",restaurants,Beer  Beer Food Distributors,"Samuel Rd, Nuriootpa SA 5355",-34.480551,138.971956,,,,http://www.barossafarmproduce.com,0,0
+281,"Gawler, SA",restaurants,Southern Hotel,"23 Murray St, Gawler SA 5118",-34.602747,138.749749,,,,http://www.thesouthernhotel.com.au,0,0
+282,"Sellicks Hill, SA",restaurants,RockyRidge Vineyard,"468 Plains Rd, Sellicks Hill SA 5174",-35.31083,138.486318,,,,http://www.rockyridgevineyard.com.au,0,0
+283,"Kilkenny, SA",restaurants,Nardone Baker Wines Pty Ltd,"10 Gray St, Kilkenny SA 5009",-34.87425,138.552648,,,,http://www.nardonebaker.com,0,0
+284,"Tanunda, SA",restaurants,Glaetzer Wines,"Gomersal Rd, Tanunda SA 5352",-34.536412,138.935289,,,,http://www.glaetzer.com,0,0
+285,"Springton, SA",restaurants,Grand Cru Wood Oven Restaurant,"R.dewells Rd, Springton SA 5235",-34.7105,139.0937,,,,http://www.peterseppeltwines.com.au,0,0
+286,"Blakeview, SA",restaurants,Fasta Pasta,"88 Main Tce, Blakeview SA 5114",-34.680026,138.704381,,,,http://www.fastapasta.com.au,0,0
+287,"Murray Bridge, SA",restaurants,Fasta Pasta,"23 South Tce, Murray Bridge SA 5253",-35.119084,139.27795,,,,http://www.fastapasta.com.au,0,0
+288,"Dudley Park, SA",restaurants,Coonalpyn Olives,"7 Cord St, Dudley Park SA 5008",-34.881293,138.578699,,,,http://www.coonalpynolives.com.au,0,0
+289,"Fulham, SA",restaurants,Lockleys Hotel,"493 Henley Beach Rd, Fulham SA 5024",-34.92677,138.51892,,,,,5,1
+290,"Hindmarsh, SA",restaurants,Enzos Ristorante,"46 Port Rd, Hindmarsh SA 5007",-34.90327,138.56792,,,,,4.5,5
+291,"Magill, SA",restaurants,Sorelle Restaurant,"613 Magill Rd, Magill SA 5072",-34.912775,138.675449,,,,,4,4
+292,"Hahndorf, SA",restaurants,Mustard Seed Restaurant,"17 Main St, Hahndorf SA 5245",-35.032567,138.811793,,,,,5,4
+293,"Torrensville, SA",restaurants,Silk  Spice Thai Restaurant,"211 Henley Beach Rd, Torrensville SA 5031",-34.92464,138.55774,,,,,4,4
+294,"Bedford Park, SA",restaurants,Yum Sing Express Bedford Park,"1379 South Rd, Bedford Park SA 5042",-35.01528,138.57084,,,,,3.5,2
+295,"Adelaide, SA",restaurants,Culshaws Restaurant,"55 Frome St, Adelaide SA 5000",-34.92307,138.607969,,,,,4.5,3
+296,"Adelaide, SA",restaurants,House Of Chow Restaurant,"82 Hutt St, Adelaide SA 5000",-34.92835,138.6124,,,,,3,5
+297,"Glenelg, SA",restaurants,Lungomare Caffe,"1 Colley Tce, Glenelg SA 5045",-34.980112,138.512729,,,,,0,0
+298,"Surrey Downs, SA",restaurants,Golden Grove Tavern,"Cnr Golden Grove & Grenfell Rds,, Surrey Downs SA 5126",-34.806255,138.700444,,,,,3.5,3
+299,"Keith, SA",restaurants,Keith Hotel Motel,"2 Makin St, Keith SA 5267",-36.09899,140.35307,,,,,1,1
+300,"Penola, SA",restaurants,Penola Station Restaurant,"48 Church St, Penola SA 5277",-37.378584,140.836638,,,,,4,1
+301,"Adelaide, SA",restaurants,Adelaide Casino,"North Tce, Adelaide SA 5000",-34.92117,138.596357,,,,,3.4,12
+302,"Hazelwood Park, SA",restaurants,Samui Thai,"548 Greenhill Rd, Hazelwood Park SA 5066",-34.93856,138.6598,,,mintland@hotmail.com,,3.5,2
+303,"Plympton, SA",restaurants,MITRAN DA DHABA,"287 Anzac Hwy, Plympton SA 5038",-34.96,138.55,,,mitrandadhaba@gmail.com,,5,1
+304,"Campbelltown, SA",restaurants,Wood Oven Gourmet Pizza,"Shop 6 36 Hambledon Rd, Campbelltown SA 5074",-34.87,138.66,,,woodovengourmetpizza@hotmail.com,,5,2
+305,"Adelaide, SA",restaurants,Rigonis Bistro,"27 Leigh St, Adelaide SA 5000",-34.92398,138.59763,,,,,4.5,10
+306,"Adelaide, SA",restaurants,Colonel Light Hotel,"141 Currie St, Adelaide SA 5000",-34.92502,138.59267,,,colonellighthotel@bigpond.com,,2.5,2
+307,"Mt Gambier, SA",restaurants,Jens Town Hall Hotel,"40 Commercial St East, Mt Gambier SA 5290",-37.827394,140.779114,,,jenshotel@rollisongroup.com.au,,3,1
+308,"Murray Bridge, SA",restaurants,Murray Bridge Hotel,"20 Sixth St, Murray Bridge SA 5253",-35.118,139.27568,,,mbhotel@lm.net.aumbhotel@lm.net.au,,3.5,2
+309,"Adelaide, SA",restaurants,Ga Bin Restaurant,"144 Grote St, Adelaide SA 5000",-34.92873,138.593573,,,power910@hotmail.com,,4,4
+310,"Norwood, SA",restaurants,Grace The Establishment,"127 The Parade, Norwood SA 5067",-34.920929,138.63363,,,vicky@trimhospitalitygroup.com.au,,3.5,9
+311,"Stepney, SA",restaurants,Sagarmatha Nepali Restaurant,"62- 64 Payneham Rd, Stepney SA 5069",-34.91198,138.62618,,,,,3.5,5
+312,"Newton, SA",restaurants,Rezz,"20 Hamilton Tce, Newton SA 5074",-34.87632,138.69056,,,,,4,4
+313,"Norwood, SA",restaurants,Fortuna Court Chinese Restaurant,"217 The Parade St, Norwood SA 5067",-34.9207,138.63905,,,,,3.5,7
+314,"Norwood, SA",restaurants,Manto Cafe,"194 The Pde, Norwood SA 5067",-34.9214,138.63638,,,,,3,3
+315,"Mt Gambier, SA",restaurants,Banana Tree Cafe  Terrace,"53 Gray St, Mt Gambier SA 5290",-37.830588,140.785475,,,,,0,0
+316,"North Adelaide, SA",restaurants,Himalayan Kitchen,"73 Melbourne St, North Adelaide SA 5006",-34.90606,138.60865,,,,,4.5,3
+317,"Linden Park, SA",restaurants,East Asian Bistro,"cnr Greenhill Rd & Devereux Rd, Linden Park SA 5065",-34.93914,138.65113,,,,,0,0
+318,"Parafield Gardens, SA",restaurants,Parafield Gardens Community Club Inc,"65 Shepherdson Rd, Parafield Gardens SA 5107",-34.78312,138.6116,,,,,0,0
+319,"Port Pirie, SA",restaurants,Travelway Motel  Licensed Restaurant,"149 Gertrude St, Port Pirie SA 5540",-33.181027,138.009036,,,,,0,0
+320,"Port Lincoln, SA",restaurants,Ming Inn Chinese Restaurant,"3 King St, Port Lincoln SA 5606",-34.72192,135.86351,,,,,0,0
+321,"Virginia, SA",restaurants,Donchos Cafe Restaurant,"Gawler Rd, Virginia SA 5120",-34.665866,138.560627,,,,,0,0
+322,"Ridgehaven, SA",restaurants,Simply Thai,"1019 North East Rd, Ridgehaven SA 5097",-34.82731,138.69596,,,,,3.5,2
+323,"Ingle Farm, SA",restaurants,Cafe Numero Uno,"Cnr Walkleys & Montague Rds, Ingle Farm SA 5098",-34.827362,138.646467,,,,,0,0
+324,"West Lakes Shore, SA",restaurants,Golden Lakes Chinese Family Restaurant,"Shop 8 Cnr Bartley&Fairford Tce, West Lakes Shore SA 5020",-34.86298459,138.4866656,,,,,3,1
+325,"St Morris, SA",restaurants,Platia The Restaurant,"419 Magill Rd, St Morris SA 5068",-34.91373,138.65457,,,,,4,3
+326,"Adelaide, SA",restaurants,Thea Tea Shop,"110-112 Gawler Pl, Adelaide SA 5000",-34.9255,138.60207,,,,,4,8
+327,"North Adelaide, SA",restaurants,Red Ochre Grill,"War Memorial Drv, North Adelaide SA 5006",-34.911132,138.60649,,,,,4.5,4
+328,"Adelaide, SA",restaurants,Corner Bistrot The,"7/13 Leigh St, Adelaide SA 5000",-34.92353,138.59759,,,,,3.5,4
+329,"Moonta Bay, SA",restaurants,Moonta Bay Patio Motel  Restaurant The,"196 Bay Rd, Moonta Bay SA 5558",-34.05465,137.56352,,,,,5,1
+330,"Modbury, SA",restaurants,Caffe Buongiorno Tea Tree Plus,"Shop 18/ 1020 North East Rd, Modbury SA 5092",-34.829674,138.693025,,,,,3,6
+331,"Adelaide, SA",restaurants,Rundle Spices Noodle Bar  Restaurant,"278a Rundle St, Adelaide SA 5000",-34.92229,138.60978,,,,,3,6
+332,"Strathalbyn, SA",restaurants,Victoria Hotel,"16 Albyn Tce, Strathalbyn SA 5255",-35.25952,138.89117,,,,,0,0
+333,"McLaren Vale, SA",restaurants,Redgum Restaurant,"220 Main Rd, McLaren Vale SA 5171",-35.21253,138.53486,,,,,2,1
+334,"Adelaide, SA",restaurants,Jahz Restaurant,"10 Vaughan Pl, Adelaide SA 5000",-34.922016,138.609132,,,,,2,1
+335,"Whyalla, SA",restaurants,Sundowner Motel Hotel,"Lincoln Hwy, Whyalla SA 5600",-33.08339649,137.3778644,,,,,0,0
+336,"Port Augusta, SA",restaurants,Barnacle Bill Family Seafood Restaurant,"60 Victoria Pde, Port Augusta SA 5700",-32.50065,137.77877,,,,,0,0
+337,"Adelaide, SA",restaurants,Andres Cucina  Polenta Bar,"94 Frome St, Adelaide SA 5000",-34.924368,138.608053,,,,,4,13
+338,"Woodville, SA",restaurants,Enjoy Inn,"61 Woodville Rd, Woodville SA 5011",-34.8785,138.53694,,,,,0,0
+339,"Adelaide, SA",restaurants,Thai In A Wok,"33 Hindmarsh Sq, Adelaide SA 5000",-34.92441,138.605002,,,,,3,1
+340,"Rostrevor, SA",restaurants,Genghis Khan Mongolian BBQ Restaurant,"264 Montacute Rd, Rostrevor SA 5073",-34.888207,138.688266,,,,,4,3
+341,"Sturt, SA",restaurants,Fresh Choice Restaurant,"373 Diagonal Rd, Sturt SA 5047",-35.022977,138.550655,,,,,4,1
+342,"Adelaide, SA",restaurants,Pondok Bali Restaurant,"310 Pulteney St, Adelaide SA 5000",-34.93086,138.606197,,,,,4,5
+343,"Surrey Downs, SA",restaurants,Golden Grove Tavern,"Golden Grove Rd, Surrey Downs SA 5126",-34.80604,138.701127,,,,,3.5,3
+344,"Adelaide, SA",restaurants,Pauls Seafood On Gouger,"79 Gouger St, Adelaide SA 5000",-34.9303,138.59634,,,,,4,5
+345,"Blair Athol, SA",restaurants,Pizza Patrol,"488 Main North Rd, Blair Athol SA 5084",-34.8528,138.60013,,,,,3.5,2
+346,"Adelaide, SA",restaurants,Benjamin On Franklin Hotel,"233 Franklin St, Adelaide SA 5000",-34.92792,138.59039,,,,,4,14
+347,"Reynella, SA",restaurants,Yum Sing Restaurant,"159 Old South Rd, Reynella SA 5161",-35.0938,138.53888,,,,,3.5,2
+348,"Glenelg, SA",restaurants,Indochine Noodle Bar  Restaurant,"108 Jetty Rd, Glenelg SA 5045",-34.98053,138.51621,,,,,2.5,5
+349,"Collinswood, SA",restaurants,Hampstead Hotel,"143 North East Rd, Collinswood SA 5081",-34.88427,138.61956,,,,,3,4
+350,"Port Pirie, SA",restaurants,Port Pirie Chinese Restaurant,"34 Main Rd, Port Pirie SA 5540",-33.18324,138.01678,,,,,0,0
+351,"Port Pirie, SA",restaurants,Toledo Three Plenties Palace Chinese Restaurant,"48 Florence St, Port Pirie SA 5540",-33.17619,138.00792,,,,,0,0
+352,"Normanville, SA",restaurants,Min Palace Chinese  Thai Restaurant,"Normanville Plaza, Shop 6, Andrew Ave, Normanville SA 5204",-35.44683706,138.3184942,,,,,0,0
+353,"Whyalla Norrie, SA",restaurants,Lam Inn Chinese Restaurant,"167 Jenkins Ave, Whyalla Norrie SA 5608",-33.01557,137.53492,,,,,0,0
+354,"Glenelg, SA",restaurants,Yakumi Contemporary Japanese Cuisine,"109a Jetty Rd, Glenelg SA 5045",-34.97988,138.51858,,,,,4.5,2
+355,"North Adelaide, SA",restaurants,British Hotel,"58 Finniss St, North Adelaide SA 5006",-34.909762,138.604839,,,,,4,5
+356,"Adelaide, SA",restaurants,OSushi OBento,"61 Grote St, Adelaide SA 5000",-34.929617,138.59655,,,,,4,2
+357,"Adelaide, SA",restaurants,Miss Mai Vietnamese Eatery,"9a James Pl, Adelaide SA 5000",-34.92,138.6,,,,,4,8
+358,"Adelaide, SA",restaurants,Nanyang Cafe,"Rundle Mall, Adelaide SA 5000",-34.92,138.6,,,,,4,5
+359,"Adelaide, SA",restaurants,Press Food  Wine,"40 Waymouth St, Adelaide SA 5000",-34.925481,138.598019,,,,,4.5,15
+360,"Brooklyn Park, SA",restaurants,Viet Thai Restaurant,"427 Henley Beach Rd, Brooklyn Park SA 5032",-34.927608,138.535222,,,,,3.5,3
+361,"Taperoo, SA",restaurants,Chickaroo Chickens,"429 Victoria Rd, Taperoo SA 5017",-34.806449,138.500912,,,,,5,1
+362,"Adelaide, SA",restaurants,Gauchos,"91 Gouger St, Adelaide SA 5000",-34.9306,138.59587,,,,,4.5,17
+363,"Semaphore, SA",restaurants,Charmers Cupcakery  Teahouse,"67 Semaphore Rd, Semaphore SA 5019",-34.838497,138.485051,,,,,4,10
+364,"Darlington, SA",restaurants,Flagstaff Hotel,"1497 South Rd, Darlington SA 5047",-35.027059,138.558887,,,,,2.5,4
+365,"St Clair, SA",restaurants,Dhana Latchmi Gourmet Indian Cuisine,"Shop 2/ 40 Cheltenham Pde, St Clair SA 5011",-34.869705,138.529776,,,,,4,1
+366,"Oaklands Park, SA",restaurants,Elly Cafe,"297 Diagonal Rd, Oaklands Park SA 5046",-35.015947,138.546143,,,,,2,1
+367,"Regency Park, SA",restaurants,Sunnybrae Function Centre,"1 Naweena Rd, Regency Park SA 5942",-34.863229,138.574269,,,,,3.5,2
+368,"Glenelg, SA",restaurants,Hogs Breath Cafe,"32 Jetty Rd, Glenelg SA 5045",-34.980227,138.515604,,,,,4,4
+369,"Frewville, SA",restaurants,Singapore House,"203 Glen Osmond Rd, Frewville SA 5063",-34.947958,138.628576,,,,,3.5,7
+370,"Adelaide, SA",restaurants,Ajisen Ramen,"Shp35 101 Rundle Mall, Adelaide SA 5000",-34.923148,138.603486,,,,,3.5,2
+371,"Port Adelaide, SA",restaurants,Argo Hellenic Cafe Restaurant,"45 Commercial Rd, Port Adelaide SA 5015",-34.84373,138.505474,,,,,4.5,3
+372,"Adelaide, SA",restaurants,Essential Cafe,"26 Flinders St, Adelaide SA 5000",-34.926646,138.601568,,,,,3,1
+373,"Prospect, SA",restaurants,Cafe Komodo,"118 Prospect Rd, Prospect SA 5082",-34.886946,138.593658,,,,,4.5,8
+374,"Adelaide, SA",restaurants,Sushi In The City,"100 Gawler Pl, Adelaide SA 5000",-34.925011,138.602234,,,,,4,6
+375,"Unley, SA",restaurants,Vino Ristorante,"46 Unley Rd, Unley SA 5061",-34.943515,138.606499,,,,,4.5,3
+376,"Adelaide, SA",restaurants,Cafe Michael,"204 Rundle St, Adelaide SA 5000",-34.92236,138.60721,,,,,3.5,5
+377,"Belair, SA",restaurants,Windy Point Restaurants,"Windy Point Lookout, Belair Rd, Belair SA 5052",-35.000094,138.606879,,,,,4.6,7
+378,"Hallett Cove, SA",restaurants,Cafe Rimini Cove,"Shp 8/ 246 Lonsdale Hwy, Hallett Cove SA 5158",-35.077844,138.516555,,,,,4.2,5
+379,"Ceduna, SA",restaurants,Mozies Truckstop  Diner,"57 McKenzie St, Ceduna SA 5690",-32.12115,133.68726,,,,,4,1
+380,"Glenelg, SA",restaurants,Korean BBQ,"111 Jetty Rd, Glenelg SA 5045",-34.97988,138.5187,,,,,4,1
+381,"Mawson Lakes, SA",restaurants,Indochina Thai Restaurant,"Mawson Lakes Blv, Mawson Lakes SA 5095",-34.814866,138.620023,,,,,4,4
+382,"Adelaide, SA",restaurants,Sugar Cane Vietnamese Restaurant,"408 King William St, Adelaide SA 5000",-34.93458,138.60078,,,,,3,3
+383,"Adelaide, SA",restaurants,International Food Plaza,"Moonta St, Adelaide SA 5000",-34.929536,138.595855,,,,,3.5,3
+384,"Adelaide, SA",restaurants,Joy Discovery Cafe,"13 Bent St, Adelaide SA 5000",-34.92316,138.60755,,,,,3,6
+385,"Frewville, SA",restaurants,Fishermans Basket,"179 Glen Osmond Rd, Frewville SA 5063",-34.94726,138.62708,,,,,2.5,4
+386,"Adelaide, SA",restaurants,Mesa Lunga,"140 Gouger St, Adelaide SA 5000",-34.930413,138.59417,,,,,3.5,12
+387,"Adelaide, SA",restaurants,Mandoo,"Shp3/ 26 Bank St, Adelaide SA 5000",-34.922525,138.597743,,,,,4.5,8
+388,"Adelaide, SA",restaurants,Sugar Cane Vietnamese Restaurant,"408 King William Rd, Adelaide SA 5000",-34.93458,138.60078,,,,,3,3
+389,"Hahndorf, SA",restaurants,Bistro 25,"25 Main St, Hahndorf SA 5245",-35.032536,138.8117,,,,,4,3
+390,"Adelaide, SA",restaurants,Woks HappNing,"174a Hutt St, Adelaide SA 5000",-34.93135,138.61266,,,,,4.5,3
+391,"Adelaide, SA",restaurants,Alphutte Restaurant Pty Ltd,"242 Pulteney St, Adelaide SA 5000",-34.92855,138.60631,,,,,4.1,7
+392,"Glenelg, SA",restaurants,Simply Sushi,"108 Jetty Rd, Glenelg SA 5045",-34.98053,138.51621,,,,,4.5,10
+393,"Norwood, SA",restaurants,European Cafe,"219 The Parade St, Norwood SA 5067",-34.92064,138.63922,,,,,3.5,7
+394,"Adelaide, SA",restaurants,Enoteca,"262 Carrington St, Adelaide SA 5000",-34.93059,138.61016,,,,,4.5,3
+395,"Malvern, SA",restaurants,Paparazzi,"291 Unley Rd, Malvern SA 5061",-34.95929,138.60859,,,,,3.5,6
+396,"Adelaide, SA",restaurants,Eros Kafe,"275 Rundle St, Adelaide SA 5000",-34.92246,138.60976,,,,,3.5,6
+397,"Hahndorf, SA",restaurants,German Arms Hotel,"69 Main St, Hahndorf SA 5245",-35.028197,138.808599,,,,,3.5,8
+398,"Brighton, SA",restaurants,Fasta Pasta,"430 Brighton Rd, Brighton SA 5048",-35.01624,138.52324,,,,,4,2
+399,"West Lakes, SA",restaurants,Golden West Lakes Chinese Restaurant,"Shp 69/ 155 Brebner Drv, West Lakes SA 5021",-34.876803,138.490643,,,,,3,1
+400,"Adelaide, SA",restaurants,Culshaws Grill,"Ground Floor, Majestic Roof Garden Hotel, 55 Frome St,, Adelaide SA 5000",-34.92307,138.607969,,,,,4.5,3
+401,"Kilburn, SA",restaurants,Ghan Kebab House The,"366 Propsect Rd, Kilburn SA 5084",-34.862056,138.587151,,,,,4,2
+402,"Mt Gambier, SA",restaurants,South Eastern Hotel,"235 Commercial St East, Mt Gambier SA 5290",-37.833533,140.799336,,,,,0,0
+403,"Semaphore, SA",restaurants,Journey To Everest,"61 Semaphore Rd, Semaphore SA 5019",-34.838609,138.484557,,,,,4,1
+404,"Adelaide, SA",restaurants,Yiannis On Hindley,"270 Hindley St, Adelaide SA 5000",-34.923194,138.589396,,,,,3.5,4
+405,"Maylands, SA",restaurants,Maylands Hotel,"67 Phillis St, Maylands SA 5069",-34.91025,138.63753,,,,,3,5
+406,"Henley Beach, SA",restaurants,Bacchus Wine Bar,"Henley Square 253 The Esp, Henley Beach SA 5022",-34.91721,138.492981,,,,,4,8
+407,"Plympton, SA",restaurants,Barnacle Bill,"304 Anzac Hwy, Plympton SA 5038",-34.96546,138.55332,,,,,3.5,2
+408,"Adelaide, SA",restaurants,Hogs Breath Cafe,"127 Gouger St, Adelaide SA 5000",-34.93066,138.59463,,,,,3.5,7
+409,"McLaren Vale, SA",restaurants,Barn The,"Main Rd, McLaren Vale SA 5171",-35.244094,138.552136,,,,,4.5,2
+410,"Holden Hill, SA",restaurants,Hogs Breath Cafe,"550 Main North East Rd, Holden Hill SA 5088",-34.85629,138.65745,,,,,3,4
+411,"Glenelg, SA",restaurants,The Strand,"108 Jetty Rd, Glenelg SA 5045",-34.98053,138.51621,,,,,4,8
+412,"Adelaide, SA",restaurants,The Bean Bar,"1/ 117 King William St, Adelaide SA 5000",-34.92558,138.59935,,,,,4,1
+413,"Adelaide, SA",restaurants,Vego  LoveN It,"240 Rundle St, Adelaide SA 5000",-34.92231,138.60851,,,,,4.5,12
+414,"Adelaide, SA",restaurants,Brunswick The,"207 Gilbert St, Adelaide SA 5000",-34.93494,138.59244,,,,,3,3
+415,"Ingle Farm, SA",restaurants,Hong Kong Palace,"259 Montague Rd, Ingle Farm SA 5098",-34.82916,138.65106,,,,,4,1
+416,"Stirling, SA",restaurants,Asian Affair,"2 Druids Ave, Stirling SA 5152",-35.004814,138.715696,,,,,4,1
+417,"Toorak Gardens, SA",restaurants,Grimaldis,"375 Greenhill Rd, Toorak Gardens SA 5065",-34.93884,138.64153,,,,,4,6
+418,"Royston Park, SA",restaurants,Jade View Inn Chinese Restaurant,"297 Payneham Rd, Royston Park SA 5070",-34.90055,138.63505,,,,,3,1
+419,"Regency Park, SA",restaurants,Graduates Restaurant,"Days Rd, Regency Park SA 5010",-34.867525,138.565714,,,,,4,1
+420,"Hyde Park, SA",restaurants,Lars,"116a King William Rd, Hyde Park SA 5061",-34.95299,138.5996,,,,,2.5,3
+421,"Adelaide, SA",restaurants,The Corner Bistrot,"7/13 Leigh St, Adelaide SA 5000",-34.92353,138.59759,,,,,3.5,4
+422,"Glenelg, SA",restaurants,Lims Chinese Restaurant,"3 Partridge St, Glenelg SA 5045",-34.98061,138.5175,,,,,3.7,7
+423,"Goodwood, SA",restaurants,Cafe Luna Rosso,"128 King William Rd, Goodwood SA 5034",-34.95336,138.59998,,,,,4,3
+424,"Adelaide, SA",restaurants,Cafe Quisine,"U1/ 465 Pulteney St, Adelaide SA 5000",-34.9349,138.606458,,,,,3,1
+425,"Hallett Cove, SA",restaurants,Vietnam Bay Restaurant,"Shp T3a/ 6 Ramrod Ave, Hallett Cove SA 5158",-35.07789,138.516741,,,,,4,1
+426,"Kurralta Park, SA",restaurants,Goodine Bistro,"520 South Rd, Kurralta Park SA 5037",-34.9492,138.571586,,,,,4,1
+427,"Aberfoyle Park, SA",restaurants,Hub Fine Foods,"Shp5/ Hub Drv, Aberfoyle Park SA 5159",-35.07592891,138.5954406,,,,,4,2
+428,"Belair, SA",restaurants,Belair Bhavan Tandoori Indian Restaurant,"2 Main Rd, Belair SA 5052",-34.99813,138.622231,,,,,4,2
+429,"Adelaide, SA",restaurants,PAULS SEAFOOD ON GOUGER,"79 Gouger St, Adelaide SA 5000",-34.930527,138.596376,,,,,4,5
+430,"Kensington, SA",restaurants,The Rising Sun Inn,"60 Bridge St, Kensington SA 5068",-34.92501,138.64483,,,,,4.5,3
+431,"Adelaide, SA",restaurants,Malacca Corner Restaurant,"Victoria Square Shopping Centre Shop 9/ Gouger St, Adelaide SA 5000",-34.93044783,138.5935313,,,,,3,2
+432,"Adelaide, SA",restaurants,Pranzo,"46 Exchange Pl, Adelaide SA 5000",-34.925323,138.60051,,,,,4,6
+433,"Everard Park, SA",restaurants,KFC Restaurants,"16 Anzac Hwy, Everard Park SA 5035",-34.94985,138.57689,,,,,4.5,2
+434,"Firle, SA",restaurants,Fire  Stone PizzaTeca,"Shp2/ 139 Glynburn Rd, Firle SA 5070",-34.90149,138.65697,,,,,4,5
+435,"Holden Hill, SA",restaurants,Belmondo Ristorante,"Shop 7 Forum Village 1048 Grand Junction Rd, Holden Hill SA 5088",-34.84472,138.68045,,,,,4,1
+436,"Adelaide, SA",restaurants,Auge,"22 Grote St, Adelaide SA 5001",-34.92844,138.59822,,,,,4.5,3
+437,"Adelaide, SA",restaurants,Concubine,"132 Gouger St, Adelaide SA 5000",-34.93041,138.59428,,,,,4.5,10
+438,"Gilberton, SA",restaurants,Buckingham Arms Hotel,"1 Walkerville Tce, Gilberton SA 5081",-34.9012,138.60953,,,,,3,6
+439,"Smithfield, SA",restaurants,House Of The Red Dragon Restaurant,"Munno Para Shopping Centre 11 George McCullum Rd, Smithfield SA 5114",-34.68826,138.68837,,,,,4,1
+440,"Adelaide, SA",restaurants,The Greek On Halifax,"75 - 79 Halifax St, Adelaide SA 5000",-34.93305,138.60319,,,,,4,10
+441,"Norwood, SA",restaurants,Cafe Bravo,"140 The Parade, Norwood SA 5067",-34.92158,138.63409,,,,,3,13
+442,"Adelaide, SA",restaurants,Fresh Beef Noodle Soup,"3 California St, Adelaide SA 5000",-34.93019,138.596498,,,,,4,2
+443,"Brighton, SA",restaurants,Brighton Jetty Cafe,"85 Jetty Rd, Brighton SA 5048",-35.017427,138.514625,,,,,3,4
+444,"Kent Town, SA",restaurants,Tin Cat,"107 Rundle St, Kent Town SA 5067",-34.91877,138.62106,,,,,4.5,6
+445,"Marananga, SA",restaurants,Appellation Restaurant,"Seppeltsfield Rd, Marananga SA 5355",-34.48452019,138.9391822,,,,,4,4
+446,"Adelaide, SA",restaurants,Eros Ouzeri,"277 Rundle St, Adelaide SA 5000",-34.92246,138.60976,,,,,3.1,7
+447,"Adelaide, SA",restaurants,Cafe Kowloon,"116a Gouger St, Adelaide SA 5000",-34.93009,138.59506,,,,,3.5,10
+448,"Adelaide, SA",restaurants,The Cavern Adelaide,"136 North Tce, Adelaide SA 5000",-34.92202,138.59728,,,,,3,3
+449,"Adelaide, SA",restaurants,Wasai Japanese Kitchen,"Shop 1, 9-15 Field St, Adelaide SA 5000",-34.93083,138.59579,,,,,4.5,13
+450,"Hyde Park, SA",restaurants,Marrakech Restaurant,"66 King William Rd, Hyde Park SA 5061",-34.95,138.59948,,,,,5,1
+451,"Mt Gambier, SA",restaurants,The Barn Steakhouse,"Nelson Rd, Mt Gambier SA 5290",-37.838034,140.78891,,,,,4.5,3
+452,"Keith, SA",restaurants,Henry  Rose,"15 Heritage St, Keith SA 5267",-36.09888,140.35504,,,,,4,1
+453,"Adelaide, SA",restaurants,JoyDiscovery Vegetarian Cafe,"13 Bent St, Adelaide SA 5000",-34.92316,138.60755,,,,,3,6
+454,"McLaren Vale, SA",restaurants,The Barn,"252 Main Rd, McLaren Vale SA 5171",-35.21051,138.53179,,,,,4.5,2
+455,"Adelaide, SA",restaurants,Eros Greek Restaurant,"277 Rundle St, Adelaide SA 5000",-34.92246,138.60976,,,,,3,6
+456,"Blackwood, SA",restaurants,Barnacle Bill,"Shop 3 180 Main Rd, Blackwood SA 5051",-35.01454,138.61779,,,,,3,1
+457,"Norwood, SA",restaurants,Gusto Ristorante,"121 The Parade, Norwood SA 5067",-34.92085,138.63343,,,,,4,6
+458,"Adelaide, SA",restaurants,Gauchos Argentinean Restaurant,"91- 93 Gouger St, Adelaide SA 5000",-34.9306,138.59587,,,,,4.5,17
+459,"Millswood, SA",restaurants,Vietnam Gourmet Restaurant,"Shp1/ 167 Goodwood Rd, Millswood SA 5034",-34.95507,138.59028,,,,,3,1
+460,"Parkside, SA",restaurants,Puccinis Restaurant,"309 Fullarton Rd, Parkside SA 5063",-34.950231,138.624721,,,,,5,1
+461,"Woodville Gardens, SA",restaurants,Hoang Gia Restaurant,"16 Hanson Rd, Woodville Gardens SA 5012",-34.87216,138.54849,,,,,4.5,2
+462,"Prospect, SA",restaurants,Rose Garden Thai Restaurant,"125 Churchill Rd, Prospect SA 5082",-34.88667,138.58532,,,,,4.5,7
+463,"St Morris, SA",restaurants,Happy Corner Chinese Restaurant,"441 Magill Rd, St Morris SA 5068",-34.91359,138.65716,,,,,4,2
+464,"Smithfield, SA",restaurants,House of The Red Dragon Restaurant,"11 George McCullum Rd, Smithfield SA 5114",-34.68826,138.68837,,,,,4,1
+465,Restaurants,restaurants,My Yen Chinese Restaurant,"11 George McCullum Rd, Smithfield SA 5114",-34.68826,138.68837,,,,,4.5,5
+466,"Port Adelaide, SA",restaurants,Spice N Ice Restaurant  Cafe,"97-103 St Vincent St, Port Adelaide SA 5015",-34.8448,138.50185,,,,,4.5,3
+467,"North Adelaide, SA",restaurants,Bartons At The Caledonian Hotel,"219 O'Connell St, North Adelaide SA 5006",-34.902314,138.593995,,,,,3.5,3
+468,"Adelaide, SA",restaurants,Al Amir,"217 Rundle St, Adelaide SA 5000",-34.9228,138.60777,,,,,3.5,2
+469,"Adelaide, SA",restaurants,Bollywood Indian Restaurant,"17 Leigh St, Adelaide SA 5000",-34.92362,138.5976,,,,,4,2
+470,"Brighton, SA",restaurants,Charlies Diner,"466 Brighton Rd, Brighton SA 5048",-35.0187,138.52346,,,,,2.5,4
+471,"Magill, SA",restaurants,Zen Chinese Restaurant,"562 Magill Rd, Magill SA 5072",-34.91333,138.67548,,,,,3,2
+472,"Mawson Lakes, SA",restaurants,Burger Club,"Shp 9b/ 1 Main St, Mawson Lakes SA 5095",-34.81065,138.616594,,,,,4.5,2
+473,"Adelaide, SA",restaurants,Wah Hing Restaurant,"85 Gouger St, Adelaide SA 5000",-34.93058,138.59612,,,,,4.5,6
+474,"Murray Bridge, SA",restaurants,McDonalds Family Restaurants,"27 Adelaide Rd, Murray Bridge SA 5253",-35.12117,139.27119,,,,,3,1
+475,"Henley Beach, SA",restaurants,Thai Orchid Restaurant,"255 Esplanade St, Henley Beach SA 5022",-34.91999,138.49393,,,,,4,9
+476,"Hallett Cove, SA",restaurants,Barnacle Bill,"Shop 27, Hallett Cove Mall, Cnr Lonsdale & Ramrod Rds, Hallett Cove SA 5158",-35.07766,138.518797,,,,,4,1
+477,"Marleston, SA",restaurants,Rex Hotel,"172 Richmond Rd, Marleston SA 5033",-34.94276,138.5645,,,,,3,3
+478,"Adelaide, SA",restaurants,House Of Chow Restaurant,"82 Hutt St (Cnr Wakefield St), Adelaide SA 5000",-34.92835,138.6124,,,,,3,5
+479,"Crafers, SA",restaurants,Jimmies on the Summit,"6 Main St, Crafers SA 5152",-34.99792,138.70448,,,,,4,5
+480,"Norwood, SA",restaurants,Samurai Teppanyaki House,"210 The Pde, Norwood SA 5067",-34.921407,138.637464,,,,,5,1
+481,"Adelaide, SA",restaurants,Kathmandu Restaurant,"214 Hutt St, Adelaide SA 5000",-34.93284,138.61246,,,,,4,1
+482,"Torrensville, SA",restaurants,Abyssinan Restaurant,"126 Henley Beach Rd, Torrensville SA 5031",-34.92354,138.56705,,,,,3.5,7
+483,"Unley, SA",restaurants,Barzaar,"166 Unley Rd, Unley SA 5061",-34.9493,138.60655,,,,,3,2
+484,"Adelaide, SA",restaurants,Rockford Adelaide,"164 Hindley St, Adelaide SA 5000",-34.92312,138.59284,,,,,3,1
+485,"Bedford Park, SA",restaurants,Ping Pong Sushi,"Shp1/ 4 Rupert Ave, Bedford Park SA 5042",-35.01984,138.56706,,,,,3,1
+486,"Adelaide, SA",restaurants,Kenji Modern Japanese,"Shop 5, 242 Hutt St, Adelaide SA 5000",-34.93398,138.61255,,,,,4,9
+487,"O'Halloran Hill, SA",restaurants,Vietnam Hill Top Restaurant,"93 Main South Rd, O'Halloran Hill SA 5158",-35.06556,138.555607,,,,,2.5,2
+488,"Adelaide, SA",restaurants,Market Plaza Food Court,"61- 63 Grote St, Adelaide SA 5000",-34.928837,138.59703,,,,,4.5,7
+489,"Adelaide, SA",restaurants,Hotaru,"162- 164 Gouger St, Adelaide SA 5000",-34.9302,138.59308,,,,,4.5,2
+490,"Glenelg, SA",restaurants,The Rocks,"18 Holdfast Prm, Glenelg SA 5045",-34.97813,138.5113,,,,,3,1
+491,"Robe, SA",restaurants,Dragon Village Licensed Chinese Restaurant,Robe SA 5276,-37.165961,139.771257,,,,,4,1
+492,"Mt Barker, SA",restaurants,Barnacle Bill,"14B Walker St, Mt Barker SA 5251",-35.06722,138.85799,,,,,3,2
+493,"Grange, SA",restaurants,Thai Spice,"557 Grange Rd, Grange SA 5022",-34.90651,138.50533,,,,,3,3
+494,"Regency Park, SA",restaurants,Graduates Restaurant,"137 Days Rd, Regency Park SA 5010",-34.867525,138.565714,,,,,4,1
+495,"Adelaide, SA",restaurants,Hotaru Japanese Restaurant,"162 Gouger St, Adelaide SA 5000",-34.9302,138.59308,,,,,4.5,2
+496,"Kensington, SA",restaurants,Kensington Hotel,"23 Regent St, Kensington SA 5068",-34.9216,138.64561,,,,,3,3
+497,"Port Adelaide, SA",restaurants,Pancakes At The Port,"1 Mercantile Dock, Port Adelaide SA 5015",-34.841957,138.505489,,,,,3,2
+498,"Glenelg, SA",restaurants,Kathmandu Palace Restaurant,"9 Nile St, Glenelg SA 5045",-34.979676,138.514331,,,,,5,3
+499,"Salisbury, SA",restaurants,Fasta Pasta,"28 Park Tce, Salisbury SA 5108",-34.76351,138.64401,,,,,4,1
+500,"Adelaide, SA",restaurants,Union Hotel,"70 Waymouth St, Adelaide SA 5000",-34.925682,138.597319,,,,,3.5,12
+501,"O'Halloran Hill, SA",restaurants,Imperial Prince Restaurant,"115 Main South Rd, O'Halloran Hill SA 5158",-35.06967,138.55502,,,,,3.5,3
+502,"Glenelg, SA",restaurants,Yum Sing Express Glenelg,"Shop 6, 7 Mosley Sq, Glenelg SA 5045",-34.980563,138.51199,,,,,0,0
+503,"Linden Park, SA",restaurants,Royal Thai Restaurant,"476 Portrush Rd, Linden Park SA 5065",-34.94706,138.64336,,,,,4,2
+504,"North Adelaide, SA",restaurants,The Snooty Fox Restaurant,"160 O'Connell St, North Adelaide SA 5006",-34.903981,138.595828,,,,,2,1
+505,"Findon, SA",restaurants,Liquid Espresso,"Shop 1, 181- 183 Grange Rd, Findon SA 5023",-34.90444,138.54688,,,,,3,1
+506,"Linden Park, SA",restaurants,Burnside Food  Wine Noodle Bistro,"Shp5/ 476 Portrush Rd, Linden Park SA 5065",-34.94706,138.64336,,,,,3.5,2
+507,"Adelaide, SA",restaurants,Hong Fat BBQ Restaurant,"Shop 3, 75 Grote St, Adelaide SA 5000",-34.92914,138.59631,,,,,3,5
+508,"Prospect, SA",restaurants,Maharajahs Indian Restaurant,"230 Main North Rd, Prospect SA 5082",-34.8786,138.60195,,,,,2,2
+509,"Norwood, SA",restaurants,Vileroy,"27 Kensington Rd, Norwood SA 5067",-34.92754,138.62596,,,,,4,1
+510,"Brighton, SA",restaurants,Charminar,"Shop 1\ 450 Brighton Rd, Brighton SA 5048",-35.01793,138.52336,,,,,2.5,7
+511,"Norwood, SA",restaurants,Dannys Thai Bistro,"123a The Parade, Norwood SA 5067",-34.92085,138.63343,,,,,4,9
+512,"Holden Hill, SA",restaurants,Hogs Breath Cafe,"550 North East Rd, Holden Hill SA 5088",-34.85629,138.65745,,,,,3,4
+513,"North Adelaide, SA",restaurants,Fasta Pasta Pronto North Adelaide,"47 O'Connell St, North Adelaide SA 5006",-34.907897,138.596051,,,,,3.5,4
+514,"Adelaide, SA",restaurants,Kathmandu Palace Restaurant,"214 Hutt St, Adelaide SA 5000",-34.93284,138.61246,,,,,4,1
+515,"Highbury, SA",restaurants,Thats Amore Pizzeria,"20 Elliston Ave, Highbury SA 5089",-34.85317,138.69813,,,,,4,1
+516,"Hindmarsh, SA",restaurants,Suzie Wongs Room,"120 Port Rd, Hindmarsh SA 5007",-34.906886,138.573504,,,,,4,6
+517,"Roxby Downs, SA",restaurants,The Homestead Steak House Restaurant,"21 Burgoyne St, Roxby Downs SA 5725",-30.56714,136.89536,,,,,4,1
+518,"Glenelg, SA",restaurants,The Rocks Grill,"16- 18 The Holdfast Prm, Glenelg SA 5045",-34.97755,138.51088,,,,,3,1
+519,"Felixstow, SA",restaurants,Yang Tse River Chinese Restaurant,"477B/C Payneham Rd, Felixstow SA 5070",-34.88964,138.65514,,,,,4.5,4
+520,"Currency Creek, SA",restaurants,Currency Creek Estate Wines,"Winery Rd, Currency Creek SA 5214",-35.42568929,138.7888473,,,,,5,1
+521,"Newton, SA",restaurants,Chinese Garden Restaurant,"297 Montacute Rd, Newton SA 5074",-34.88669,138.68988,,,,,3,1
+522,"North Haven, SA",restaurants,Sailmaster Tavern,"16 Arcadia Crt, North Haven SA 5018",-34.787668,138.488498,,,,,4,5
+523,"Millswood, SA",restaurants,Vietnam Gourmet,"167 Goodwood Rd, Millswood SA 5034",-34.95507,138.59028,,,,,3,1
+524,"Croydon Park, SA",restaurants,Punjabi Tandoori,"Shop 3/ 93 Days Rd, Croydon Park SA 5008",-34.87744,138.56679,,,,,4,1
+525,"Adelaide, SA",restaurants,Kishi Sushi Pty Ltd,"Shp 3/ 296 Rundle St, Adelaide SA 5000",-34.92197,138.610452,,,,,3.5,6
+526,"Adelaide, SA",restaurants,Seoul Restaurant,"65 Hyde St, Adelaide SA 5000",-34.9263,138.6044,,,,,4.5,6
+527,"Marden, SA",restaurants,Red Rock Noodle Bar,"369 Payneham Rd, Marden SA 5070",-34.89597,138.6394,,,,,2.5,3
+528,"Adelaide, SA",restaurants,Barendoe Restaurant Tapas Bar,"171 Hutt St, Adelaide SA 5000",-34.93133,138.61189,,,,,4,2
+529,"Glenelg, SA",restaurants,Lido Ristorante,"Marina Pier, Holdfast Shores,, Glenelg SA 5045",-34.976279,138.510905,,,,,3,4
+530,"Sturt, SA",restaurants,Fresh Choice Restaurant,"373 Diagonal Rd, Sturt SA 5047",-35.02298,138.55066,,,,,4,1
+531,"West Lakes, SA",restaurants,Zaks,"149 Brebner Drv, West Lakes SA 5021",-34.87825,138.4891,,,,,4.5,3
+532,"Adelaide, SA",restaurants,House Of Chow Restaurant,"82 Hutt St(Cnr Wakefield St), Adelaide SA 5000",-34.92835,138.6124,,,,,3,5
+533,"Brighton, SA",restaurants,Brighton Hotel,"466 Brighton Rd, Brighton SA 5048",-35.0187,138.52346,,,,,3,2
+534,"Sevenhill, SA",restaurants,Skillogalee Winery Restaurant,"Trevarrick Rd, Sevenhill SA 5453",-33.90597875,138.6174366,,,,,0,0
+535,"Port Adelaide, SA",restaurants,Sidhars Curry Indian Cafe,"234 Commercial Rd, Port Adelaide SA 5015",-34.84882,138.50772,,,,,3.5,4
+536,"Adelaide, SA",restaurants,Bliss Organic Garden Cafe,"7 Compton St, Adelaide SA 5000",-34.93064,138.59651,,,,,4,15
+537,"Clare, SA",restaurants,Artisans Table Wine Bar  Bistro,"Wendouree Rd, Clare SA 5453",-33.8556982,138.6236409,,,,,0,0
+538,"Adelaide, SA",restaurants,Mong Kok,"81- 83 Gouger St, Adelaide SA 5000",-34.93058,138.59618,,,,,2,1
+539,"Erindale, SA",restaurants,Renas Thai Kitchen,"370 c Kensington Rd, Erindale SA 5066",-34.92611,138.66312,,,,,3.5,3
+540,"Croydon Park, SA",restaurants,Pho 75,"Shp 18/ 113 Days Rd, Croydon Park SA 5008",-34.876075,138.567117,,,,,2.5,3
+541,"Adelaide, SA",restaurants,Red Rock Noodle Bar  Restaurant,"187 Rundle St, Adelaide SA 5000",-34.92261,138.60675,,,,,3.5,7
+542,"Adelaide, SA",restaurants,Botanic Bar,"309 North Tce, Adelaide SA 5000",-34.921413,138.610543,,,,,4.5,13
+543,"Hazelwood Park, SA",restaurants,Fasta Pasta,"539 Greenhill Rd, Hazelwood Park SA 5066",-34.93794,138.65965,,,,,5,1
+544,"Angaston, SA",restaurants,Wanera Wine Bar  Restaurant,"65 Murray St, Angaston SA 5353",-34.500914,139.045117,,,,,4,1
+545,"Mile End, SA",restaurants,Urban India Restaurant,"127 Henley Beach Rd, Mile End SA 5031",-34.92424,138.56562,,,,,3.5,4
+546,"Marden, SA",restaurants,Dragon Palace Restaurant,"26 Lower Portrush Rd, Marden SA 5070",-34.89556,138.63727,,,,,3.5,3
+547,"Glenelg, SA",restaurants,Montezumas The Original,"2 Partridge St, Glenelg SA 5045",-34.98059,138.51803,,,,,2.5,4
+548,"Glengowrie, SA",restaurants,Suzi Wong,"160 Morphett Rd, Glengowrie SA 5044",-34.99004,138.53848,,,,,3,1
+549,"Holden Hill, SA",restaurants,Plaza Pizza Bar,"652e North East Rd, Holden Hill SA 5088",-34.85304,138.66485,,,,,4,1
+550,"Dulwich, SA",restaurants,The Sauce,"64b Dulwich Ave, Dulwich SA 5065",-34.93532,138.63131,,,,,4.5,3
+551,"Aldinga, SA",restaurants,The Old Vine,"22 Old Coach Rd, Aldinga SA 5173",-35.266476,138.483393,,,,,5,1
+552,"Parkside, SA",restaurants,Raj On Taj,"Shp12/ 13-23 Unley Rd, Parkside SA 5063",-34.94261,138.60723,,,,,3.5,8
+553,"Highbury, SA",restaurants,Highbury Bistro,"1017 Lower North East Rd, Highbury SA 5089",-34.85225,138.70135,,,,,2.5,4
+554,"Adelaide, SA",restaurants,Sosta Argentinian Kitchen,"291 Rundle St, Adelaide SA 5000",-34.92244,138.61037,,,,,4,7
+555,"Unley, SA",restaurants,Nikitas Greek Restaurant,"40A Unley Rd, Unley SA 5061",-34.94335,138.606511,,,,,4,1
+556,"Hilton, SA",restaurants,Hilton Hotel,"Cnr South Rd & Sir Donald Bradman Drv, Hilton SA 5033",-34.93158,138.56977,,,,,3,7
+557,"Prospect, SA",restaurants,Khim Thai Restaurant,"282 Prospect Rd, Prospect SA 5082",-34.873898,138.593089,,,,,3,1
+558,"Modbury, SA",restaurants,Sferas Park Suites  Convention Centre,"191 Reservoir Rd, Modbury SA 5092",-34.82842,138.68836,,,,,2,1
+559,"Adelaide, SA",restaurants,Treasury On King William,"144 King William St,, Adelaide SA 5000",-34.92671,138.60038,,,,,4,4
+560,"Adelaide, SA",restaurants,Chopstix,"287 Rundle St, Adelaide SA 5000",-34.92264,138.61021,,,,,3,5
+561,"Magill, SA",restaurants,Magill Estate Restaurant,"78 Penfold Rd, Magill SA 5072",-34.92097,138.67886,,,,,5,1
+562,"Aldgate, SA",restaurants,Aldgate Providore  Cafe,"Shp4/ 220 Mount Barker Rd, Aldgate SA 5154",-35.015562,138.735329,,,,,3.5,4
+563,"Colonel Light Gardens, SA",restaurants,Goodwood Tandoori,"Shp 1/ 503 Goodwood Rd, Colonel Light Gardens SA 5041",-34.981756,138.592443,,,,,5,1
+564,"Brompton, SA",restaurants,Taverna Greek Psistaria,"28a Hawker St, Brompton SA 5007",-34.899929,138.579921,,,,,4,6
+565,"Parkside, SA",restaurants,Mondiali Cafe Restaurant,"55 Unley Rd, Parkside SA 5063",-34.944611,138.607113,,,,,4,5
+566,"Adelaide, SA",restaurants,Adelaide Festival Centre,"King William Rd, Adelaide SA 5000",-34.919892,138.598837,,,,,4,9
+567,"Gawler, SA",restaurants,McDonalds Family Restaurants,"40- 42 Adelaide Rd, Gawler SA 5118",-34.60695,138.74479,,,,,3.5,2
+568,"Norwood, SA",restaurants,Rain Modern Asian Bistro,"125a The Parade, Norwood SA 5067",-34.92085,138.63343,,,,,3.5,4
+569,"Adelaide, SA",restaurants,Pondok Bali,"310 Pulteney St, Adelaide SA 5000",-34.93086,138.606197,,,,,4,5
+570,"Adelaide, SA",restaurants,Georges On Waymouth Restaurant,"20 Waymouth St, Adelaide SA 5000",-34.9256,138.59884,,,,,4,4
+571,"Regency Park, SA",restaurants,TirosRegency,"137 Days Rd, Regency Park SA 5010",-34.872898,138.568514,,,,,3,1
+572,"New Port, SA",restaurants,Portobello,"Lot 101 / 1-2 Wirra Drive, New Port, New Port SA 5015",-34.848739,138.495599,,,,,4,2
+573,"Port Lincoln, SA",restaurants,Cafe Del Giorno,"80 Tasman Tce, Port Lincoln SA 5606",-34.721056,135.859219,,,,,3.5,4
+574,"Gawler, SA",restaurants,Fasta Pasta,"Lyndoch Rd (Cnr High St), Gawler SA 5118",-34.596904,138.749788,,,,,5,1
+575,"Port Noarlunga, SA",restaurants,Agathas Food Store,"1 Gawler St, Port Noarlunga SA 5167",-35.14853,138.47027,,,,,4,5
+576,"Hyde Park, SA",restaurants,Jones The Grocer,"123 King William Rd, Hyde Park SA 5061",-34.95114,138.60009,,,,,4,5
+577,"North Adelaide, SA",restaurants,Beyond the Red Restaurant,"141 O Connell St, North Adelaide SA 5006",-34.904397,138.594856,,,,,1.5,2
+578,"Adelaide, SA",restaurants,Riverside Restaurant,"Lobby Level | Intercontinental Adelaide North Tce, Adelaide SA 5000",-34.92140375,138.6011465,,,,,5,2
+579,"Mawson Lakes, SA",restaurants,Indochina Thai Restaurant,"121 Mawson Lakes Blv, Mawson Lakes SA 5095",-34.81067,138.61603,,,,,4,4
+580,"Tea Tree Gully, SA",restaurants,Pepper Leaf Innovative Asian Cuisine,"1328 North East Rd, Tea Tree Gully SA 5091",-34.82127,138.72545,,,,,4,1
+581,"Kensington, SA",restaurants,The Rising Sun,"60- 62 Bridge St, Kensington SA 5068",-34.92501,138.64483,,,,,4.5,3
+582,"McLaren Vale, SA",restaurants,dArrys Verandah at dArenberg,"Osborn Rd, McLaren Vale SA 5171",-35.198164,138.548393,,,,,5,5
+583,"Norton Summit, SA",restaurants,Scenic Restaurant,"Old Norton Summit Rd, Norton Summit SA 5136",-34.922821,138.724162,,,,,0,0
+584,"Adelaide, SA",restaurants,La Trattoria Restaurant  Pizza Bar,"346 King William St, Adelaide SA 5000",-34.93233,138.60032,,,,,4,15
+585,"Norwood, SA",restaurants,Pauls Seafood Restaurant,"218 The Parade, Norwood SA 5067",-34.92134,138.63804,,,,,4.5,2
+586,"Burnside, SA",restaurants,The Place Next Door,"522 Glynburn Rd, Burnside SA 5066",-34.93798,138.660156,,,,,2.5,6
+587,"Mitcham, SA",restaurants,Edinburgh Hotel  Cellars,"7 High St, Mitcham SA 5062",-34.97876,138.62253,,,,,4,15
+588,"Glenunga, SA",restaurants,Cork  CleaverGlenunga,"2 Bevington Rd, Glenunga SA 5064",-34.952,138.63518,,,,,4,2
+589,"Brighton, SA",restaurants,MP3 Seafood  Grill,"65 Jetty Rd, Brighton SA 5048",-35.01751,138.51594,,,,,3.5,2
+590,"Goodwood, SA",restaurants,Faraja,"36 King William Rd, Goodwood SA 5034",-34.947754,138.599192,,,,,3,2
+591,"Blackwood, SA",restaurants,Yangtze Chinese Restaurant,"227 Main Rd, Blackwood SA 5051",-35.01917,138.61657,,,,,3.5,7
+592,"Morphett Vale, SA",restaurants,Morphett Vale Charcoal Chicken,"Shp4/ 204 Main South St, Morphett Vale SA 5162",-35.11939,138.52396,,,,,3,1
+593,"Adelaide, SA",restaurants,Suzuki Sushi,"27d Moonta St, Adelaide SA 5000",-34.929808,138.597104,,,,,3,5
+594,"Adelaide, SA",restaurants,Hilton Adelaide,"233 Victoria Sq, Adelaide SA 5000",-34.92915,138.59869,,,,,3.1,11
+595,"Goodwood, SA",restaurants,Mantra On King William,"36 King William Rd, Goodwood SA 5034",-34.94775,138.59919,,,,,4,2
+596,"North Adelaide, SA",restaurants,Arya Indian Cuisine,"Shop 30, 81 O'Connell St, North Adelaide SA 5006",-34.907147,138.594467,,,,,4,4
+597,"North Adelaide, SA",restaurants,Harvest of India,"91 O'Connell St, North Adelaide SA 5006",-34.906481,138.595495,,,,,4,4
+598,"Newton, SA",restaurants,Chillies Indian Restaurant,"Shop 1 & 2 145 Montacute Rd, Newton SA 5074",-34.88827,138.67457,,,,,3.5,7
+599,"Port Adelaide, SA",restaurants,Fasta Pasta,"319 Commercial Rd, Port Adelaide SA 5015",-34.85142,138.50986,,,,,3.5,3
+600,"Sellicks Beach, SA",restaurants,Victory Hotel,"Main South Rd, Sellicks Beach SA 5174",-35.329862,138.448269,,,,,4,5
+601,"Adelaide, SA",restaurants,Shiki Japanese Restaurant,"North Tce, Adelaide SA 5000",-34.92117,138.596357,,,,,4.5,6
+602,"Hyde Park, SA",restaurants,Raj On Taj,"109 King William Rd, Hyde Park SA 5061",-34.95039,138.59975,,,,,4,8
+603,"Hyde Park, SA",restaurants,The Metro Bistro,"Shp 4/ 254 Unley Rd, Hyde Park SA 5061",-34.95477,138.60783,,,,,3,2
+604,"Adelaide, SA",restaurants,Bravo Expresso,"Lower 25 100 Rundle Mall, Adelaide SA 5000",-34.92215,138.60318,,,,,3,4
+605,"Parkside, SA",restaurants,Cafe Sabatini,"56 Glen Osmond Rd, Parkside SA 5063",-34.94263,138.61856,,,,,5,1
+606,"Victor Harbor, SA",restaurants,McDonalds Family Restaurants,"Cnr Hindmarsh & Seaview, Victor Harbor SA 5211",-35.551646,138.62299,,,,,3,2
+607,"Parkside, SA",restaurants,Royal Tandoori Restaurant,"Shop 19-20 Unley Towers 13-23 Unley Rd, Parkside SA 5063",-34.94261,138.60723,,,,,3.5,3
+608,"Robe, SA",restaurants,Sails At Robe,"21 Victoria St, Robe SA 5276",-37.1643,139.76048,,,,,3.5,3
+609,"Unley, SA",restaurants,Indochina  Unley,"153 Unley Rd, Unley SA 5061",-34.94928,138.60772,,,,,3.5,4
+610,"Adelaide, SA",restaurants,The Deli On Pultney,"62 Pulteney St, Adelaide SA 5000",-34.9233,138.60589,,,,,3.5,3
+611,"Hyde Park, SA",restaurants,The Pot Food and Wine,"160 King William Rd, Hyde Park SA 5061",-34.95481,138.59977,,,,,4,4
+612,"Adelaide, SA",restaurants,Saracens Head The,"82 Carrington St, Adelaide SA 5000",-34.93095,138.60357,,,,,3,4
+613,"Adelaide, SA",restaurants,Korea Jung,"Aston House, Adelaide SA 5000",-34.92353,138.59759,,,,,3,3
+614,"Adelaide, SA",restaurants,Dim Well Cafe,"82 Gouger St, Adelaide SA 5000",-34.930029,138.596246,,,,,3,2
+615,"Adelaide, SA",restaurants,Sushi Train,"Cougar St, Adelaide SA 5000",-34.93,138.6,,,,,4,14
+616,"Adelaide, SA",restaurants,Scoozi Caffe BarRundle Street,"272 Rundle St, Adelaide SA 5000",-34.92247,138.60956,,,,,3.5,10
+617,"Hyde Park, SA",restaurants,Zoes Restaurant  Takeaway,"Shp1/ 164 King William Rd, Hyde Park SA 5061",-34.9551,138.59979,,,,,3.3,7
+618,"Adelaide, SA",restaurants,Bocelli Caffe Ristorante,"81-89 Hutt St, Adelaide SA 5000",-34.92847,138.61201,,,,,3.5,8
+619,"Norwood, SA",restaurants,Vego To Go,"Shp 12 Norwood Mall, Norwood SA 5067",-34.9221,138.63579,,,,,3,3
+620,"Woodcroft, SA",restaurants,Cafe China Chinese Restaurant,"Woodcroft Town Shopping Centre Bains Rd, Woodcroft SA 5162",-35.11402,138.546211,,,,,4,1
+621,"North Adelaide, SA",restaurants,Montezumas The Original,"134 Melbourne St, North Adelaide SA 5006",-34.90712,138.60673,,,,,3,8
+622,"Adelaide, SA",restaurants,Sushi Train,"Shop 4 82 King William St, Adelaide SA 5000",-34.92,138.59,,,,,4,7
+623,"Adelaide, SA",restaurants,Fasta Pasta,"Cnr South Tce & Pulteney Sts, Adelaide SA 5000",-34.935367,138.606518,,,,,3,3
+624,"Adelaide, SA",restaurants,British India Indian Restaurant,"270-274 Morphett St, Adelaide SA 5000",-34.93,138.59432,,,,,4,11
+625,"Kensington, SA",restaurants,Taste Of Nepal,"300 The Parade, Kensington SA 5068",-34.92098,138.64491,,,,,4,1
+626,"Reynella, SA",restaurants,McDonalds Family Restaurants,"373 South Rd, Reynella SA 5161",-35.10549,138.52633,,,,,2,1
+627,"Aldinga, SA",restaurants,Shivers Restaurant  Cafe,"208 Port Rd, Aldinga SA 5173",-35.26769,138.48351,,,,,5,2
+628,"Mt Gambier, SA",restaurants,Chinese Restaurant Golden Chopsticks,"95 Commercial St East, Mt Gambier SA 5290",-37.829637,140.785109,,,,,0,0
+629,"Adelaide, SA",restaurants,Yum Thai Restaurant,"68 Hindley St, Adelaide SA 5000",-34.92246,138.59732,,,,,3,2
+630,"Naracoorte, SA",restaurants,Dragon Village,"8 MacDonnell St, Naracoorte SA 5271",-36.954625,140.73114,,,,,0,0
+631,"Cumberland Park, SA",restaurants,Clay  Coal Indian Restaurant,"482 Goodwood Rd, Cumberland Park SA 5041",-34.97572,138.59125,,,,,4.5,3
+632,"North Adelaide, SA",restaurants,Pattaya Thai North Adelaide,"147 O'Connell St, North Adelaide SA 5006",-34.904397,138.594856,,,,,3,1
+633,"Morphett Vale, SA",restaurants,Barnacle Bill,"212 Main South Rd, Morphett Vale SA 5162",-35.11834,138.5235,,,,,2.5,2
+634,"Victor Harbor, SA",restaurants,The Boulevard Cafe On The Lake,"41 Bartel Blv, Victor Harbor SA 5211",-35.5633,138.60456,,,,,5,1
+635,"Lobethal, SA",restaurants,Lobethal Bierhaus,"3A Main St, Lobethal SA 5241",-34.90727,138.87291,,,,,5,5
+636,"Lyndoch, SA",restaurants,The Lyndoch Bakery  Restaurant,"26 Barossa Valley Hwy, Lyndoch SA 5351",-34.60051,138.88919,,,,,4,1
+637,"Adelaide, SA",restaurants,Indian Delights,"445 Pulteney St, Adelaide SA 5000",-34.93424,138.60616,,,,,3,4
+638,"Largs Bay, SA",restaurants,Silver Dragon Takeaway,"188 Fletcher Rd, Largs Bay SA 5016",-34.82543,138.49561,,,,,3,1
+639,"Adelaide, SA",restaurants,Tapas On Hindley,"147 Hindley St, Adelaide SA 5000",-34.923607,138.594044,,,,,3,6
+640,"Mile End, SA",restaurants,Urban India,"127 Henley Beach Rd, Mile End SA 5031",-34.92424,138.56562,,,,,3.5,4
+641,"Kidman Park, SA",restaurants,Lavita Ristorante Cafe,"342 Grange Rd, Kidman Park SA 5025",-34.906402,138.529242,,,,,3.5,4
+642,"Cudlee Creek, SA",restaurants,The Cudlee Cafe,"Gorge Rd, Cudlee Creek SA 5232",-34.8380114,138.8203845,,,,,3.5,2
+643,"Mt Gambier, SA",restaurants,Caff Belgiorno,"7 Percy St, Mt Gambier SA 5290",-37.82842,140.78362,,,,,0,0
+644,"Golden Grove, SA",restaurants,Green Ginger,"Shop 3/ 1 Aeolian Drv, Golden Grove SA 5125",-34.789276,138.69615,,,,,5,1
+645,"Victor Harbor, SA",restaurants,Anchorage Cafe  Restaurant  Wine Bar,"21 Flinders Pde, Victor Harbor SA 5211",-35.5536,138.6244,,,,,4,3
+646,"Adelaide, SA",restaurants,Hotel Tivoli,"265 Pirie St, Adelaide SA 5000",-34.9255,138.60967,,,,,4,9
+647,"Port Adelaide, SA",restaurants,Yiannis On Port Quay,"103 Commercial Rd, Port Adelaide SA 5015",-34.84519,138.50636,,,,,5,1
+648,"Adelaide, SA",restaurants,Bebes Room,"At Rear 273 Hindley St, Adelaide SA 5000",-34.92373,138.58909,,,,,4,4
+649,"Verdun, SA",restaurants,Maximilians Restaurant  Cellar Door,"15 Onkaparinga Valley Rd, Verdun SA 5245",-35.01099,138.786608,,,,,4.5,3
+650,"Magill, SA",restaurants,Red Rock Noodle Bar  Restaurant,"615 Magill Rd, Magill SA 5072",-34.912892,138.675771,,,,,4,4
+651,"Parkside, SA",restaurants,Rice Chinese Cuisine,"104 Glen Osmond Rd, Parkside SA 5063",-34.944798,138.621842,,,,,4,2
+652,"Lyndoch, SA",restaurants,Lord Lyndoch The,"23 Barossa Valley Way, Lyndoch SA 5351",-34.60065,138.89073,,,,,0,0
+653,Restaurants,restaurants,The Bay Bar  Bistro,"23 Barossa Valley Way, Lyndoch SA 5351",-34.60065,138.89073,,,,,0,0
+654,"Modbury, SA",restaurants,Civic Park Family Restaurant,"171 Resevoir Rd, Modbury SA 5092",-34.8298,138.68821,,,,,0,0
+655,"North Adelaide, SA",restaurants,Old Adelaide Inn,"160 O'Connell St, North Adelaide SA 5006",-34.903981,138.595828,,,,,0,0
+656,"Glenelg, SA",restaurants,Yum Sing Express,"Shop 6, 7 Mosley Square, Glenelg SA 5045",-34.980563,138.51199,,,,,0,0
+657,"Modbury, SA",restaurants,1877 Pasta  Wine Bar,"191 Reservoir Rd, Modbury SA 5092",-34.82842,138.68836,,,,,0,0
+658,"Port Lincoln, SA",restaurants,Kowloon Kitchen Chinese Restaurant,"18 Washington St, Port Lincoln SA 5606",-34.720037,135.856328,,,,,0,0
+659,Restaurants,restaurants,ULC,"18 Washington St, Port Lincoln SA 5606",-34.720037,135.856328,,,,,0,0
+660,"Warooka, SA",restaurants,Inland Sea Foods Pty Ltd,"12918 Yorke Hwy, Warooka SA 5577",-34.984546,137.358877,,,,,0,0
+661,"Port Lincoln, SA",restaurants,Del Giorno Cafe,"80 Tasman Tce, Port Lincoln SA 5606",-34.721056,135.859219,,,,,0,0
+662,"Berri, SA",restaurants,Mallee Fowl Restaurant,"Sturt Hwy, Berri SA 5343",-34.2750401,140.6040494,,,,,0,0
+663,"Kingscote, SA",restaurants,Bella Restaurant,"54 Dauncey St, Kingscote SA 5223",-35.65687,137.63852,,,,,0,0
+664,"Wallaroo, SA",restaurants,Wallaroo Hotel,"26 Alexander St, Wallaroo SA 5556",-33.93276,137.62147,,,,,0,0
+665,"Port Elliot, SA",restaurants,Cockles On North,"Cnr The Strand & North Tce, Port Elliot SA 5212",-35.530289,138.681025,,,,,0,0
+666,"Tanunda, SA",restaurants,Baccus Restaurant,"182 Murray St, Tanunda SA 5352",-34.515277,138.971338,,,,,0,0
+667,"McLaren Vale, SA",restaurants,Sweetn Spicy Pty Ltd,"Main Rd, McLaren Vale SA 5171",-35.218256,138.542817,,,,,0,0
+668,"Hindmarsh, SA",restaurants,Taste Of Bollywood,"290 Port Rd, Hindmarsh SA 5007",-34.903688,138.568571,,,,,0,0
+669,"Stonyfell, SA",restaurants,Australian Wine Classics,"62 Stonyfell Rd, Stonyfell SA 5066",-34.934222,138.679424,,,,,0,0
+670,"Lyndoch, SA",restaurants,Captain Barossa Pty Ltd,"1 Menzel Rd, Lyndoch SA 5351",-34.649008,138.923159,,,,,0,0
+671,"Robe, SA",restaurants,Karatta Wines Manager,"Penola Rd, Robe SA 5276",-37.165961,139.771257,,,,,0,0
+672,"Tea Tree Gully, SA",restaurants,AJs Wine Australia Pty Ltd,"39 Shelley St, Tea Tree Gully SA 5091",-34.817591,138.721344,,,,,0,0
+673,"Mansfield Park, SA",restaurants,Pho Minh Restaurant,"86 Wilson St, Mansfield Park SA 5012",-34.85905,138.556354,,,,,0,0
+674,"Melrose Park, SA",restaurants,Phu,"172 Daws Rd, Melrose Park SA 5039",-34.992151,138.583412,,,,,0,0
+675,"Gladstone, SA",restaurants,Gladstone Hotel,"1 Bondowie St, Gladstone SA 5473",-33.267473,138.358113,,,,,0,0
+676,"Kent Town, SA",restaurants,OConnors,"107 King William St, Kent Town SA 5067",-34.918832,138.61907,,,,,0,0
+677,"Goolwa, SA",restaurants,Goolwa Fish Cafe,"19 Cadell St, Goolwa SA 5214",-35.501357,138.782073,,,,,0,0
+678,"North Adelaide, SA",restaurants,Akasha Fine Foods And Restaurant,"155-157 O'connell St, North Adelaide SA 5006",-34.9,138.59,,,,,0,0
+679,"Port Adelaide, SA",restaurants,Building Old 2 New Restoration,"1 Port Rd, Port Adelaide SA 5015",-34.85,138.5,,,,,0,0
+680,"Littlehampton, SA",restaurants,Royal Feast,"82 North Tce, Littlehampton SA 5250",-35.048971,138.865372,,,,,0,0
+681,"Seaton, SA",restaurants,Pizza Palace,"358 Tapleys Hill Rd, Seaton SA 5023",-34.902421,138.514099,,,,,0,0
+682,"Kilburn, SA",restaurants,La Romana Pizzeria,"428 Prospect Rd, Kilburn SA 5084",-34.861542,138.592272,,,,,0,0
+683,"Adelaide, SA",restaurants,La Sing Karaoke Restaurant,"261 Gouger St, Adelaide SA 5000",-34.930648,138.58959,,,,,0,0
+684,"Adelaide, SA",restaurants,Sui Yuang,"88 Gawler Pl, Adelaide SA 5000",-34.92,138.6,,,,,0,0
+685,"Owen, SA",restaurants,Mavs Olives,"Government Rd, Owen SA 5460",-34.27,138.5394,,,,,0,0
+686,"North Adelaide, SA",restaurants,Blanc Bistro,"S/31 039 Connell St, North Adelaide SA 5006",-34.9,138.59,,,,,0,0
+687,"Brighton, SA",restaurants,Asian Fresh,"430 Brighton Rd, Brighton SA 5048",-35.01,138.52,,,,,0,0
+688,"Coffin Bay, SA",restaurants,Aqa Oysters Limited,"3 Nicholson Ave, Coffin Bay SA 5607",-34.624479,135.463626,,,,,0,0
+689,"Toorak Gardens, SA",restaurants,Cafe Assiette,"76 Kensington Rd, Toorak Gardens SA 5065",-34.927673,138.633063,,,,,0,0
+690,"Morphett Vale, SA",restaurants,Oh Calcutta Restaurant,"171 Main South Rd, Morphett Vale SA 5162",-35.121573,138.522778,,,,,0,0
+691,"Ceduna, SA",restaurants,Ocean Rhodes Pty Ltd,"14 Kuhlmann St, Ceduna SA 5690",-32.122192,133.682023,,,,,0,0
+692,"Cumberland Park, SA",restaurants,LAtelier Gourmand Bistro,"40 Cumberland Ave, Cumberland Park SA 5041",-34.972789,138.587511,,,,,0,0
+693,"Henley Beach, SA",restaurants,Evida Restaurant,"269 Seaview Rd, Henley Beach SA 5022",-34.91,138.49,,,,,0,0
+694,"St Morris, SA",restaurants,Happy Corner Restaurant,"441 Magill Rd, St Morris SA 5068",-34.91,138.65,,,,,0,0
+695,"Tea Tree Gully, SA",restaurants,Kings Table The,"1328 North East Rd, Tea Tree Gully SA 5091",-34.82127,138.72545,,,,,0,0
+696,"Glenelg, SA",restaurants,Glenelg Spices Restaurant,"111 Jetty Rd, Glenelg SA 5045",-34.97988,138.5187,,,,,0,0
+697,"Denial Bay, SA",restaurants,Aqa Oysters Limited,"Thistleton Way, Denial Bay SA 5690",-32.093709,133.582925,,,,,0,0
+698,"Berri, SA",restaurants,Big River Marina,"Riverview Dr, Berri SA 5343",-34.285802,140.61325,,,,,0,0
+699,"Stepney, SA",restaurants,FAQ Fresh And Quick Eaterie  Espresso Bar,"161 Magill Rd, Stepney SA 5069",-34.914937,138.633235,,,,,0,0
+700,"Adelaide, SA",restaurants,Natee Thai Restaurant,"54 Pulteney St, Adelaide SA 5000",-34.92,138.6,,,,,0,0
+701,"Adelaide, SA",restaurants,Tokyo Ramen,"92 Gawler Pl, Adelaide SA 5000",-34.924768,138.602215,,,,,0,0
+702,"Port Adelaide, SA",restaurants,Argo Hellenic Cafe Restaurant,"41 Commercial Rd, Port Adelaide SA 5015",-34.843661,138.505429,,,,,0,0
+703,"Adelaide, SA",restaurants,Roll  Roll,"Shop 1 39 Grenfell St, Adelaide SA 5000",-34.92,138.6,,,,,0,0
+704,"Glenelg, SA",restaurants,Elegance at the Bay,"85 Jetty Rd, Glenelg SA 5045",-34.980146,138.516836,,,,,0,0
+705,"Cowandilla, SA",restaurants,Casalinga Homebake,"30 Jenkins St, Cowandilla SA 5033",-34.933672,138.558153,,,,,0,0
+706,"Victor Harbor, SA",restaurants,Rosso Red Pty Ltd,"9 Coral St, Victor Harbor SA 5211",-35.553741,138.622398,,,,,0,0
+707,"St Morris, SA",restaurants,De Sate,"Shop 2 437 Magill Rd, St Morris SA 5068",-34.91,138.65,,,,,0,0
+708,"Port Pirie, SA",restaurants,Hungry Jacks Port Pirie,"32 Main Rd, Port Pirie SA 5540",-33.18263,138.014666,,,,,0,0
+709,"Adelaide, SA",restaurants,New India Restaurant,"167 Hindley St, Adelaide SA 5000",-34.923566,138.593072,,,,,0,0
+710,"Mt Gambier, SA",restaurants,Asian Varieties,"54 Gray St, Mt Gambier SA 5290",-37.82536,140.78223,,,,,0,0
+711,"Millicent, SA",restaurants,The Shearers Cook Cafe,"1 Kentish Pl, Millicent SA 5280",-37.595701,140.351871,,,,,0,0
+712,"Para Hills, SA",restaurants,Pho Para Hills,"521 Bridge Rd, Para Hills SA 5096",-34.79,138.65,,,,,0,0
+713,"Adelaide, SA",restaurants,Tangritah Uyghur Shish Kebab Restaurant,"116 Grote St, Adelaide SA 5000",-34.92,138.59,,,,,0,0
+714,"Tailem Bend, SA",restaurants,RSL Tailem Bend,"57 Trevena Rd, Tailem Bend SA 5260",-35.251513,139.456169,,,,,0,0
+715,"Marion, SA",restaurants,BIG Protein,"Shop 3 746 marion Rd, Marion SA 5043",-35.005252,138.557173,,,,,0,0
+716,"Adelaide, SA",restaurants,MBC Lounge  Bistro,"96 North Tce, Adelaide SA 5000",-34.92,138.59,,,,,0,0
+717,"Hindmarsh, SA",restaurants,Zagol House East African Cuisine,"199 Port Rd, Hindmarsh SA 5007",-34.904475,138.571763,,,,,0,0
+718,"Noarlunga Centre, SA",restaurants,Bean Bar,"121/ Beach Rd, Noarlunga Centre SA 5168",-35.138081,138.496071,,,,,0,0
+719,"Mawson Lakes, SA",restaurants,Renno Spice Chinese Restaurant,"Shps4-6/ 42 Garden Tce, Mawson Lakes SA 5095",-34.806875,138.614645,,,,,0,0
+720,"Adelaide, SA",restaurants,Taste Baguette Group Pty Ltd,"Shp1/ 212 Rundle St, Adelaide SA 5000",-34.922344,138.607515,,,,,0,0
+721,"Penola, SA",restaurants,Whiskas Woolshed,"58 Glen Yallum Rd, Penola SA 5277",-37.378198,140.836924,,,,,0,0
+722,"McLaren Flat, SA",restaurants,Currant Shed Restaurant,"Ingoldby Rd, McLaren Flat SA 5171",-35.198284,138.593344,,,,,0,0
+723,"Tanunda, SA",restaurants,Murdock Restaurant and Cellar Door,"Magnolia Rd Vine Vale, Tanunda SA 5352",-34.52,138.99,,,,,0,0
+724,"Coonawarra, SA",restaurants,Coonawarra Wine Gallery,"Riddoch Hwy, Coonawarra SA 5263",-37.292434,140.839091,,,,,0,0
+725,"Bedford Park, SA",restaurants,Maru Japanese and Korean Restaurant,"3/4 Rupert Ave, Bedford Park SA 5042",-35.01,138.56,,,,,0,0
+726,"Mansfield Park, SA",restaurants,Vietnamese Walfare Services Incorporated,"1 Irwin St, Mansfield Park SA 5012",-34.861502,138.55479,,,,,0,0
+727,"Glenelg, SA",restaurants,Promenade Restaurant,"Moseley Sq, Glenelg SA 5045",-34.980528,138.512075,,,,,0,0
+728,"Wynn Vale, SA",restaurants,Pattaya Thai Restaurant,"10 Sunnybrook Dr, Wynn Vale SA 5127",-34.79,138.68,,,,,0,0
+729,"Port Adelaide, SA",restaurants,South Australian Wine Group,"1 Butler St, Port Adelaide SA 5015",-34.845615,138.506952,,,,,0,0
+730,"Mt Gambier, SA",restaurants,Linksview Bar  Bistro,"Grant Ave, Mt Gambier SA 5290",-37.843801,140.754624,,,,,0,0
+731,"Seaton, SA",restaurants,Betel Leaf Cafe,"2 403 Grange Rd, Seaton SA 5023",-34.9,138.52,,,,,0,0
+732,"Rosewater, SA",restaurants,Pho Hong Tam,"6/140 Grandjunction Rd, Rosewater SA 5013",-34.85,138.53,,,,,0,0
+733,"Adelaide, SA",restaurants,Charcoal Hwaro Korean Bbq,"17 Pitt St, Adelaide SA 5000",-34.92,138.59,,,,,0,0
+734,"Magill, SA",restaurants,Amigos Pizzeria Magill,"568 Magill Rd, Magill SA 5072",-34.913015,138.675901,,,,,0,0
+735,"Wistow, SA",restaurants,Australian Organic Red Meat Association Inc,"Wellington Rd, Wistow SA 5251",-35.124839,138.902413,,,,,0,0
+736,"Middleton, SA",restaurants,The Mill at Middleton,"29 Mill Tce, Middleton SA 5213",-35.508447,138.710038,,,,,0,0
+737,"Moonta Bay, SA",restaurants,Moonta Bay Motel And Patio Restaurant,"196 Bay Rd, Moonta Bay SA 5558",-34.05465,137.56352,,,,,0,0
+738,"Plympton Park, SA",restaurants,Dack Kee Chinese Restaurant,"57 Bray St, Plympton Park SA 5038",-34.980471,138.548969,,,,,0,0
+739,"Coffin Bay, SA",restaurants,Oysterbeds Restaurant The,"61 The Esplanade, Coffin Bay SA 5607",-34.621438,135.465713,,,,,0,0
+740,"Norwood, SA",restaurants,Cilantro,"211A The Pde, Norwood SA 5067",-34.92,138.62,,,,,0,0
+741,"Hazelwood Park, SA",restaurants,Chapati House,"542 Greenhill Rd, Hazelwood Park SA 5066",-34.938626,138.659598,,,,,0,0
+742,"Blair Athol, SA",restaurants,Vietnamese Delights,"89 Florence Ave, Blair Athol SA 5084",-34.850421,138.595978,,,,,0,0
+743,"Kensington Park, SA",restaurants,Vintage Decor To Di For,"368 Magill Rd, Kensington Park SA 5068",-34.914365,138.655167,,,,,0,0
+744,"Murray Bridge, SA",restaurants,Aays Fresh Herbs,"White Rd, Murray Bridge SA 5253",-35.13847,139.281239,,,,,0,0
+745,"Aldgate, SA",restaurants,Aldgate Chinese Restaurant,"Mount Barker Rd, Aldgate SA 5154",-35.013815,138.738709,,,,,0,0
+746,"Willunga, SA",restaurants,Three Monkeys Fine Food,"17 High St, Willunga SA 5172",-35.27268,138.555775,,,,,0,0
+747,"Pooraka, SA",restaurants,BB Steak House,"849 Main North Rd, Pooraka SA 5095",-34.82,138.61,,,,,0,0
+748,"Firle, SA",restaurants,Eating in Italy,"151-161 Glynburn Rd, Firle SA 5070",-34.9,138.65,,,,,0,0
+749,"Adelaide, SA",restaurants,China Bar,"52 Hindley St, Adelaide SA 5000",-34.922715,138.597408,,,,,0,0
+750,"Paradise, SA",restaurants,Chillies Indian Restaurant,"2 Junction Rd, Paradise SA 5075",-34.872503,138.66099,,,,,0,0
+751,"Glenelg, SA",restaurants,Yakumi Japanese Restaurant,"109 Jetty Rd, Glenelg SA 5045",-34.979885,138.518584,,,,,0,0
+752,"Stepney, SA",restaurants,Swiss Glory Gourmet,"39 Henry St, Stepney SA 5069",-34.913541,138.62812,,,,,0,0
+753,"Campbelltown, SA",restaurants,Prince Room Chinese Restaurant,"509 Lower North East Rd, Campbelltown SA 5074",-34.888114,138.656919,,,,,0,0
+754,"Magill, SA",restaurants,Bintang Mas Restaurants Pty Ltd,"556 Magill Rd, Magill SA 5072",-34.91,138.67,,,,,0,0
+755,"South Plympton, SA",restaurants,Taste Of South Australia,"631 Tower Tce, South Plympton SA 5038",-34.978259,138.564767,,,,,0,0
+756,"Adelaide, SA",restaurants,Itsu Sushi  Desserts,"14 James Pl, Adelaide SA 5000",-34.92,138.6,,,,,0,0
+757,"Glynde, SA",restaurants,Nuts About Food,"47 Glynburn Rd, Glynde SA 5070",-34.89416,138.656534,,,,,0,0
+758,"Adelaide, SA",restaurants,Tasty Thai,"48-50 Hindley St, Adelaide SA 5000",-34.92,138.59,,,,,0,0
+759,"Prospect, SA",restaurants,Arriba Restaurant Group Pty Ltd,"78 Prospect Rd, Prospect SA 5082",-34.889852,138.594175,,,,,0,0
+760,"Prospect, SA",restaurants,Viet LAmour,"93 Prospect Rd, Prospect SA 5082",-34.887027,138.594364,,,,,0,0
+761,"Underdale, SA",restaurants,Orient Beverage Company Pty Ltd,"140 Ashley St, Underdale SA 5032",-34.918359,138.550903,,,,,0,0
+762,"Collinswood, SA",restaurants,Walkerville Produce,"19 Redmond St, Collinswood SA 5081",-34.891008,138.610931,,,,,0,0
+763,"St Agnes, SA",restaurants,St Agnes Paradise Pizzeria,"267 Smart Rd, St Agnes SA 5097",-34.832444,138.713987,,,,,0,0
+764,"Plympton, SA",restaurants,Suris Finest Indians,"357 Anzac Hwy, Plympton SA 5038",-34.968499,138.547099,,,,,0,0
+765,"Gawler, SA",restaurants,The Southern Hotel Gawler,"23 Murray St, Gawler SA 5118",-34.602747,138.749749,,,,,0,0
+766,"Clearview, SA",restaurants,Olivers  Skinners,"350 Hampstead Rd, Clearview SA 5085",-34.85071,138.617159,,,,,0,0
+767,"Adelaide, SA",restaurants,India,"195 North Tce, Adelaide SA 5000",-34.92,138.6,,,,,0,0
+768,"Marleston, SA",restaurants,Chun Mei Trading,"25 Grove Ave, Marleston SA 5033",-34.945187,138.562828,,,,,0,0
+769,"McLaren Vale, SA",restaurants,Carmels Cafe Bar  Grill,"250 Main Rd, McLaren Vale SA 5171",-35.210754,138.532197,,,,,0,0
+770,"Waikerie, SA",restaurants,Steves Sweets,"22 Mccoy St, Waikerie SA 5330",-34.180967,139.985273,,,,,0,0
+771,"Adelaide, SA",restaurants,Casa Bla Bla Restaurant,"12 Leigh St, Adelaide SA 5000",-34.923385,138.597821,,,,,0,0
+772,"McLaren Flat, SA",restaurants,Tinlins Wines Pty Ltd,"271 Kangarilla Rd, McLaren Flat SA 5171",-35.205676,138.606787,,,,,0,0
+773,"Port MacDonnell, SA",restaurants,Joes Live Lobsters Pty Ltd,"41 Meylin St, Port MacDonnell SA 5291",-38.052716,140.700857,,,,,0,0
+774,"Coonawarra, SA",restaurants,Wynns Coonawarra Estate and Cellar Door Sales,"Memorial Dr, Coonawarra SA 5263",-37.29,140.82,,,,,0,0
+775,"Tanunda, SA",restaurants,La Buona Vita,"89 Murray St, Tanunda SA 5352",-34.525193,138.95944,,,,,0,0

@@ -1,0 +1,378 @@
+SN,Suburb,Category,Business Name,Address,Latitude,Longitude,Short Description,Contact Phone,Contact Email,Website,Rating,Reviews
+1,"Adelaide, SA",restaurants,Royal Adelaide Hospital,"North Tce, Adelaide SA 5000",-34.919807,138.609116,,,,http://www.rah.sa.gov.au,3.5,8
+2,"Hove, SA",restaurants,Griffith Rehabilitation Hospital,"13 Dunrobin Rd, Hove SA 5048",-35.010271,138.524113,,,,http://www.griffithrehabilitation.com.au,0,0
+3,"Woodville South, SA",restaurants,Queen Elizabeth Hospital The,"Woodville Rd, Woodville South SA 5011",-34.88346,138.533498,,,,,3,1
+4,"North Adelaide, SA",restaurants,Womens  Childrens Hospital,"72 King William Rd, North Adelaide SA 5006",-34.91188,138.60032,,,,,4,2
+5,"Campbelltown, SA",restaurants,A Party World,"629 Lower North East Rd, Campbelltown SA 5074",-34.87719,138.66385,,,,,4,3
+6,"Daw Park, SA",restaurants,Repatriation General Hospital,"216 Daws Rd, Daw Park SA 5041",-34.99049,138.58956,,,,,4,2
+7,"Modbury, SA",restaurants,Modbury Hospital,"Smart Rd, Modbury SA 5092",-34.83320647,138.6917732,,,,,2,1
+8,"Marree, SA",restaurants,Marree Health Service,"First St, Marree SA 5733",-29.64958569,138.0625022,,,marreehs@bigpond.com,,0,0
+9,"McLaren Vale, SA",restaurants,McLaren Vale  Districts War Memorial Hospital,"Aldersey St, McLaren Vale SA 5171",-35.224311,138.544119,,,mvdwmh@internode.on.net,,0,0
+10,"Strathalbyn, SA",restaurants,Strathalbyn  District Soldiers Memorial Hospital,"14 Alfred Pl, Strathalbyn SA 5255",-35.25776,138.89379,,,,,0,0
+11,"Strathalbyn, SA",restaurants,Strathalbyn  District Health Service,"14 Alfred Pl, Strathalbyn SA 5255",-35.257765,138.89379,,,,,0,0
+12,"Kurralta Park, SA",restaurants,Tennyson Centre Day Hopsital,"506-520 South Rd, Kurralta Park SA 5037",-34.94,138.57,,,,,0,0
+13,"Crystal Brook, SA",restaurants,Crystal Brook District Hospital Inc,"1100 Edmund Tce, Crystal Brook SA 5523",-33.35,138.21,,,,,0,0
+14,"Woodville, SA",restaurants,TQEH Day Surgery Unit,"Woodville Rd, Woodville SA 5011",-34.88,138.53,,,,,0,0
+15,"North Adelaide, SA",restaurants,Little Company of Mary Health Care  Calvary Health Care SA,"89 Strangeways Tce, North Adelaide SA 5006",-34.9,138.58,,,,,0,0
+16,"Glenside, SA",restaurants,Helen Mayo House,"226 Fullarton Rd, Glenside SA 5065",-34.94,138.62,,,,,0,0
+17,"Whyalla, SA",restaurants,Whyalla Hospital and Health Service Inc,"Wood Tce, Whyalla SA 5600",-33.03560888,137.5766984,,,,,0,0
+18,"Booleroo Centre, SA",restaurants,Booleroo Centre District Hospital  Health Services Inc,"Stephens St, Booleroo Centre SA 5482",-32.88105494,138.3506163,,,,,0,0
+19,"Mt Gambier, SA",restaurants,Mount Gambier And Districts Health Service Inc,"Wehl St North, Mt Gambier SA 5290",-37.81419717,140.7806017,,,,,0,0
+20,"Port Broughton, SA",restaurants,Port Broughton District Hospital,"Bay St, Port Broughton SA 5522",-33.6003297,137.9316522,,,,,0,0
+21,"Loxton, SA",restaurants,Loxton Hospital Complex Incorporated,"Drabsch St, Loxton SA 5333",-34.45385361,140.5626432,,,,,0,0
+22,"Naracoorte, SA",restaurants,Naracoorte Health Service Inc,"Jenkins Tce, Naracoorte SA 5271",-36.96184662,140.7456756,,,,,0,0
+23,"Tanunda, SA",restaurants,Barossa Area Health Services Inc,"15 Mill St, Tanunda SA 5352",-34.52851,138.96115,,,,,0,0
+24,"Northfield, SA",restaurants,Hampstead Rehabilitation Centre,"207 Hampstead Rd, Northfield SA 5085",-34.86046,138.62059,,,,,0,0
+25,"Port Lincoln, SA",restaurants,Port Lincoln Health Services Inc,"Oxford Tce, Port Lincoln SA 5606",-34.72172711,135.850603,,,,,0,0
+26,"Orroroo, SA",restaurants,Orroroo District Hospital,"Pekina Rd, Orroroo SA 5431",-32.73841,138.608,,,,,0,0
+27,"Jamestown, SA",restaurants,Jamestown Hospital  Health Service Inc,"South Tce, Jamestown SA 5491",-33.21111297,138.6064185,,,,,0,0
+28,"Murray Bridge, SA",restaurants,Hills Mallee Southern Regional Health Service,"PO Box 346, Murray Bridge SA 5253",-35.129915,139.271666,,,,,0,0
+29,"Gumeracha, SA",restaurants,Gumeracha District Soldiers Memorial Hospital,"2 Albert St, Gumeracha SA 5233",-34.82618,138.88177,,,,,0,0
+30,"Semaphore South, SA",restaurants,St Margarets Rehabilitation Hospital,"65 Military Rd, Semaphore South SA 5019",-34.84642,138.48047,,,,,0,0
+31,"Gumeracha, SA",restaurants,Northern Adelaide Hills Health Service Inc,"2 Albert St, Gumeracha SA 5233",-34.82618,138.88177,,,,,0,0
+32,"Angaston, SA",restaurants,Barossa Area Health Services Inc,"PO Box 270, Angaston SA 5353",-34.506198,139.047666,,,,,0,0
+33,"Wallaroo, SA",restaurants,Northern Yorke Private Hospital,"Ernest Tce, Wallaroo SA 5556",-33.93012351,137.6373218,,,,,0,0
+34,"Mt Pleasant, SA",restaurants,Northern Adelaide Hills Health Service Inc,"Hospital Rd, Mt Pleasant SA 5235",-34.77325627,139.0539119,,,,,0,0
+35,"Murray Bridge, SA",restaurants,Murray Bridge Soldiers Memorial Hospital Inc,"Swanport Rd, Murray Bridge SA 5253",-35.1338142,139.2815801,,,,,0,0
+36,"Tailem Bend, SA",restaurants,Tailem Bend District Hospital,"Princes Hwy, Tailem Bend SA 5260",-35.30858719,139.4256132,,,,,0,0
+37,"Peterborough, SA",restaurants,Mid North Health Peterborough Hospital,"23 Hurlstone St, Peterborough SA 5422",-32.98092,138.83031,,,,,0,0
+38,"Meningie, SA",restaurants,Meningie  Districts Memorial Hospital  Health Services Inc,"2 South Tce, Meningie SA 5264",-35.69321,139.33541,,,,,0,0
+39,"Port Augusta, SA",restaurants,Port Augusta Hospital,"Hospital Rd, Port Augusta SA 5700",-32.5057187,137.7750967,,,,,0,0
+40,"Gladstone, SA",restaurants,Gladstone Health Centre,"Fifth St, Gladstone SA 5473",-33.27040229,138.3558179,,,,,0,0
+41,"Victor Harbor, SA",restaurants,South Coast District Hospital,"Bay Rd, Victor Harbor SA 5211",-35.56009126,138.607695,,,,,0,0
+42,"Angaston, SA",restaurants,Barossa Area Health Services Inc,"29 North St, Angaston SA 5353",-34.50352,139.0547,,,,,0,0
+43,"Pinnaroo, SA",restaurants,Pinnaroo Soldiers Memorial Hospital,"Bundey Tce, Pinnaroo SA 5304",-35.25710752,140.9063221,,,,,0,0
+44,"Gumeracha, SA",restaurants,Glenview Home,"2 Albert St, Gumeracha SA 5233",-34.82618,138.88177,,,,,0,0
+45,"Port Pirie, SA",restaurants,Port Pirie Regional Health Service Incorporated,"The Terrace, Port Pirie SA 5540",-33.17797233,138.003884,,,,,0,0
+46,"Eudunda, SA",restaurants,Eudunda Senior Citizens Hostel,"40 Ward St, Eudunda SA 5374",-34.17526,139.09051,,,,,0,0
+47,"Maitland, SA",restaurants,Yorke Peninsula Health Maitland Hospital,"65 Robert St, Maitland SA 5573",-34.37,137.67,,,,,0,0
+48,"Mallala, SA",restaurants,Mallala Community Hospital Incorporated,"Aerodrome Rd, Mallala SA 5502",-34.437086,138.508074,,,,,0,0
+49,"Coober Pedy, SA",restaurants,Coober Pedy Hospital  Health Services Inc,"Hospital Rd, Coober Pedy SA 5723",-29.00154768,134.7621851,,,,,0,0
+50,"Oodnadatta, SA",restaurants,Oodnadatta Health Services,Oodnadatta SA 5734,-27.549521,135.447608,,,,,0,0
+51,"Elizabeth Vale, SA",restaurants,Lyell McEwin Hospital,"Haydown Rd, Elizabeth Vale SA 5112",-34.747623,138.666237,,,,,0,0
+52,"Bedford Park, SA",restaurants,Flinders Cardiac,"Level 6, Suite 606 Flinders Private Hospital, Bedford Park SA 5042",-37.822198,144.954855,,,,,0,0
+53,"Kapunda, SA",restaurants,Kapunda Hospital,"Nash St, Kapunda SA 5373",-34.33362717,138.9240464,,,,,0,0
+54,"Laura, SA",restaurants,Laura Hospital,"Mill St, Laura SA 5480",-33.17740553,138.2993572,,,,,0,0
+55,"Waikerie, SA",restaurants,Waikerie Hospital  Health Services Incorporated,"Lawrie Tce, Waikerie SA 5330",-34.18354903,139.9803754,,,,,0,0
+56,"Kingscote, SA",restaurants,Kangaroo Island Health Service,Kingscote SA 5223,-35.652551,137.629762,,,,,0,0
+57,"Eudunda, SA",restaurants,Eudunda Hospital,"40 Ward St, Eudunda SA 5374",-34.17526,139.09051,,,,,0,0
+58,"Oodnadatta, SA",restaurants,Hospital  Health Service,"C/O Post Office, Oodnadatta SA 5734",-27.549521,135.447608,,,,,0,0
+59,"American River, SA",restaurants,American River Health Centre,"Tangara Drv, American River SA 5221",-35.7873032,137.7657659,,,,,0,0
+60,"Cleve, SA",restaurants,Eastern Eyre Health  Aged Care,"13 Main St, Cleve SA 5640",-33.70232,136.49493,,,,,0,0
+61,"Roxby Downs, SA",restaurants,Roxby Downs Health Services,"Burgoyne St, Roxby Downs SA 5725",-30.56699056,136.8949683,,,,,0,0
+62,"Coober Pedy, SA",restaurants,Coober Pedy Hospital Primary Health Unit,"24 Hutchison St, Coober Pedy SA 5723",-29.013817,134.754607,,,,,0,0
+63,"Gladstone, SA",restaurants,Southern Flinders Health,"Fifth St, Gladstone SA 5473",-33.27040229,138.3558179,,,,,0,0
+64,"Walkerville, SA",restaurants,Calvary Rehabilitation Hospital,"18 North East Rd, Walkerville SA 5081",-34.89181,138.61149,Your Road to Recovery,,SA-CRH-Reception@calvarycare.org.au,http://www.calvaryrehabsa.org.au,0,0
+65,"Adelaide, SA",restaurants,St Andrews Hospital Inc,"350 South Tce, Adelaide SA 5000",-34.934918,138.61496,Medical & Surgical Excellence.,,kverity@stand.org.au,http://www.stand.org.au,5,1
+66,"Glenelg South, SA",restaurants,Glenelg Community Hospital,"5 Farrell St, Glenelg South SA 5045",-34.98994,138.51216,Quality Private Hospital wioth pleasant surroundings.,,a.lehman@gchi.com.au,http://www.glenelghosp.com.au,0,0
+67,"Toorak Gardens, SA",restaurants,Burnside War Memorial Hospital,"120 Kensington Rd, Toorak Gardens SA 5065",-34.927678,138.638249,A not-for-profit community-based hospital,,,http://www.burnsidehospital.asn.au,4,1
+68,"Glenelg South, SA",restaurants,Glenelg Community Hospital Incorporated,"5 Farrell St, Glenelg South SA 5045",-34.98994,138.51216,Quality Private Hospital with Pleasant Surroundings.,,reception@gchi.com.au,http://www.carpenterlawyers.com.au,0,0
+69,"Adelaide, SA",restaurants,Adelaide Day Surgery,"18 North Tce, Adelaide SA 5000",-34.92264,138.58887,,,,http://www.curagroup.com.au/adelaide-day-surgery,3.5,2
+70,"Adelaide, SA",restaurants,Parkwynd Private Hospital,"137 East Tce, Adelaide SA 5000",-34.92867,138.614185,,,,http://www.parkwyndprivatehospital.com.au,4,1
+71,"Adelaide, SA",restaurants,Calvary Wakefield Hospital,"300 Wakefield St, Adelaide SA 5000",-34.927612,138.611413,,,,http://www.calvarywakefield.org.au,4.5,4
+72,"North Adelaide, SA",restaurants,The Memorial Hospital,"Sir Edwin Smith Ave, North Adelaide SA 5006",-34.91328952,138.6004758,,,,http://www.thememorialhospital.org.au,3,1
+73,"Adelaide, SA",restaurants,Parkwynd Private Hospital,"137 East Tce, Adelaide SA 5000",-34.928465,138.61422,,,,http://www.parkwyndprivatehospital.com.au,4,1
+74,"Adelaide, SA",restaurants,Wakefield Surgicentre,"316 Wakefield St, Adelaide SA 5000",-34.92768,138.61282,,,wkhswitchboard@calvarysa.com.au,http://www.calvary-wakefield.com.au,0,0
+75,Private,restaurants,Calvary Wakefield Hospital,"316 Wakefield St, Adelaide SA 5000",-34.92768,138.61282,,,wkhswitchboard@calvarysa.com.au,http://www.calvary-wakefield.com.au,0,0
+76,"Stirling, SA",restaurants,Stirling District Hospital Incorporated,"20 Milan Tce, Stirling SA 5152",-35.00742,138.71492,,,,http://www.stirlinghospital.org.au,0,0
+77,"Glenelg, SA",restaurants,Glenelg Day Surgey  Specialist Centre,"4 Gordon St, Glenelg SA 5045",-34.97966,138.51807,,,,http://www.daysurgery.net,0,0
+78,Private,restaurants,Griffith Rehabilitation Hospital,"4 Gordon St, Glenelg SA 5045",-34.97966,138.51807,,,,http://www.griffithrehabilitationhospital.com.au,0,0
+79,"Hove, SA",restaurants,Griffith Rehabilitation Hospital,"13 Dunrobin Rd, Hove SA 5048",-35.01025,138.523861,,,,http://www.griffithrehabilitationhospital.com.au,0,0
+80,"Adelaide, SA",restaurants,Wakefield Surgicentre,"316-320 Wakefield St, Adelaide SA 5000",-34.927685,138.612815,,,,http://www.calvarywakefield.org.au,0,0
+81,"Eastwood, SA",restaurants,Anaster Residential Care,"47 Glen Osmond Rd, Eastwood SA 5063",-34.94275,138.62006,,,,http://www.anaster.com.au,0,0
+82,"Elizabeth Vale, SA",restaurants,Calvary Central Districts Hospital,"25-37 Jarvis Rd, Elizabeth Vale SA 5112",-34.755478,138.656226,,,,http://www.calvarycentraldistricts.org.au,0,0
+83,"Elizabeth Vale, SA",restaurants,Calvary Central Districts Hospital,"25- 37 Jarvis Rd, Elizabeth Vale SA 5112",-34.75481,138.65546,,,,http://www.calvarysa.com.au,0,0
+84,"North Adelaide, SA",restaurants,Calvary North Adelaide Hospital,"89 Strangways Tce, North Adelaide SA 5006",-34.909828,138.588666,,,,http://www.calvarynorthadelaide.org.au,0,0
+85,"Victor Harbor, SA",restaurants,Victor Harbor Private Hospital Incorporated,"Bay Rd, Victor Harbor SA 5211",-35.56009126,138.607695,,,,,0,0
+86,"Magill, SA",restaurants,Kahlyn Day Centre,"40 Briant Rd, Magill SA 5072",-34.91691,138.66995,,,,,0,0
+87,"Ardrossan, SA",restaurants,Ardrossan Community Hospital,"30 Fifth St, Ardrossan SA 5571",-34.4263,137.91721,,,,,0,0
+88,"Bedford Park, SA",restaurants,Flinders Private Hospital,"1 Flinders Drv, Bedford Park SA 5042",-35.021258,138.567751,,,,,0,0
+89,"Adelaide, SA",restaurants,Wakefield Hospital,"300 Wakefield St, Adelaide SA 5000",-34.92761,138.61141,,,,,4.5,4
+90,"Parkside, SA",restaurants,Fullarton Private Hospital,"293 Fullarton Rd, Parkside SA 5063",-34.94936,138.62489,,,,,0,0
+91,"Gilberton, SA",restaurants,Adelaide Clinic,"33 Park Tce, Gilberton SA 5081",-34.90647,138.61373,,,,,0,0
+92,"Moonta North, SA",restaurants,Moonta Health  Aged Care Service,"Majors Rd, Moonta North SA 5558",-34.06091425,137.5885128,,,,,0,0
+93,"Ashford, SA",restaurants,Ashford,"55 Anzac Hwy, Ashford SA 5035",-34.94867,138.57726,,,,,2.5,2
+94,"Cumberland Park, SA",restaurants,Hamilton House Day Surgery,"470 Goodwood Rd, Cumberland Park SA 5041",-34.9749,138.5911,,,,,0,0
+95,"Adelaide, SA",restaurants,Hospitals Private,"350 South Tce, Adelaide SA 5000",-34.934223,138.614914,,,,,0,0
+96,"Magill, SA",restaurants,Hospitals Private,"40 Briant Rd, Magill SA 5072",-34.916912,138.669954,,,,,0,0
+97,"Adelaide, SA",restaurants,St Andrews Medical Centre Chemotherapy Suite,"321 South Tce, Adelaide SA 5000",-34.934751,138.612895,,,,,0,0
+98,"Walkerville, SA",restaurants,Hospitals Private,"18 North East Rd, Walkerville SA 5081",-34.89181,138.611488,,,,,0,0
+99,"Magill, SA",restaurants,Kahlyn Private Hospital,"40 Briant Rd, Magill SA 5072",-34.916912,138.669954,,,,,0,0
+100,"Elizabeth Vale, SA",restaurants,Northside Injury Service,"25 Jarvis Rd, Elizabeth Vale SA 5112",-34.75481,138.65546,,,,,0,0
+101,"Morphett Vale, SA",restaurants,Southern Physiotherapy For Children,"60- 66 States Rd, Morphett Vale SA 5162",-35.10594,138.53587,,,,,0,0
+102,"Eastwood, SA",restaurants,Adelaide Eye  Laser Centre,"215 Greenhill Rd, Eastwood SA 5063",-34.940736,138.621623,,,,,0,0
+103,"Hamley Bridge, SA",restaurants,Hamley Bridge Memorial Hospital Incorporated,"19 Albert St, Hamley Bridge SA 5401",-34.358536,138.676862,,,,,0,0
+104,"Eastwood, SA",restaurants,Glen Osmond Surgicentre Pty Ltd,"45 Glen Osmond Rd, Eastwood SA 5063",-34.94269,138.61977,,,,,0,0
+105,"North Adelaide, SA",restaurants,Memorial Hospital,"Sir Edwin Smith Ave, North Adelaide SA 5006",-34.91306,138.600358,,,,,0,0
+106,"Eastwood, SA",restaurants,Adelaide Eye  Laser Centre,"215 Greenhill Road, Eastwood SA 5063",-34.94074,138.62162,,,,,0,0
+107,"Payneham, SA",restaurants,Baxter Payenham Dialysis Centre,"2 Portrush Rd, Payneham SA 5070",-34.89679,138.6392,,,,,0,0
+108,"Keith, SA",restaurants,Keith  District Hospital Incorporated,"Hill Ave, Keith SA 5267",-36.096631,140.344942,,,,,0,0
+109,"Henley Beach, SA",restaurants,Western Hospital,"168 Cudmore Tce, Henley Beach SA 5022",-34.91054,138.50018,,,,,0,0
+110,"Modbury, SA",restaurants,Modbury Dialysis Centre,"97-99 Smart, Modbury SA 5092",-34.83335,138.69497,,,,,0,0
+111,"Campbelltown, SA",restaurants,North Eastern Community Hospital Incorporated,"580 Lower North East Rd, Campbelltown SA 5074",-34.88294,138.66198,,,,,0,0
+112,"Eastwood, SA",restaurants,Ashford Eye  Laser Centre,"215 Greenhill Rd, Eastwood SA 5063",-34.94074,138.62162,,,,,0,0
+113,"Morphett Vale, SA",restaurants,The Vales Private Hospital,"60- 66 States Rd, Morphett Vale SA 5162",-35.10594,138.53587,,,,,0,0
+114,"Parkside, SA",restaurants,Hospitals Private,"295 Fullarton Rd, Parkside SA 5063",-34.94938,138.624692,,,,,0,0
+115,"North Adelaide, SA",restaurants,Mary Potter Hospice,"89 Strangways Tce, North Adelaide SA 5006",-34.90981,138.58871,,,,,0,0
+116,"McLaren Vale, SA",restaurants,Hospitals Private,"Aldersey St, McLaren Vale SA 5171",-35.224311,138.544119,,,,,0,0
+117,"Victor Harbor, SA",restaurants,Hospitals Private,"Bay Rd, Victor Harbor SA 5211",-35.56008,138.607689,,,,,0,0
+118,"Parkside, SA",restaurants,Fullarton Private Hospital,"295 Fullarton Rd, Parkside SA 5063",-34.94938,138.624692,,,,,0,0
+119,"Adelaide, SA",restaurants,Dr C P Tan,"Suite 10, 50 Hutt St, Adelaide SA 5000",-34.926815,138.61236,Hepatopancreaticbiliary & General Surgeon.,,tanchuanping@gmail.com,,0,0
+120,"Aldgate, SA",restaurants,Hills Medical Service,"15 Fenchurch Rd, Aldgate SA 5154",-35.014816,138.734488,24 hour primary care service.,,hillsmed@health.on.net,http://www.hillsmedicalservice.com.au,0,0
+121,"Ridgehaven, SA",restaurants,St Agnes Surgery,"1251 North East Rd, Ridgehaven SA 5097",-34.8209,138.71524,General And Preventive Care,,mail@stagnessurgery.com.au,http://www.stagnessurgery.com.au,0,0
+122,"Modbury, SA",restaurants,Tea Tree Medical Centre,"975 North East Rd, Modbury SA 5092",-34.83122,138.68593,General And Preventive Care,,mail@stagnessurgery.com.au,http://www.stagnessurgery.com.au,0,0
+123,"Cowell, SA",restaurants,Dr Alexander Ochnik Medical Practice,"Medical Practice, 17 South Tce, Cowell SA 5602",-33.68461,136.92171,All General Family Needs. Looked After Bulk Billing On All Services.,,aochnik@internode.on.net,,0,0
+124,"Tusmore, SA",restaurants,Tusmore Ave Surgery,"103 Tusmore Ave, Tusmore SA 5065",-34.9382,138.65156,General and Preventative Care.,,,,0,0
+125,"Adelaide, SA",restaurants,Wakefield Medical Centre,"Brayhouse 60 Hutt St Adelaide, Adelaide SA 5000",-34.927254,138.612361,,,,,0,0
+126,"North Adelaide, SA",restaurants,Harries Richard FRACS,"Calvary Hospital Strangways Tce, North Adelaide SA 5006",-34.910107,138.588307,,,,,0,0
+127,"Adelaide, SA",restaurants,Pietris George Dr,"Wakefield Hospital, Adelaide SA 5000",-34.927679,138.611099,,,,,0,0
+128,"Trinity Gardens, SA",restaurants,Home Instead Senior Care,"Level 1, 204 Portrush Rd, Trinity Gardens SA 5068",-34.912963,138.64081,Enhancing the lives of ageing adults & their families across Adelaide.,,adelaideeast@homeinstead.com.au,http://zee.homeinstead.com.au/adelaideeast/,0,0
+129,"Banksia Park, SA",restaurants,Adelaide Better Baskets,Banksia Park SA 5091,-34.80901,138.727607,Better Gift Ideas For Busy People.,,info@adelaidebetterbaskets.com.au,http://www.adelaidebetterbaskets.com.au,0,0
+130,"Norwood, SA",restaurants,Send A Gourmet Basket,"41 Chapel St, Norwood SA 5067",-34.916325,138.625785,Quality corporate and individual gift boxes and baskets,,sendagourmetbasket@bigpond.com,http://www.sendagourmetbasket.com,3,2
+131,"Parkside, SA",restaurants,Home Nurses,"257 Fullarton Rd,, Parkside SA 5063",-34.94641,138.62448,Get the care you need at home,,info@hssmail.com.au,http://www.homesupportservices.com.au,0,0
+132,"Victor Harbor, SA",restaurants,NablingU Hire Of Mobility Aids  Baby Equipment,"49 Ainslie Roberts Drv, Victor Harbor SA 5211",-35.571617,138.6026,Aids for Living - Mobility Aids and Baby Hire,,enquiries@nablingu.com.au,http://www.nablingu.com,0,0
+133,"Adelaide, SA",restaurants,Estilo Commercial,"26 Gray Crt, Adelaide SA 5000",-34.92296,138.58959,Quality Contract Furniture.,,sales@estilocommercial.com.au,http://www.estilocommercial.com.au,0,0
+134,"Richmond, SA",restaurants,The Table  Chair Co,"133 Richmond Rd, Richmond SA 5033",-34.94193,138.56958,Creative Furniture Solutions For Commercial Environments.,,enquiries@tableandchairco.com.au,http://www.tableandchairco.com.au,0,0
+135,"Melrose Park, SA",restaurants,Workspace Commercial Furniture,"54 Jose St, Melrose Park SA 5039",-34.9897,138.58048,"Suppliers To Cafe, Hotel, Apartment, Joinery, Club, Church & Office.",,awhite@workspace.com.au,http://www.workspace.com.au,0,0
+136,"Adelaide, SA",restaurants,St Andrews Hospital Incorporated,"252 East Tce, Adelaide SA 5000",-34.932876,138.617199,,,,http://www.stand.org.au,0,0
+137,"North Adelaide, SA",restaurants,Womens  Childrens Hospital Foundation,"55 King William Rd, North Adelaide SA 5006",-34.911006,138.598135,,,,http://www.wchfoundation.org.au,0,0
+138,"Toorak Gardens, SA",restaurants,Burnside War Memorial Hospital Inc,"120 Kensington Rd, Toorak Gardens SA 5065",-34.92768,138.63822,,,,,4,1
+139,"Adelaide, SA",restaurants,AUDIOLOGY DEPT  ROYAL ADE HOSPITAL,"Level 6 North Tce, Adelaide SA 5000",-34.92,138.59,,,,,0,0
+140,"Clare, SA",restaurants,Clare Medical Centre,"41 Old North Rd, Clare SA 5453",-33.83262,138.61281,Comprehensive family health care centre.,,cmc@claremedical.com.au,http://www.claremedical.com.au,0,0
+141,"Kent Town, SA",restaurants,Radiology SA,"79 Fullarton Rd, Kent Town SA 5067",-34.926108,138.623159,SA Owned & Operated Offering Radiologists On Site.,,radiologysa@radiologysa.com.au,http://www.radiologysa.com.au,0,0
+142,"Dulwich, SA",restaurants,Dulwich Family Practice,"12 Stuart Rd, Dulwich SA 5065",-34.935298,138.632018,Professional Family Health Care In A Progressive & Caring Environment.,,dulwichfp@internode.on.net,http://www.dulwichfamilypractice.com.au,0,0
+143,"Adelaide, SA",restaurants,SA Pathology,"Frome. Rd, Adelaide SA 5000",-34.91753454,138.6061626,For Our Patients And Our Population,,imvs@health.sa.gov.au,http://www.imvs.sa.gov.au,0,0
+144,"North Adelaide, SA",restaurants,Denby Steele,"175 Ward St, North Adelaide SA 5006",-34.90955,138.59478,"Friendly, Flexible & Efficient, High-Quality, Professional Service.",,denby@denbysteele.com.au,http://www.denbysteele.com.au,0,0
+145,"Gawler, SA",restaurants,Adelaide Road Clinic,"25 Adelaide Rd, Gawler SA 5118",-34.60582,138.744739,Accepting New Patients. 1st Appointment Bulk Billed.,,enquiries@adelaideroadclinic.com.au,http://www.adelaideroadclinic.com.au,0,0
+146,"Hindmarsh, SA",restaurants,Hindmarsh Medical Clinic,"275 Port Rd, Hindmarsh SA 5007",-34.903148,138.569663,Friendly Family Practice,,,http://www.hindmarshmedical.com.au,0,0
+147,"Mt Gambier, SA",restaurants,Village Medical Centre,"Shop 2/ Buronga Ave, Mt Gambier SA 5290",-37.81223186,140.7925599,Professional Service with a Smile.,,admin@villagemedical.com.au,http://www.villagemedical.com.au,0,0
+148,"Port Pirie, SA",restaurants,Terrace Clinic,"138 The Terrace, Port Pirie SA 5540",-33.17681,138.00351,AGPAL Accredited General Practice For Adults & Children,,info@terraceclinic.com.au,http://www.yourhealth.net.au/terraceclinic,0,0
+149,"Adelaide, SA",restaurants,Insite Injury Management Group,"94-98 Sturt St, Adelaide SA 5000",-34.93284,138.59662,Dedicated To Maximising The Health And Safety Of People At Work.,,admin@insitegroup.com.au,http://www.insitegroup.com.au,0,0
+150,"Walkerville, SA",restaurants,Calvary Rehabilitation Hospital,"18 North East Rd, Walkerville SA 5081",-34.89181,138.61149,,,lynne.simpson@calvarycare.org.au,http://www.calvaryrehabsa.org.au,0,0
+151,"Eastwood, SA",restaurants,Washington Brown,"213 Greenhill Rd, Eastwood SA 5063",-34.94076,138.62111,Specialising In Tax Depreciation On Investment Properties,,info@washingtonbrown.com.au,http://www.washingtonbrown.com.au,0,0
+152,"Adelaide, SA",restaurants,iStay Precinct,"185 Morphett St, Adelaide SA 5000",-34.926811,138.593387,Istay Precinct 4.5 Star Fully Self Contained Apartments,,precinct@istayhere.com.au,http://www.theoaksgroup.com.au,0,0
+153,"Adelaide, SA",restaurants,Oaks Horizons,"104 North Tce, Adelaide SA 5000",-34.92214,138.59517,Oaks Horizons 4.5 Star Fully Self Contained Apartments,,horizons@theoaksgroup.com.au,http://www.theoaksgroup.com.au,4,2
+154,"Adelaide, SA",restaurants,Oaks Embassy,"96 North Tce, Adelaide SA 5000",-34.921845,138.5945,Oaks Embassy 4.5 Star Fully Self Contained Apartments,,embassy@theoaksgroup.com.au,http://www.theoaksgroup.com.au,3,2
+155,"Adelaide, SA",restaurants,Dr Daniel Lanzer,Adelaide SA 5000,-34.928605,138.601685,A Recognised Leader In Cosmetic Surgery,,info@drlanzer.com,http://www.drlanzer.com,0,0
+156,"Glenelg, SA",restaurants,Oaks Liberty Towers,"25- 29 Colley Tce, Glenelg SA 5045",-34.977251,138.512501,Oaks Liberty 4.5 Star Fully Self Contained Apartments,,liberty@theoaksgroup.com.au,http://www.theoaksgroup.com.au,5,1
+157,"Port Lincoln, SA",restaurants,Grand Tasman Hotel,"94 Tasman Tce, Port Lincoln SA 5606",-34.72161,135.86091,Great Times At The Grand Tasman Hotel.,,gthotel@internode.on.net,http://www.grandtasmanhotel.com.au,0,0
+158,"Adelaide, SA",restaurants,Express Training Connections,"Suite 504  Level 5/ 38 Gawler Pl, Adelaide SA 5000",-34.922669,138.601995,Room To Hire,,info@etc-australia.com,http://www.etc-australia.com,0,0
+159,"Glenelg, SA",restaurants,Oaks Plaza Pier,"16 Holdfast Prm, Glenelg SA 5045",-34.97755,138.51088,Oaks Plaza Pier 4.5 Star Fully Self Contained Apartments,,pier@theoaksgroup.com.au,http://www.theoaksgroup.com.au,3.5,2
+160,"Adelaide, SA",restaurants,Bupa,Adelaide SA 5000,-34.928605,138.601685,Bupa. Find A Healthier You.,,,http://www.bupa.com.au,0,0
+161,"Norwood, SA",restaurants,Bupa,"200 The Pde, Norwood SA 5067",-34.92116,138.63687,Bupa. Find A Healthier You.,,,http://www.bupa.com.au,0,0
+162,"North Adelaide, SA",restaurants,North Adelaide Heritage Group,"82 Hill St, North Adelaide SA 5006",-34.907704,138.587282,"Villas, Cottages, Terrace Homes & Apartments In North Adelaide.",,res@adelaideheritage.com,http://www.adelaideheritage.com,0,0
+163,"Greenwith, SA",restaurants,Greenwith Family Dental,"Shop 1/ 222 Target Hill Rd, Greenwith SA 5125",-34.77053,138.706386,High Quality Dental Care For The Entire Family.,,greenwithmedical@bigpond.com,http://www.greenwithfamilyhealth.com.au/greenwith_dental.html,0,0
+164,"Marleston, SA",restaurants,Adelaide Merchandising,"9-11 Grove Ave, Marleston SA 5033",-34.943853,138.562931,"Special. In Shelving, Wheels, Castors, Handtrucks, Trolleys & Ladders.",,sales@adelaidemerchandising.com,http://www.adelaidemerchandising.com,0,0
+165,"West Lakes, SA",restaurants,AAMI Stadium Function Complex,"Turner Drv, West Lakes SA 5021",-34.879649,138.49352,A Venue Of Possibilities...,,enquiries@encoregroup.net.au,http://www.encoregroup.net.au/,3.5,6
+166,"Adelaide, SA",restaurants,Lend Lease,"Level 2, 141-149 Ifould St, Adelaide SA 5000",-34.927656,138.606622,Quality Construction Management,,,http://www.lendlease.com,0,0
+167,"Stepney, SA",restaurants,DBG Technologies,"Level 1, 38 Payneham Rd, Stepney SA 5069",-34.92557,138.60874,"Digital. Done Right.  Web Design, CMS, eCommerce, Mobile Webites.",,info@dbgtechnologies.com.au,http://www.dbgtechnologies.com.au,0,0
+168,"Coober Pedy, SA",restaurants,Desert Cave Hotel,"Lot 1 Hutchison St, Coober Pedy SA 5723",-29.013817,134.754607,A Dream To Share The Extraordinary,,reserve@desertcave.com.au,http://www.desertcave.com.au,1,1
+169,"Victor Harbor, SA",restaurants,Victor Harbor Security,"PO Box 70, Victor Harbor SA 5211",-35.547889,138.617283,Locals Servicing Locals And Getting It Right!,,admin@victorharborsecurity.com.au,http://www.victorharborsecurity.com.au,0,0
+170,"Stepney, SA",restaurants,SPORTSMEDSA Orthopaedic,"32 Payneham Rd,, Stepney SA 5069",-34.913644,138.624975,Getting you back on Track,,info@sportsmed.com.au,http://www.sportsmed.com.au,0,0
+171,"Adelaide, SA",restaurants,Nuweigh Australia,Adelaide SA 5000,-34.928605,138.601685,"Manufacturing All Forms Of Weighing Equipment, Scales & Loadcells.",,admin@nsw.com.au,http://www.nuweigh.com.au,0,0
+172,"Welland, SA",restaurants,PPI Promotion  Apparel,"71 Welland Ave, Welland SA 5007",-34.905769,138.559799,Corporate Merchandise - Conferences - Charities,,sales@ppipa.com.au,http://www.ppipa.com.au,0,0
+173,"Morphett Vale, SA",restaurants,SPORTSMED SA Physiotherapy,"221-223 Main South Rd., Morphett Vale SA 5162",-35.116701,138.522439,Getting you back on track.,,info@sportsmed.com.au,http://www.sportsmed.com.au,0,0
+174,"Edinburgh North, SA",restaurants,Supagas,"13-15 Bellchambers Rd, Edinburgh North SA 5113",-34.708974,138.657448,"Suppliers Of Gas To Home, Industry, Medical And More.",,,http://www.supagas.com.au,0,0
+175,"Port Augusta, SA",restaurants,Arid Land Communications,Port Augusta SA 5700,-32.498297,137.775707,All Your Telecommunication & Network System Needs.,,,http://www.aridlandcomms.net.au,0,0
+176,"Mt Gambier, SA",restaurants,RCR Haden Pty Ltd,"3A Calula Drv, Mt Gambier SA 5290",-37.812061,140.753281,Australia's Wide Air Conditioning And Mechanical Engineering Services,,sales@haden.com.au,http://www.haden.com.au,0,0
+177,Waste Reduction & Disposal Services,restaurants,Sterihealth,"3A Calula Drv, Mt Gambier SA 5290",-37.812061,140.753281,Medical Waste & Safe Sharps Management Specialists,,,http://www.sterihealth.com.au,0,0
+178,"Whyalla Norrie, SA",restaurants,Environ Plumbing,"PO Box 2693, Whyalla Norrie SA 5608",-33.027816,137.539938,Service & Solutions For All Your Plumbing & Gas Fitting Needs,,admin@environplumbing.com.au,http://www.environplumbing.com.au,0,0
+179,"Prospect, SA",restaurants,IPS Automation,"295 Churchill Rd, Prospect SA 5082",-34.872387,138.584142,Specialist In The Application Of Pneumatic & Vacuum Technology.,,sales@ipsauto.com.au,http://www.torqind.com/ips-automation,0,0
+180,"Woodside, SA",restaurants,Peter Fisher Lawyers,"56A Onkaparinga Valley Rd, Woodside SA 5244",-34.951417,138.876087,"Specialising In Wills, Estate & Personal Protection Planning",,,,0,0
+181,"Nuriootpa, SA",restaurants,Juncken Home Timber  Hardware,"53-57 Tanunda Rd, Nuriootpa SA 5355",-34.48217,138.99214,Complete Range Of Building Supplies & Hardware.,,hardware@junckenbuilders.com.au,http://www.junckenbuilders.com.au,0,0
+182,"Adelaide, SA",restaurants,Hairific Hair  Wig Consultants,"Royal Adelaide Hospital, Main Entrance, North Tce,, Adelaide SA 5000",-34.920598,138.60815,"Wigs, enhancers, extensions, toupees/wiglets and hair pieces",,info@hairificwigs.com.au,http://www.hairificwigs.com.au,0,0
+183,"Adelaide, SA",restaurants,LED Signs Pty Ltd,Adelaide SA 5000,-34.928605,138.601685,Electronic Signs - LED & LCD Signage Solutions,,sales@led-signs.com.au,http://www.led-signs.com.au,0,0
+184,"Richmond, SA",restaurants,Rondent Automation Services,"18 Deacon Ave, Richmond SA 5033",-34.94056,138.56808,"Industrial Electronics, Automatic Control Systems, Security & CCTV.",,services@rondentautomation.com.au,http://www.rondentautomation.com.au,0,0
+185,"Clapham, SA",restaurants,Balyana Accommodation  Hospitality Services,"46 Strathcona Ave, Clapham SA 5062",-34.99652,138.60314,Multi-Purpose Conference Venue Set In The Adelaide Hills 6 Km From CBD,,,http://www.bedfordgroup.com.au,0,0
+186,"Stepney, SA",restaurants,McNeil Surgical Pty Ltd,"29- 31 Magill Rd, Stepney SA 5069",-34.915172,138.625322,"Complete Surgical & Health Care Products Supplier, Visit Our Website!",,,http://www.mcneilsurgical.com.au,0,0
+187,"Edwardstown, SA",restaurants,Hills Antenna  TV Systems,"13- 15 Woodlands Tce, Edwardstown SA 5039",-34.984132,138.572493,Australia's Leading Manufacturer Of TV Reception Products.,,sa@hillsantenna.com.au,,0,0
+188,"Richmond, SA",restaurants,GaP Solutions Pty Ltd,"368 South Rd, Richmond SA 5033",-34.93867,138.57045,Hospitality & Supermarket Solutions,,,http://www.gapsolutions.com.au,0,0
+189,"Daw Park, SA",restaurants,Repat Radiology,"216 Daws Rd, Daw Park SA 5041",-34.990539,138.589528,Bulk-Billing For Medicare Entitled Patients. Advanced Medical Imaging.,,repat.radiology@health.sa.gov.au,http://www.repatradiology.com.au,0,0
+190,"Panorama, SA",restaurants,Peter Van The Party Man,"Cnr Goodwood & Springbank Rds, Panorama SA 5041",-34.99108,138.59289,Your Party Supplies One Stop Shop! You'll Find It All Here!,,partyman@petervan.com.au,http://www.petervan.com.au,3.5,7
+191,Doors & Door Fittings,restaurants,MTIQualos Pty Ltd,"Cnr Goodwood & Springbank Rds, Panorama SA 5041",-34.99108,138.59289,Clearly The Best P.V.C Doors.,,sales@mtiqualos.com.au,http://www.mtiqualos.com.au,0,0
+192,"Whyalla, SA",restaurants,Iteeth Implant Dental,"51 Playford Ave, Whyalla SA 5600",-33.029936,137.567842,"General, Preventative & Cosmetic Dentistry In Whyalla.",,drsimpson@iteeth.com.au,http://www.iteeth.com.au,0,0
+193,"Hove, SA",restaurants,Peter Fisher Lawyers,"389 Brighton Rd, Hove SA 5048",-35.01197,138.52215,"Specialising In Wills, Estate & Personal Protection Planning",,pfisher@peterfisher.com.au,http://www.peterfisherlawyers.com.au,0,0
+194,"Mt Gambier, SA",restaurants,Dycer Constructions Pty Ltd,"18 Eleanor St, Mt Gambier SA 5290",-37.82923,140.77338,Construction & Project Management - Commercial & Industrial.,,,http://www.dycer.com.au,0,0
+195,"Goodwood, SA",restaurants,Health Partners Optical,"92 King William Rd, Goodwood SA 5034",-34.95175,138.59953,More Than Just A Health Fund.,,optical@healthpartners.com.au,http://www.optical.healthpartners.com.au,4,1
+196,"North Adelaide, SA",restaurants,Nutrition Professionals Australia,"2/ 191 Melbourne St, North Adelaide SA 5006",-34.908683,138.60504,Accredited Practising Dietitian.,,admin@npagroup.com.au,http://www.npagroup.com.au,0,0
+197,"Glandore, SA",restaurants,Aidacare,"664 South Rd, Glandore SA 5037",-34.96013,138.57206,Visit One Of Our 13 Locations Or Call Today!,,admin@aidacare.com.au,http://www.aidacare.com.au,0,0
+198,Medical Equipment,restaurants,Aidacare,"664 South Rd, Glandore SA 5037",-34.96013,138.57206,Visit One Of Our 13 Locations Or Call Today!,,admin@aidacare.com.au,http://www.aidacare.com.au,0,0
+199,Mobility,restaurants,Aidacare,"664 South Rd, Glandore SA 5037",-34.96013,138.57206,Visit One Of Our 13 Locations Or Call Today!,,admin@aidacare.com.au,http://www.aidacare.com.au,0,0
+200,"Adelaide, SA",restaurants,Health Partners,"86 Pirie St, Adelaide SA 5000",-34.925291,138.602911,More Than Just A Health Fund.,,ask@healthpartners.com.au,http://www.healthpartners.com.au,0,0
+201,"Gepps Cross, SA",restaurants,Down Under Textiles Pty Ltd,"U1 18-20 Carsten Rd, Gepps Cross SA 5094",-34.839598,138.59539,Let Us Take Care Of All Your Bedding Needs.,,admin@downundertextiles.com.au,http://www.downundertextiles.com.au,0,0
+202,"Netley, SA",restaurants,Jaymel Airconditioning,"382 Richmond Rd, Netley SA 5037",-34.943417,138.544471,Choose The Right Air Conditioner For Your Individual Needs.,,jaymel@jaymel.com.au,http://www.jaymel.com.au,0,0
+203,"Ashford, SA",restaurants,France Michael Dr,"Suite 31, 4th Floor, 57 Anzac Hwy, Ashford SA 5035",-34.948606,138.576911,Specialising In Laparoscopic And Minimally Invasive Surgery,,michael.france@adelaide.edu.au,http://www.laparoscopicsurgeon.com.au,0,0
+204,"Edwardstown, SA",restaurants,Compliant Fire Services Pty Ltd,"11 Woodlands Tce, Edwardstown SA 5039",-34.983941,138.572724,"""For All Your Fire Protection Needs""",,service@compliantfire.com.au,http://www.compliantfire.com.au,0,0
+205,"Adelaide, SA",restaurants,API Insurance Services,"Level 3 185 Victoria Sq, Adelaide SA 5000",-34.927512,138.598773,Our service and advice is just the beginning ... Call 1800 088 892,,enquiries@trustAPI.com.au,http://www.trustAPI.com.au,0,0
+206,"St Agnes, SA",restaurants,Chemflo Pty Ltd,"PO Box 167, St Agnes SA 5097",-34.832029,138.707013,"Cleaning - It's More Than Just Products, Get The Right Advice!",,chemflo@chemflo.com.au,http://www.chemflo.com.au,0,0
+207,"Adelaide, SA",restaurants,International Oyster  Seafoods,"241 Franklin St, Adelaide SA 5000",-34.92792,138.58996,Processors & Distributors of quality Oysters & Seafood.,,sales@internationaloyster.com.au,http://www.internationaloyster.com.au,0,0
+208,"Port Lincoln, SA",restaurants,West Coast Funerals,"1123 Flinders Hwy, Port Lincoln SA 5606",-34.714949,135.838101,Personalised & Truly Caring Services Set Amongst Our Tranquil Gardens,,ralph@westcoastfunerals.com.au,http://www.westcoastfunerals.com.au,0,0
+209,Medical Agents,restaurants,Medical Billing Solutions,"13- 15 Woodlands Tce, Edwardstown SA 5039",-34.984132,138.572493,We Do It All For You,,admin@medicalbillingsolutions.com.au,http://www.medicalbillingsolutions.com.au,0,0
+210,"Thebarton, SA",restaurants,Commercial Security Solutions Pty Ltd,Thebarton SA 5031,-34.916625,138.57239,We Provide Integrated Systems For Now & The Future...,,enquiries@commercialsecurity.com.au,http://www.commercialsecurity.com.au,0,0
+211,"North Adelaide, SA",restaurants,Francis DA Ghan,"Suite 10, 183 Tynte St, North Adelaide SA 5006",-34.906862,138.593779,Medical Practitioner. Orthopaedics Specialist.,,ghan183@bigpond.net.au,http://www.francisghan.com.au/index.htm,0,0
+212,"Loxton, SA",restaurants,Bettio Building Contractors,"21 East Tce, Loxton SA 5333",-34.45183,140.56893,Excellence In Home Building - Town And Country,,,http://www.bettio.com.au,0,0
+213,"Holden Hill, SA",restaurants,Performance Catering Equipment Pty Ltd,"18 Delray Ave, Holden Hill SA 5088",-34.84561,138.68481,"Contact Us For All Your Equipment, Table Top And Service Needs.",,sales@performancecatering.com.au,http://www.performancecatering.com.au,0,0
+214,"Port Augusta, SA",restaurants,Bagman Distribution Services Pty Ltd,Port Augusta SA 5700,-32.498297,137.775707,Huge Range Of Products. Servicing Mid & Far North Since 1992.,,,http://www.bagmandistribution.com.au,0,0
+215,"Adelaide, SA",restaurants,Wilson Parking,"27 Austin St, Adelaide SA 5000",-34.921884,138.604386,Over 200 Car Parks Australia Wide | Visit Our Website For Locations,,wadel@wilsonparking.com.au,http://www.wilsonparking.com.au,2,2
+216,"Adelaide, SA",restaurants,GU Health,Adelaide SA 5000,-34.928605,138.601685,Quality health insurance,,corporate@guhealth.com.au,http://www.guhealth.com.au,0,0
+217,"Wilpena, SA",restaurants,Rawnsley Park Station,Wilpena SA 5434,-31.88985624,138.4190096,Your Stay Can Be As Active Or As Relaxed As You Like.,,info@rawnsleypark.com.au,http://www.rawnsleypark.com.au,0,0
+218,"Malvern, SA",restaurants,Walsh Boyce Key,"305 Unley Rd, Malvern SA 5061",-34.96044,138.60866,To assist our clients to achieve their financial goals,,andrew@andrewkey.com.au,http://www.andrewkey.com.au,0,0
+219,"Frewville, SA",restaurants,Adelaide City Fringe Serviced Apartments and Motel,"239 Glen Osmond Rd, Frewville SA 5063",-34.94948,138.6313,"Family Suites, 1 & 2 Bedroom Apartments & Motel Rooms",,info@accommodationadelaide.com.au,http://www.accommodationadelaide.com.au,0,0
+220,"Kent Town, SA",restaurants,Rosalind Neale Realty,"53 Fullarton Rd, Kent Town SA 5067",-34.92371,138.62334,For Excellent Service In Real Estate Sales & Property Management,,rosneale@adelaide.on.net,http://www.nealerealty.com.au,0,0
+221,"Stepney, SA",restaurants,Complete Comfort,"17 Nelson St, Stepney SA 5069",-34.914524,138.631225,Specialising In Retail Bedding. Full Range Of Sizes.,,completecomfort@bigpond.com,http://www.completecomfort.net.au,0,0
+222,"Gilles Plains, SA",restaurants,Highlander Hotel Motel,"647 North East Rd, Gilles Plains SA 5086",-34.85208,138.66506,Quality Accommodation At Affordable Prices,,admin@highlanderhotel.com.au,http://www.highlanderhotel.com.au,2.5,3
+223,"Clare, SA",restaurants,Comfort Inn Clare Central,"325 Main North Rd, Clare SA 5453",-33.82922,138.6077,Ideally Located In The Centre Of Clare - Enjoy Our Local Hospitality.,,info@clarecentral.com.au,http://www.clarecentral.com.au,0,0
+224,"Encounter Bay, SA",restaurants,Kirribilli At Encounter Bay,"150 Bay Rd, Encounter Bay SA 5211",-35.564295,138.596037,A Spirit Of Caring. A Tradition Of Excellence.,,kiradm@padman.com.au,http://www.padmanhealthcare.com.au,0,0
+225,"Regency Park, SA",restaurants,Tony Colyer Pty Ltd,"521 South Rd, Regency Park SA 5010",-34.8626,138.56985,"Wholesalers Of Manchester, Linen, Textiles, Fabrics & Accessories.",,sales@tonycolyer.com.au,http://www.tonycolyer.com.au,0,0
+226,"Port Pirie, SA",restaurants,John Pirie Motor Inn,"166-172 Warnertown Rd, Port Pirie SA 5540",-33.186797,138.025742,"Accommodation, Restaurant & Bar, Function Room, Pool, Free WiFi &more!",,pirie@countryclubs.com.au,http://www.countryclubs.com.au,0,0
+227,"Clare, SA",restaurants,Wild Saffron,"288 Main North Rd, Clare SA 5453",-33.832889,138.610931,"Award-Winning Restaurant, Gourmet Food Store & Catering Business",,heather@wildsaffron.com.au,http://www.wildsaffron.com.au,5,1
+228,"Tea Tree Gully, SA",restaurants,Cal Rite Instruments,Tea Tree Gully SA 5091,-34.820764,138.725071,"Complete Calibration, Sales and Service to all Process Instrumentation",,cal-rite@chariot.net.au,http://www.cal-riteinstruments.com.au/,0,0
+229,"Kilkenny, SA",restaurants,Torrens Grove Retirement Village,"1 Humphries Tce, Kilkenny SA 5009",-34.87755,138.55446,Inner West Adelaide Retirement Living Just 7km From Adelaide CBD.,,torrensinfo@retireaustralia.com.au,http://www.retireaustralia.com.au/our-communities/torrensgrove/,0,0
+230,"Port Lincoln, SA",restaurants,Lincoln Grove Retirement Estate,"27 Marine Ave, Port Lincoln SA 5606",-34.72804,135.84684,Luxurious RetirementUnits & Serviced Apartments On The Eyre Peninsula.,,lincolngroveinfo@retireaustralia.com.au,http://www.retireaustralia.com.au/our-communities/lincolngrove/,0,0
+231,"Salisbury, SA",restaurants,Harwin Retirement Village,"133 Frost Rd, Salisbury SA 5108",-34.7826,138.65226,"North Adelaide Retirement Living, Supported Living & Respite Care.",,harwininfo@retireaustralia.com.au,http://www.retireaustralia.com.au/our-communities/harwin/,0,0
+232,"Hope Valley, SA",restaurants,Tea Tree Gardens Retirement Village,"1075 Grand Junction Rd, Hope Valley SA 5090",-34.84216,138.6843,North East Adelaide Retirement Living Just 20mins From Adelaide CBD.,,teatreeinfo@retireaustralia.com.au,http://www.retireaustralia.com.au/our-communities/teatreegardens/,0,0
+233,"Parkside, SA",restaurants,OAMPS Insurance Brokers,"180 Greenhill Rd, Parkside SA 5063",-34.941198,138.613504,"Business Insurance, Risk Management, Personal Insurance.",,adelaide@oamps.com.au,http://www.oamps.com.au,0,0
+234,"Dulwich, SA",restaurants,Combe Pearson Reynolds,"174 Fullarton Rd, Dulwich SA 5065",-34.93589,138.6247,Providing Our Clients With Quality Design Services.,,admin@cprengineers.com.au,http://www.cprengineers.com.au,0,0
+235,"Lonsdale, SA",restaurants,Action Line Marking SA PL,Lonsdale SA 5160,-35.108686,138.497043,Road & Line Marking Professionals.,,,http://www.actionlinemarking.com,0,0
+236,"Kent Town, SA",restaurants,Clinpath Laboratories,"19 Fullarton Rd, Kent Town SA 5067",-34.91789,138.6225,"We Take It Personally. 24 Hours A Day, 365 Days A Year.",,itsupport@clinpath.com.au,http://www.clinpath.com.au,0,0
+237,"Rose Park, SA",restaurants,Savvoulidis Tom Dr,"62 Kensington Rd, Rose Park SA 5067",-34.927846,138.630461,Anterior Hip Replacement Surgery Orthopaedic Surgeon,,admin@drsavvoulidis.com.au,http://www.drsavvoulidis.com.au,0,0
+238,"Waikerie, SA",restaurants,Hansen Electric,"1 Wuttke Rd, Waikerie SA 5330",-34.189451,139.980072,Experience - Expertise - Excellence,,info@hansenelectric.com.au,http://www.hansenelectric.com.au,0,0
+239,"Wirrabara, SA",restaurants,Taralee Orchards,"Forest Rd, Wirrabara SA 5481",-33.07022205,138.2282844,Come And Stay For A While!,,info@taralee.com.au,http://www.taralee.com.au,0,0
+240,"Payneham, SA",restaurants,LJ Hooker Business Broking  Adelaide,"2a Portrush Rd, Payneham SA 5070",-34.89679,138.6392,"Business Brokers In Payneham, SA",,adelaide@ljhbb.com.au,http://www.ljhooker.com.au/bba,0,0
+241,"Panorama, SA",restaurants,Peter Van The Party Man,"Cnr Goodwood & Springbank Rds, Panorama SA 5041",-34.99108,138.59289,Your Party Supplies One Stop Shop. You'll Find It All Here!,,,,3.5,7
+242,"Hawker, SA",restaurants,Hawker Hotel Motel,"80 Elder Tce, Hawker SA 5434",-31.886452,138.420877,Hub of the Flinders Ranges,,hawkerhotel@bigpond.com,,0,0
+243,"Unley, SA",restaurants,Haddad Pharmacy Group,"Shp 2/ 160 Unley Rd, Unley SA 5061",-34.94881,138.60668,Haddad Pharmacy Group provides a wide range of services.,,nicola@haddadpharmacygroup.com.au,http://www.haddadpharmacygroup.com.au,0,0
+244,"Port Noarlunga, SA",restaurants,C  S Decorators Pty Ltd,Port Noarlunga SA 5167,-35.146431,138.47788,Attention To Detail,,colin@csdecorators.com.au,http://www.csdecorators.com.au,0,0
+245,"North Adelaide, SA",restaurants,Mary Potter Foundation,North Adelaide SA 5006,-34.907436,138.596477,Supporting specialised palliative and end of life care,,reception@marypotter.org.au,http://www.marypotter.org.au,0,0
+246,"Salisbury, SA",restaurants,Identity Embroidery,"1/ 3 Park Tce, Salisbury SA 5108",-34.76414,138.64074,In House Embroidery Specialists.,,identityplus@bigpond.com,http://www.identityplus.net.au,0,0
+247,"North Adelaide, SA",restaurants,Regal Park Motor Inn,"44 Barton Tce East, North Adelaide SA 5006",-34.90346,138.59615,Welcome To The Regal Park Motor Inn,,info@regalpark.com.au,http://www.regalpark.com.au,0,0
+248,"Wayville, SA",restaurants,Shipway Hotel Motel Brokers,"58 Greenhill Rd, Wayville SA 5034",-34.94208,138.59327,Invest In Your Future.,,gshipway@gmail.com,http://www.shipwayhotelbrokers.com.au,0,0
+249,"Berri, SA",restaurants,Devilees Riverland Air Conditioning  Refrigeration,"1290 old sturt Hwy, Berri SA 5343",-34.262692,140.614405,Keep Your Cool,,peter@devilees.com.au,http://www.devilees.com.au,0,0
+250,"Port Adelaide, SA",restaurants,Tauondi College,Port Adelaide SA 5015,-34.846746,138.506906,Cultural Teaching.,,reception@tauondi.sa.edu.au,http://www.tauondi.sa.edu.au,0,0
+251,"Lonsdale, SA",restaurants,Falcon Shopfitters Pty Ltd,"13 Waddikee Rd, Lonsdale SA 5160",-35.110443,138.501169,"Specialising in Retail, Office, Hotel & Commerical Fitouts",,info@falconshopfitters.com.au,http://www.falconshopfitters.com.au,0,0
+252,"Ascot Park, SA",restaurants,Colonic Irrigation SA,"773 Marion Rd, Ascot Park SA 5043",-34.99343,138.5574,Water & Coffee Irrigations,,,http://www.colonicirrigationsa.com,0,0
+253,"Beulah Park, SA",restaurants,Adelaide Care Solutions,"262 Magill Rd, Beulah Park SA 5067",-34.91489,138.64465,Specialising In Aged Care & Community Care.,,admin@adelaidecare.com.au,http://www.adelaidecare.com.au,0,0
+254,"Auburn, SA",restaurants,The Rising Sun Hotel,"19 Main North Rd, Auburn SA 5451",-34.025914,138.685119,"A Function Centre For Multiple Occasions - Auburn, SA",,rising@capri.net.au,http://www.therisingsunhotel.com.au/,0,0
+255,"Thebarton, SA",restaurants,William Harley  Son Pty Ltd,"28 Dew St, Thebarton SA 5031",-34.91928,138.57332,We Are Very Competitive And Still Produce A Superior Product.,,wharley@esc.net.au,http://www.wharley.com.au,0,0
+256,"St Agnes, SA",restaurants,Absolute Stainless  Aluminium,"Unit 2/ 145 Tolley Rd, St Agnes SA 5097",-34.82851,138.70711,Quality Balustrade & Handrail Fabrications,,,http://www.absolutesa.com.au,0,0
+257,"West Lakes Shore, SA",restaurants,IT Solutions In Time,West Lakes Shore SA 5020,-34.864963,138.485149,"Time & Attendance, Workchoices, Payroll, Integration, Job Costing Etc",,sales@itsit.com.au,http://www.itsit.com.au,0,0
+258,"Mt Gambier, SA",restaurants,Hallmont Estate,"20 Woodlands Drv, Mt Gambier SA 5290",-37.804155,140.7857,"A Secure, Desirable & Enviable Lifestyle In The Limestone Coast Region",,admin@hallmontestate.com.au,http://www.hallmontestate.com.au,0,0
+259,"Birdwood, SA",restaurants,Essential Physio,Birdwood SA 5234,-34.817607,138.966352,Specialists In Physiotherapy,,admin@essentialphysio.com.au,http://www.essentialphysio.com.au,0,0
+260,"Forestville, SA",restaurants,Central Contract Cleaning Supplies Pty Ltd,"5 Maple Ave, Forestville SA 5035",-34.948185,138.583238,Family owned and proudly South Australian,,cccsupplies@bigpond.com,http://www.cccsupplies.com.au,0,0
+261,"Mansfield Park, SA",restaurants,United Safety Pty Ltd,"Unit 3, 400 Grand Junction Rd, Mansfield Park SA 5012",-34.85078,138.54959,Suppliers Of Personal Protective Equip - Industry To The Home Handyman,,sales@unitedsafety.com.au,http://www.unitedsafety.com.au,0,0
+262,"Port Pirie, SA",restaurants,Hird Flooring,Port Pirie SA 5540,-33.177573,138.010324,Professional Surfacing With Over 40 Years Experience,,office@hirdflooring.com.au,http://www.hirdflooring.com.au,0,0
+263,"Modbury, SA",restaurants,Modbury Plaza Hotel,"989 North East Rd, Modbury SA 5092",-34.83076,138.68838,"Finest Hotel Dining, Entertainment And Function Centre",,modburyplazahotel@bigpond.com.au,http://www.modburyplazahotel.com.au,3.5,3
+264,"Daw Park, SA",restaurants,Hand  Occupational Therapy Consultancy Service,"638 Goodwood Rd, Daw Park SA 5041",-34.98612,138.59184,Professional Occupational Therapists,,,http://www.suzannecaragianis.com.au,0,0
+265,"Mt Gambier, SA",restaurants,Golden Chain Tower Motor Inn,"140 Jubilee Hwy West, Mt Gambier SA 5290",-37.816894,140.76467,Country Hospitality At Its Best,,towermotorinn@bigpond.com.au,http://www.towermotorinn.com.au,0,0
+266,"Enfield, SA",restaurants,Bartonvale Gardens Retirement Village,"4 Ellis St, Enfield SA 5085",-34.86513,138.60601,"North east Adelaide retirement living, supported living & respite care",,bartonvaleinfo@retireaustralia.com.au,http://www.retireaustralia.com.au/our-communities/bartonvalegardens/,0,0
+267,"Clearview, SA",restaurants,Clearview Manor Serviced Apartments,"1- 7 Leicester St, Clearview SA 5085",-34.85105,138.612815,"Northern Adelaide Retirement Living, Supported Living",,clearviewinfo@retireaustralia.com.au,http://www.retireaustralia.com.au/our-communities/clearviewmanor/,0,0
+268,"Brooklyn Park, SA",restaurants,Goldstein Eswood,"Sir Donald Bradman Drv, Brooklyn Park SA 5032",-34.932513,138.541989,Serving Those Who Serve The Best.,,sales@goldsteineswood.com.au,http://www.goldsteineswood.com.au,0,0
+269,"North Adelaide, SA",restaurants,Bain Gregory I Assoc Prof,"196 Melbourne St, North Adelaide SA 5006",-34.90815,138.60451,Special Interest In Arthroscopy And Minimally Invasive Surgery.,,greg@gregbain.com.au,http://www.gregbain.com.au,0,0
+270,"Alberton, SA",restaurants,Ice Occasions SA,"Coburg Rd, Alberton SA 5014",-34.85408719,138.5136596,Ice Sculptures For All Occasions,,sales@iceoccasionssa.com.au,http://www.iceoccasionssa.com.au,0,0
+271,"Stirling, SA",restaurants,Nielsen Architects Pty Ltd,Stirling SA 5152,-35.006535,138.71823,Small Responsive Architectural Firm.,,admin@nielsenarchitects.com.au,http://www.nielsenarchitects.com.au,0,0
+272,Obstetrics & Gynaecology,restaurants,Barry Christopher Dr,Stirling SA 5152,-35.006535,138.71823,"Specialising In Incontinence, Menstrual Disorders And Prolapse Surgery",,,http://www.pelvicare.com.au,0,0
+273,Functions,restaurants,HQ Cuisine,Stirling SA 5152,-35.006535,138.71823,"We Love What We Do Best, Entertaining People In Style.",,hqcuisine@chariot.net.au,http://www.hqcuisine.com.au,0,0
+274,"Camden Park, SA",restaurants,Cat ATonic Boarding Cattery,"19 Lindsay St, Camden Park SA 5038",-34.97105,138.54548,"Secure, Comfortable & Affordable Cat Accommodation - Homely Atmosphere",,catatonic.cattery@bigpond.com,http://www.cat-a-tonic.com,0,0
+275,"Kadina, SA",restaurants,The Peninsula Residential Care Centre,"8 Mine St, Kadina SA 5554",-33.95798,137.72048,"A Spirit of Caring, A Tradition of Excellence.",,prcadm@padman.com.au,http://www.padman.com.au,0,0
+276,"Balaklava, SA",restaurants,Tads Embroidery Service,"12 Edith Tce, Balaklava SA 5461",-34.14574,138.41316,"Corporate, Schools And Sporting Clubs, Trophies And Engraving",,tads@tads.com.au,http://www.tads.com.au,0,0
+277,"Clovelly Park, SA",restaurants,Dine Catering Pty Ltd,Clovelly Park SA 5042,-34.999939,138.57057,Dine - Fine Dining & Catering.,,glen@dinecatering.com.au,http://www.dinecatering.com.au,0,0
+278,"Morphett Vale, SA",restaurants,Southern Vales Christian College,"140 States Rd, Morphett Vale SA 5162",-35.11251,138.53542,An R-12 Dual Campus College With A Strong Christian Emphasis,,admin@svcc.sa.edu.au,http://www.svcc.sa.edu.au,0,0
+279,"Marleston, SA",restaurants,Springfresh Salads,"Unit 1/ 10 Desmond Ave, Marleston SA 5033",-34.94595,138.55565,Made Fresh To Order - Full Range Of Quality Gourmet Salads Fruit & Veg,,springfreshsalads@bigpond.com,http://www.springfreshsalads.com.au,0,0
+280,"Kensington Park, SA",restaurants,Star Entertainment Pty Ltd,"PO Box 536, Kensington Park SA 5068",-34.920276,138.654223,"Clowns, Magicians, Comedians & Dancers. Professional Entertainers.",,star@starentertainment.com.au,http://www.starentertainment.com.au,0,0
+281,"Glengowrie, SA",restaurants,Glengowrie Retirement Village,"170 Oaklands Rd, Glengowrie SA 5044",-34.99521,138.53622,"Relaxed, Affordable Retirement Living & Serviced Apartments, Adelaide",,glengowrieinfo@retireaustralia.com.au,http://www.retireaustralia.com.au/our-communities/glengowrie/,0,0
+282,"Tranmere, SA",restaurants,Lees Acupunture  Herbals Clinic,"517A Magill Rd, Tranmere SA 5073",-34.913076,138.666963,"Chinese Herbs, Acupuncture, Acupressure, Massage, Cupping.",,qingguo2010@yahoo.com,http://www.naturaltherapypages.com.au/therapist/28478,0,0
+283,"Victor Harbor, SA",restaurants,Original Victor Harbor Fish Shop,"20 Ocean St, Victor Harbor SA 5211",-35.55489,138.62338,Come Visit Us & Treat Yourself To Fine Food & Hospitality!,,dgmay@internode.on.net,http://www.originalvictorharborfishshop.com.au/,2,1
+284,"Newton, SA",restaurants,IPSO Laundry Equipment SA,"Shop 1A, 1 Newton Rd, Newton SA 5074",-34.88795,138.67459,Your One Stop Laundry Shop!,,sbigalke@b-electrical.com.au,http://www.b-electrical.com.au,0,0
+285,"Welland, SA",restaurants,Chasdor Bindery Solutions,"Unit 2/ 77 Welland Ave, Welland SA 5007",-34.90629,138.55984,Specialising In All Facets Of Book Binding,,sales@chasdorbindery.com.au,http://www.chasdorbindery.com.au,0,0
+286,"Tanunda, SA",restaurants,Tanunda Dentures,"160 Murray St, Tanunda SA 5352",-34.517464,138.968112,"For Experience, Expertise and Excellence in Full and Partial Dentures",,fran@dentures.com.au,,0,0
+287,"Regency Park, SA",restaurants,GHE Lifting Specialist,"Unit 17 - 36 Tikalara St, Regency Park SA 5010",-34.86713,138.57404,Experts In Lifting Solutions For Over 45 Years.,,info@gheliftingspecialist.com.au,http://www.gheliftingspecialist.com.au,0,0
+288,"Regency Park, SA",restaurants,GHE Lifting Specialist,"unit 17 - 36 Tikalara St, Regency Park SA 5010",-34.86817,138.57252,Experts In Lifting Solutions For Over 45 Years.,,info@gheliftingspecialist.com.au,http://www.gheliftingspecialist.com.au,0,0
+289,"Whyalla Norrie, SA",restaurants,CBCH Crane Hire Pty Ltd,Whyalla Norrie SA 5608,-33.027816,137.539938,Crane & Rigger Hire,,tanya@cbch.com.au,http://www.cbch.com.au,0,0
+290,"Kilkenny, SA",restaurants,American Wrought Iron,"28-32 Humphries Tce, Kilkenny SA 5009",-34.87392,138.5555,For all your fabricated steel needs,,admin@americanwroughtiron.com.au,http://www.americanwroughtiron.com.au,0,0
+291,"Laura, SA",restaurants,Cherry Tree Lodge,"37 West Tce, Laura SA 5480",-33.18189,138.29774,Gorgeous Rooms & Plenty Of Space.,,cherrytreelodge@bigpond.com,,0,0
+292,"Blackwood, SA",restaurants,Vortrak Construction,Blackwood SA 5051,-35.021218,138.615744,Master Builders - Commercial - Industrial - Residential,,,http://www.vortrak.com.au,0,0
+293,"Parkside, SA",restaurants,Enoki Pty Ltd,"41 Unley Rd, Parkside SA 5063",-34.94394,138.607274,"Creating individualised, client-focused and holistic designs.",,sbilardo@enoki.com.au,http://www.enoki.com.au,0,0
+294,"Regency Park, SA",restaurants,Bagot Press,"23 Aruma St, Regency Park SA 5010",-34.86305,138.5736,Specialising in Printing.,,sales@bagotpress.com.au,http://www.bagotpress.com.au,0,0
+295,"Ardrossan, SA",restaurants,Ardrossan Community Health Centre,"30 Fifth St, Ardrossan SA 5571",-34.425599,137.916614,Dental Clinic - Physiotherapist - Consulting Rooms For Specialist,,,,0,0
+296,"Hindmarsh, SA",restaurants,Argus Furniture Rentals,"38 Bacon St, Hindmarsh SA 5007",-34.90749,138.56703,Short & Long Term Furniture Rental Specialists,,,http://www.argusfurniturerentals.com.au,0,0
+297,"Edwardstown, SA",restaurants,SA Protective Coatings,Edwardstown SA 5039,-34.979817,138.568704,SA Protective Coatings Proudly Services All Areas Of South Australia.,,sales@saprocoat.com.au,http://www.saprocoat.com.au,0,0
+298,"North Adelaide, SA",restaurants,Special Care Dental,"Suite 14 12 O'Connell St, North Adelaide SA 5006",-34.908832,138.597193,We Keep You Smiling.,,specialcare@onestream.com.au,http://www.specialcaredental.com.au,0,0
+299,"Adelaide, SA",restaurants,Meister Mertiris Lawyers,"Level 5, 22 Grenfell St, Adelaide SA 5000",-34.92403,138.60061,"Specialists In Business, Corporate & Commercial Law.",,admin@meister-mertirislawyers.com,http://www.meister-mertirislawyers.com,0,0
+300,"Adelaide, SA",restaurants,Adelta Legal,"Lvl 3, 104 Frome St, Adelaide SA 5000",-34.924791,138.608467,City & North East Offices.,,lawyers@adelta.com.au,http://www.adelta.com.au,0,0
+301,"Melrose Park, SA",restaurants,Adelaide Dolls Hospital,"3/ 4 Iris St, Melrose Park SA 5039",-34.989839,138.578384,Doll Repairs - Old Or New.,,vicki@butlerco.com.au,http://www.butlerco.com.au,0,0
+302,"Adelaide, SA",restaurants,Autuss  Franchising Solutions,Adelaide SA 5000,-34.928605,138.601685,Pre-eminent experts in food and hospitality support services.,,rob@autuss.com.au,http://www.autuss.com.au/,0,0
+303,"Daw Park, SA",restaurants,Orthotics  Prosthetics South Australia,"1 Rockville Ave, Daw Park SA 5041",-34.988636,138.590789,Professional Prosthetic & Orthotic Services,,sally.cavenett@rgh.sa.gov.au,http://www.rgh.sa.gov.au,0,0
+304,"Thebarton, SA",restaurants,Armour Fire Protection Pty Ltd,"6 Ware St, Thebarton SA 5031",-34.913775,138.566747,"Design, Supply, Installation & Maintenance Of Fire Protection Systems",,,http://www.armourfire.com.au,0,0
+305,"Holden Hill, SA",restaurants,Hospitality Catering Hardware,"46 - 52 Jacobsen Crs, Holden Hill SA 5088",-34.848,138.67371,Offering Quality Catering Equipment,,sales@hch.com.au,http://www.hch.com.au,0,0
+306,"Willaston, SA",restaurants,Above All Gutter  Tank Service,Willaston SA 5118,-34.585332,138.740746,"""We'll Clean Anywhere With A Gutter.""",,sarahjbayliss@bigpond.com,http://www.aboveallgutterservices.com.au,0,0
+307,"Wallaroo, SA",restaurants,Anglers Inn HotelMotel,"9-11 Bagot St, Wallaroo SA 5556",-33.92935,137.63004,Accommodation - Dining - Gaming & Function Facilities in Wallaroo.,,info@anglersinn.com.au,http://www.anglersinn.com.au,0,0
+308,"Two Wells, SA",restaurants,Corston Coaches,"33 Gawler Rd, Two Wells SA 5501",-34.592638,138.519617,Travel In Comfort With Country Hospitality,,corston@twpo.com.au,,0,0
+309,"Adelaide, SA",restaurants,Adelaide Regent Apartments,"188 Carrington St, Adelaide SA 5000",-34.930865,138.607483,Adelaide's Leading Supplier of Serviced Apartments.,,,,4,1
+310,"Hendon, SA",restaurants,Vinyl World Floor Coverings,Hendon SA 5014,-34.871906,138.512377,Supply And Install Commercial Vinyl And Carpet.,,,,0,0
+311,"Mt Gambier, SA",restaurants,South East Laundry,"10 Anthony St, Mt Gambier SA 5290",-37.832137,140.788443,Hotel - Motel - Hospital - Aged Care - Uniforms,,,,0,0
+312,"Enfield, SA",restaurants,Caiazza Constructions,Enfield SA 5085,-34.861479,138.605507,Building A Solid Foundation For The Future Of South Australia,,marcello@caiazzaconstructions.com,http://www.caiazzaconstructions.com/,0,0
+313,"Unley, SA",restaurants,Adult Speech Pathology,Unley SA 5061,-34.948378,138.60732,Specialising In Communication And Swallowing Difficulties.,,enquiries@adultspeechpath.com,http://www.adultspeechpath.com,0,0
+314,"Strathalbyn, SA",restaurants,Victoria Hotel MotelStrathalbyn,Strathalbyn SA 5255,-35.256005,138.892257,"Award Winner ""BEST COUNTRY BISTRO""",,,http://www.victoriahotelstrathalbyn.com.au,0,0
+315,"Medindie Gardens, SA",restaurants,Donlan Lawyers,"4/ 59 Main North Rd, Medindie Gardens SA 5081",-34.891997,138.603648,"Wills, Power of Attorney, Probate, Estate Planning, Succession",,admin@donlanlawyers.com,http://www.donlanlawyers.com,0,0
+316,"Adelaide, SA",restaurants,Matthew McDonald Dr,"Wakefield Clinic 270 Wakefield St, Adelaide SA 5000",-34.927649,138.61067,Specialist In Neurosurgery & Spinal Surgery,,manager@wakefieldneurosurgery.com.au,http://www.wakefieldneurosurgery.com.au,0,0
+317,"Glenunga, SA",restaurants,Cellmed,"U9/ 311 Glen Osmond Rd, Glenunga SA 5064",-34.95291,138.635725,Medical Supplies for your needs,,,http://www.heartattacklifepak.com.au,0,0
+318,"Highbury, SA",restaurants,Cetta Peter,"62 Mahogany Ave, Highbury SA 5089",-34.865279,138.684941,No Job Too Big or Too Small,,pcettaconcrete@internode.on.net,,0,0
+319,"Torrensville, SA",restaurants,International Linen Service,"59- 63 Stephens Ave, Torrensville SA 5031",-34.91722,138.55477,Linen and Laundry Service to Most Industries,,,,0,0
+320,"Kent Town, SA",restaurants,Gramp Skin Pathology,"16/ 15 Fullarton Rd, Kent Town SA 5067",-34.917423,138.622867,Tissue Pathology Service,,pathology@gramp.com.au,http://www.gramp.com.au,0,0
+321,"Glynde, SA",restaurants,LRC Accounting Pty Ltd,"458 Payneham Rd, Glynde SA 5070",-34.891183,138.653112,"High quality work at Very Competitive Rates - Tax, BAS, Super,Audit",,loulrc@adam.com.au,,0,0
+322,"North Adelaide, SA",restaurants,Dr Jehan Titus,"Harley Chambers, Ground Floor, 63 Palmer Pl, North Adelaide SA 5006",-34.90955,138.59478,Senior Consultant Urological Surgeon. Providing excellence in Urology.,,,,0,0
+323,"West Lakes, SA",restaurants,AAMI Stadium Function Complex,"Turner Drv, West Lakes SA 5021",-34.87963834,138.4935527,A Venue Of Possibilities...,,,,3.5,6
+324,"Bedford Park, SA",restaurants,Siddins Mark Dr,"Flinders Pvt. Hospital, Bedford Park SA 5042",-35.020098,138.570227,"Urology,  Prostate and Kidney Disease, Keyhole & Laser Surgery",,,,0,0
+325,"Regency Park, SA",restaurants,Advanced Australian Packaging Pty Ltd,"16 - 18 Tikalara St, Regency Park SA 5010",-34.87069,138.57438,Suppliers To The Hospitality Trade & Industry,,admin@advancedpackaging.com.au,,0,0
+326,"Salisbury Plain, SA",restaurants,J  J Grease Cleaning Services,"42 Stanbel Rd, Salisbury Plain SA 5109",-34.768483,138.657894,Filter Cleaning Specialists All Suburbs - Victor Harbor To Pt Augusta.,,jjgrease@bigpond.com,,0,0
+327,"Adelaide, SA",restaurants,Arena Sam Dr,"Henley Beach Western Hospital 1/ 227 Wakefield St, Adelaide SA 5000",-34.928919,138.609259,General Paediatric & Adult ENT,,,,0,0
+328,"Adelaide, SA",restaurants,Chinese Traditional Clinic,"3G Gays Arcade, Adelaide SA 5000",-34.923423,138.604427,"Acupuncture Master, Herbal Remedies, 25 Years Hospital Experience",,songsherry@yahoo.com,,0,0
+329,"Port Augusta, SA",restaurants,DK Psychology,Port Augusta SA 5700,-32.498297,137.775707,Child & Adolescent Therapy,,d.kite@ozemail.com.au,,0,0
+330,Event Management,restaurants,Waiting For You  Hospitality Staffing Agency,Port Augusta SA 5700,-32.498297,137.775707,Hospitality Staff And Event Management.,,info@waitingforyou.com.au,,0,0
+331,Functions,restaurants,Waiting For You  Hospitality Staffing Agency,Port Augusta SA 5700,-32.498297,137.775707,Hospitality Staff And Event Management.,,info@waitingforyou.com.au,,0,0
+332,"Aldinga, SA",restaurants,Aldinga Physiotherapy,"191 Port Rd, Aldinga SA 5173",-35.26688,138.48163,Call To Make An Appointment Today.,,,,0,0
+333,"Port Augusta, SA",restaurants,Westside Vegie Patch,"1a Caroona Rd, Port Augusta SA 5700",-32.484307,137.758133,"Caterers All Age Homes, Hospital & Jails.",,wsvp@sctelco.net.au,,0,0
+334,"Hindmarsh, SA",restaurants,Possum IT,"321 Port Rd, Hindmarsh SA 5007",-34.902444,138.568347,,,info@possumit.com.au,http://www.possumit.com.au,0,0
+335,"Mt Gambier, SA",restaurants,LiveIn Kitchens,"79-81 Commercial St (West), Mt Gambier SA 5290",-37.82795,140.777336,,,,,0,0
+336,"North Adelaide, SA",restaurants,Steele Denby,"175 Ward St, North Adelaide SA 5006",-34.90955,138.59478,"Friendly, Flexible & Efficient, High-Quality, Professional Service.",,,,0,0
+337,"Goolwa, SA",restaurants,Riverport Veterinary Hospital,"1 Avoca St, Goolwa SA 5214",-35.50443,138.77565,,,strathvets@internode.on.net,http://www.riverportvets.com.au,0,0
+338,"Adelaide, SA",restaurants,Salford College of hospitality and management,"Lvl1/ 255 Pulteney St, Adelaide SA 5000",-34.928923,138.605684,,,ronnel.bermundo@salfordcollege.edu.au,http://www.salfordcollege.edu.au,0,0
+339,"Unley, SA",restaurants,Adelaide Dolls Hospital,"86 Mary St, Unley SA 5061",-34.9483,138.60077,,,vicki@butlerco.com.au,http://www.butlerco.com.au,0,0
+340,"Beverley, SA",restaurants,A C Hospitality Supplies,"81 Ledger Rd, Beverley SA 5009",-34.89251,138.54159,,,achospitality@bigpond.com.au,http://www.achospitality.com.au,0,0
+341,"Unley, SA",restaurants,Commercial Hospitality Equipment Supplies,"42 Unley Rd, Unley SA 5061",-34.943536,138.606162,,,info@ches.com.au,http://www.ches.com.au,0,0
+342,"Modbury, SA",restaurants,Ezipark Modbury Hospital,"79 Smart Rd, Modbury SA 5092",-34.83322,138.69346,,,info@ezipark.com.au,http://www.ezipark.com.au/,0,0
+343,"Adelaide, SA",restaurants,Food  Hospitality Solutions,Adelaide SA 5000,-34.928605,138.601685,,,fhs@vtown.com.au,http://www.foodandhospitality.com.au/,0,0
+344,"Modbury, SA",restaurants,Modbury Hospital Foundation,"41-69 Smart Rd, Modbury SA 5092",-34.834499,138.690063,,,,http://www.mhfoundation.org.au,0,0
+345,"Oakden, SA",restaurants,Computer Hospital,Oakden SA 5086,-34.855085,138.644874,,,,http://www.computerhospital.net.au,0,0
+346,"Croydon Park, SA",restaurants,Hospitality Attire,"Cnr Regency & Days Rds, Croydon Park SA 5008",-34.87588,138.56054,,,,,4,1
+347,"Adelaide, SA",restaurants,Adelaide Dental Hospital,"Frome Rd, Adelaide SA 5000",-34.91753454,138.6061626,,,,,3,2
+348,"Adelaide, SA",restaurants,Waiting for you  Hospitality Staffing Agency,Adelaide SA 5000,-34.928605,138.601685,,,info@waitingforyou.com.au,,0,0
+349,"North Adelaide, SA",restaurants,Medical Centre Car Park womens  Childrens Hospital,"72 King William Rd, North Adelaide SA 5006",-34.91,138.6,,,,,0,0
+350,"Banksia Park, SA",restaurants,Hospitality And Property Maintenance Services,"5 Warramunda Cres, Banksia Park SA 5091",-34.81,138.73,,,,,0,0
+351,"Adelaide, SA",restaurants,Australian Tourisim  Hospitality Services,"Level 2/ 300 Flinders St, Adelaide SA 5000",-34.92636,138.61149,,,,,0,0
+352,"Unley, SA",restaurants,Commercial Hospitality Equipment Supplies,"42 Unley Rd, Unley SA 5061",-34.943536,138.606162,,,,,0,0
+353,"Parkside, SA",restaurants,Aitken Hospitality Supplies,"29a Unley Rd, Parkside SA 5063",-34.9434,138.60724,,,,,0,0
+354,"Ashford, SA",restaurants,Hospital Pharmacy Services,"23 Alexander Ave, Ashford SA 5035",-34.94728,138.57701,,,,,0,0
+355,"Henley Beach, SA",restaurants,Australian Leisure  Hospitality Group Ltd,"The Ramsgate Hotel, 1st Floor 328 Seaview Rd, Henley Beach SA 5022",-34.919878,138.49484,,,,,0,0
+356,"Holden Hill, SA",restaurants,Hospitality Catering Hardware,"60 Jacobsen Crs, Holden Hill SA 5088",-34.848,138.67371,,,,,0,0
+357,"North Adelaide, SA",restaurants,The Childrens Hospital SchoolAdelaide,"Womens & Childrens Hospital 72 King William St, North Adelaide SA 5006",-34.91188,138.60032,,,,,0,0
+358,"Mawson Lakes, SA",restaurants,Hospitality Logic Systems,Mawson Lakes SA 5095,-34.811277,138.609547,,,,,0,0
+359,"Eastwood, SA",restaurants,Hospitality,"123 Glen Osmond Rd, Eastwood SA 5063",-34.94553,138.62382,,,,,0,0
+360,"Bedford Park, SA",restaurants,The Childrens Hospital SchoolAdelaide,"Flinders Medical Centre Patricia Ward 4E, Bedford Park SA 5042",-35.020202,138.568453,,,,,0,0
+361,"Beverley, SA",restaurants,A C Hospitality Supplies,"81 Ledger Rd, Beverley SA 5009",-34.89251,138.54159,,,,,0,0
+362,"Ascot Park, SA",restaurants,Barclay Hospital Tracks,"1\ 2 Fifth Ave, Ascot Park SA 5043",-34.98838,138.55744,,,,,0,0
+363,"St Peters, SA",restaurants,Brackway Hospitality Services Pty Ltd,"81 Payneham Rd, St Peters SA 5069",-34.91178,138.62465,,,,,0,0
+364,"Eastwood, SA",restaurants,AsiaPacific Hospital,"123 Glen Osmond Rd, Eastwood SA 5063",-34.94553,138.62382,,,,,0,0
+365,"Walkley Heights, SA",restaurants,Hospitality Gases SA Pty Ltd,"42 Harvey Ave, Walkley Heights SA 5098",-34.839907,138.631367,,,,,0,0
+366,"Glenunga, SA",restaurants,RightStart Hospitality Management Training  Consulting,"10 Le Roy St, Glenunga SA 5064",-34.94772,138.63929,,,,,0,0
+367,"North Haven, SA",restaurants,Hospital Safety Services,"8 Coral Way, North Haven SA 5018",-34.78869,138.48902,,,,,0,0
+368,"Campbelltown, SA",restaurants,Hospitality Gases SA Pty Ltd,"629 Lower North East Rd, Campbelltown SA 5074",-34.87719,138.66385,,,,,0,0
+369,"Beverley, SA",restaurants,A C Hospitality Supplies,"81 Ledger Rd, Beverley SA 5009",-34.892506,138.541594,,,,,0,0
+370,"Woodville, SA",restaurants,The Hospital Research Foundation,"60 Woodville Rd, Woodville SA 5011",-34.88134,138.53478,,,,,0,0
+371,"Oakden, SA",restaurants,Computer Hospital,"36A Sir Ross Smith Blv, Oakden SA 5086",-34.85371,138.64774,,,,,0,0
+372,"Clapham, SA",restaurants,Bedford Hospitality and Conference Centre,"46 Strathcona Ave, Clapham SA 5062",-34.99652,138.60314,,,,,0,0
+373,"North Adelaide, SA",restaurants,Hospitality Industry Training,"1 107 O'connell St, North Adelaide SA 5006",-34.9,138.59,,,,,0,0
+374,"Marion, SA",restaurants,Glenside Hospital Historical Society,"820 Marion Rd, Marion SA 5043",-35.01112,138.55748,,,,,0,0
+375,"Port Pirie, SA",restaurants,Port Pirie Hospital Kiosk,"The Terrace, Port Pirie SA 5540",-33.17797233,138.003884,,,,,0,0
+376,"South Plympton, SA",restaurants,Total Hospitality Concepts Pty Ltd,"489 Marion Rd, South Plympton SA 5038",-34.97,138.55,,,,,0,0
+377,"Henley Beach, SA",restaurants,Leading Edge Physical Therapy Western Hospital,"168 Cudmore Tce, Henley Beach SA 5022",-34.910543,138.500181,,,,,0,0

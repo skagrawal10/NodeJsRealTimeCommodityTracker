@@ -1,0 +1,519 @@
+SN,Suburb,Category,Business Name,Address,Postcode,Latitude,Longitude,Short Description,Contact Phone,Contact Email,Website,Rating,Reviews
+1,"Laverton, VIC",restaurants,Club Laverton Motel  Licensed Club,"15 Aviation Rd, Laverton VIC 3028",3030,-37.868245,144.762243,Family Friendly Dining. Call Us!,(03) 8360 9143,reservations@clublaverton.com.au,http://www.clublaverton.com.au,0.0,0
+2,"Werribee, VIC",restaurants,Italian Sports Club Of Werribee Inc,"601 Heaths Rd, Werribee VIC 3030",3030,-37.88396,144.64783,"Functions, Weddings, Conferences, Parties, Special Events &  Bistro.",(03) 9741 1225,manager@iscw.com.au,http://www.iscw.com.au,0.0,0
+3,"Werribee, VIC",restaurants,The Indian Roast,"285 Heaths Rd, Werribee VIC 3030",3030,-37.8771,144.67555,"Specialising In North Indian Cuisine, Private Functions & Birthdays.",(03) 8742 7815,dmehra@bigpond.net.au,http://www.indianroast.com.au,0.0,0
+4,"Werribee, VIC",restaurants,Sandyz Tadka,"Shp 6/ 57-61 Synnot St, Werribee VIC 3030",3030,-37.90425,144.660323,Indian Restaurant &Catering Services For all Occasions,(03) 9741 5292,,http://www.sandyztadka.com.au,0.0,0
+5,"Point Cook, VIC",restaurants,Cocochine Restaurant Point Cook,"T131, 5 Murnong St (Town Cntr), Point Cook VIC 3030",3030,-37.882695,144.73437,,(03) 9394 8628,ken@cocochinerestaurant.com.au,http://www.cocochinerestaurant.com.au,2.0,1
+6,"Point Cook, VIC",restaurants,Cocochine Restaurant Point Cook,"T131, 5 Murnong St (Town Cntr), Point Cook VIC 3030",3030,-37.891542,144.745353,,(03) 9394 8628,ken@cocochinerestaurant.com.au,http://www.cocochinerestaurant.com.au,2.0,1
+7,"Werribee, VIC",restaurants,Indian Roast The,"285 Heaths Rd, Werribee VIC 3030",3030,-37.8771,144.67555,,(03) 9748 3999,dmehra@bigpond.net.au,http://www.indianroast.com.au,0.0,0
+8,"Werribee, VIC",restaurants,Baffetti Ristorante eBar,"106 Watton St, Werribee VIC 3030",3030,-37.90362,144.65644,,(03) 9741 8989,info@baffetti.com.au,http://www.baffetti.com.au,0.0,0
+9,"Point Cook, VIC",restaurants,China T,"Sanctuary Lakes Shopping Centre Shop 32, Point Cook Rd, Point Cook VIC 3030",3030,-37.89558,144.75329,,(03) 9395 4888,,http://www.chinat.com.au,0.0,0
+10,"Werribee, VIC",restaurants,Scolaros Family Restaurant,"13 Riverside Ave, Werribee VIC 3030",3030,-37.9132,144.6591,,(03) 9741 9555,,http://www.wyncity.com.au,0.0,0
+11,"Werribee, VIC",restaurants,Chawlas,"U3/ 49 Cherry St, Werribee VIC 3030",3030,-37.899623,144.664608,Indian Restaurant,(03) 9741 7597,,,0.0,0
+12,"Werribee, VIC",restaurants,Mynt Lounge,"185 Watton St, Werribee VIC 3030",3030,-37.90404,144.65723,,(03) 9974 0833,,,2.0,1
+13,"Werribee South, VIC",restaurants,Jacksons On K,"275 Cnr K & Duncan Rd, Werribee South VIC 3030",3030,-37.935679,144.707456,,(03) 9731 1415,,,4.0,2
+14,"Werribee, VIC",restaurants,Wyncity Bowl  Entertainment,"13 Riverside Ave, Werribee VIC 3030",3030,-37.9132,144.6591,,(03) 9741 9777,,,3.0,1
+15,"Werribee, VIC",restaurants,Bikanos,"Shp 3/ 70 Watton St, Werribee VIC 3030",3030,-37.902353,144.658739,,(03) 8742 6450,,,4.0,1
+16,"Point Cook, VIC",restaurants,The Brook On Sneydes,"215 Sneydes Rd, Point Cook VIC 3030",3030,-37.898159,144.729339,,(03) 9394 6444,,,4.0,1
+17,"Werribee, VIC",restaurants,Silver Chopsticks Chinese Restaurant,"7 Barnes Place (off Comden Grove) Werribee, Werribee VIC 3030",3030,-37.90095,144.66076,,(03) 9741 7554,,,4.5,3
+18,"Werribee, VIC",restaurants,Silver Chopsticks Chinese Restaurant,"7 Barnes Pl, Werribee VIC 3030",3030,-37.900953,144.660755,,(03) 9741 7554,,,4.5,3
+19,"Werribee, VIC",restaurants,Ages Pizza Place,"90a Watton St, Werribee VIC 3030",3030,-37.90282,144.65782,,(03) 8742 6513,,,0.0,0
+20,"Werribee, VIC",restaurants,Gujjus Cafe,"Shp2/ 1 Watton St, Werribee VIC 3030",3030,-37.900295,144.663813,,(03) 9741 1178,,,0.0,0
+21,"Werribee, VIC",restaurants,Caffe Aroma Ristorante,"98 Watton St, Werribee VIC 3030",3030,-37.90328,144.65698,,(03) 9742 2744,,,0.0,0
+22,"Werribee, VIC",restaurants,Duyen Duyen Vietnamese Chinese Restaurant,"122 Watton St, Werribee VIC 3030",3030,-37.90416,144.65621,,(03) 9742 6172,,,0.0,0
+23,"Werribee, VIC",restaurants,Ghazal Indian Buffet  Bar,"187 Watton St, Werribee VIC 3030",3030,-37.90422,144.65711,,(03) 9742 4486,,,0.0,0
+24,"Derrimut, VIC",restaurants,Seasonal Thai Restaurant,"Shp5/ 1 Elgar Rd, Derrimut VIC 3030",3030,-37.783801,144.773832,,(03) 9363 1554,,,0.0,0
+25,"Point Cook, VIC",restaurants,China T,"Sanctuary Lakes Shopping Centre Shop 32, Point Cook Rd, Point Cook VIC 3030",3030,-37.89558,144.75329,,(03) 9395 4888,,,0.0,0
+26,"Werribee, VIC",restaurants,Ploy Thai,"Shp1/ 102 Watton St, Werribee VIC 3030",3030,-37.90347,144.65666,,(03) 9974 1872,,,0.0,0
+27,"Point Cook, VIC",restaurants,Kampung Story,"Ste45/ 300 Point Cook Rd, Point Cook VIC 3030",3030,-37.89567,144.75259,,(03) 8353 8884,,,0.0,0
+28,"Werribee, VIC",restaurants,Santini Family Restaurant,"Shop 2/ 102 Watton St, Werribee VIC 3030",3030,-37.90347,144.65666,,(03) 9742 3977,,,0.0,0
+29,"Point Cook, VIC",restaurants,Grilld Point Cook,"Shp126/ 5 Main St, Point Cook VIC 3030",3030,-37.882138,144.734668,,(03) 9395 5700,,,0.0,0
+30,"Point Cook, VIC",restaurants,Vivere Restaurant Cafe Bar,"Shop 129 Murnong St, Point Cook VIC 3030",3030,-37.883111,144.734805,,(03) 9395 0520,,,0.0,0
+31,"Werribee, VIC",restaurants,Master Wok Chinese Restaurant,"65 Synott St, Werribee VIC 3030",3030,-37.90396,144.65928,,(03) 9741 7007,,,0.0,0
+32,"Werribee, VIC",restaurants,Crown Of India,"Shop 3, 102-104 Watton St, Werribee VIC 3030",3030,-37.90347,144.65666,,(03) 9731 0122,,,0.0,0
+33,"Werribee, VIC",restaurants,La Porchetta Werribee,"Werribee Plaza Shopping Centre, Shop B008 Cnr Derrimut & Heaths Rd, Werribee VIC 3030",3030,-37.877611,144.682746,,(03) 9748 4888,,,0.0,0
+34,"Werribee, VIC",restaurants,Josephs Restaurant  Bar,"K Rd, Werribee VIC 3030",3030,-37.944141,144.682914,,(03) 9731 4130,,,0.0,0
+35,"Werribee, VIC",restaurants,Subway Sandwiches  Salads,"Shop 3, 51 Synnot St, Werribee VIC 3030",3030,-37.90359,144.66073,,(03) 9974 1688,,,0.0,0
+36,"Werribee, VIC",restaurants,Accettas Woodfired Pizza House,"187 Watton St, Werribee VIC 3030",3030,-37.90422,144.65711,,(03) 9742 4888,,,0.0,0
+37,"Point Cook, VIC",restaurants,Cocochine Restaurant Point Cook,"T131, 5 Murnong St (Town Cntr), Point Cook VIC 3030",3030,-37.891542,144.745353,Renowned Friendly Service,(03) 9394 8628,ken@cocochinerestaurant.com.au,http://www.cocochinerestaurant.com.au,2.0,1
+38,"Laverton North, VIC",restaurants,Taco Bill Mexican Restaurant,"2 Fitzgerald Rd, Laverton North VIC 3026",3026,-37.843655,144.782547,,(03) 9369 7555,,,0.0,0
+39,"Laverton North, VIC",restaurants,Westside Hotel,"Cnr Leakes Rd & Fitzgerald Rd, Laverton North VIC 3026",3026,-37.844177,144.781834,,(03) 9360 3700,,,0.0,0
+40,"Laverton North, VIC",restaurants,Taco Bill Mexican Restaurant,"2 Fitzgerald Rd, Laverton North VIC 3026",3026,-37.843655,144.782547,,(03) 9369 7555,,,0.0,0
+41,"Laverton North, VIC",restaurants,Diamond Valley Pork Pty Ltd,"13 Thomas Rd, Laverton North VIC 3026",3026,-37.821426,144.805666,,(03) 8369 2255,,,0.0,0
+42,"Laverton, VIC",restaurants,Club Laverton Motel  Licensed Club,"15 Aviation Rd, Laverton VIC 3028",3026,-37.868245,144.762243,Brand New Menu Available Seven Nights A Week From 6pm To 8pm.,(03) 8360 9143,reservations@clublaverton.com.au,http://www.clublaverton.com.au,0.0,0
+43,"Altona, VIC",restaurants,Altona Curry House,"7 Harrington Sq, Altona VIC 3018",3026,-37.864369,144.814008,,(03) 9398 4732,,http://www.altonacurryhouse.com.au,0.0,0
+44,"Laverton, VIC",restaurants,So N Sos Fully Licensed Restaurant  Cafe,"1 & 2/ 24 Aviation Rd, Laverton VIC 3028",3026,-37.86822,144.76112,,(03) 9369 4311,,,3.0,1
+45,"Laverton, VIC",restaurants,Fresh Chilli Thai Restaurant,"Shp 1/ 1-5 Aviation Rd, Laverton VIC 3028",3026,-37.86754,144.76206,,(03) 9369 3796,,,4.5,3
+46,"Laverton, VIC",restaurants,Club Laverton Motel  Licensed Club,"15 Aviation Rd, Laverton VIC 3028",3026,-37.86824,144.76224,,(03) 8360 9143,,,0.0,0
+47,"Ardeer, VIC",restaurants,McDonalds Family Restaurants,"West Western Ring Rd, Ardeer VIC 3022",3026,-37.801953,144.801523,,(03) 9311 4533,,,0.0,0
+48,"Altona, VIC",restaurants,Biva Indian Restaurant,"7 Harrington Sq, Altona VIC 3018",3026,-37.864369,144.814008,,(03) 9327 8435,,,0.0,0
+49,"Laverton, VIC",restaurants,Al Pesto,"161 Railway Ave, Laverton VIC 3028",3026,-37.86715,144.76212,,(03) 9369 6796,,,0.0,0
+50,"Altona, VIC",restaurants,Arawan Thai Restaurant,"24 Harrington Sq, Altona VIC 3018",3026,-37.864206,144.813038,,(03) 9398 3330,,,0.0,0
+51,"Altona Meadows, VIC",restaurants,Aviator Bar,"Shop 51, Central Square Shopping Centre, Altona Meadows VIC 3028",3026,-37.87148,144.77267,,(03) 9315 6399,,,0.0,0
+52,"Altona Meadows, VIC",restaurants,IL Divo Restaurant  Bar,"Shp 51/ 1 Central Ave, Altona Meadows VIC 3028",3026,-37.873523,144.776059,,(03) 9315 6399,,,0.0,0
+53,"Altona, VIC",restaurants,Gulatis Restaurants,Altona VIC 3018,3026,-37.864771,144.818301,,(03) 9315 9655,,,0.0,0
+54,"Altona, VIC",restaurants,Dragon Temple,"25 Somers Pde, Altona VIC 3018",3026,-37.87005,144.81103,,(03) 9398 3555,,,0.0,0
+55,"Altona North, VIC",restaurants,The Place To Eat,"2 Pinnacle Rd, Altona North VIC 3025",3026,-37.839234,144.825134,,(03) 9369 6078,,,0.0,0
+56,"Laverton, VIC",restaurants,So N Sos,"Shop1/ 24 Aviation Rd, Laverton VIC 3028",3026,-37.86822,144.76112,,(03) 9369 4311,,,0.0,0
+57,"Laverton, VIC",restaurants,Nara Thai Restaurant,"Shop2/ 6 Neville Ave, Laverton VIC 3028",3026,-37.86802,144.76072,,(03) 9369 8799,,,0.0,0
+58,"Altona Meadows, VIC",restaurants,La Porchetta Altona Meadows,"Central Square Shopping Centre, Shop 1 Cnr Merton St & Petre Ave, Altona Meadows VIC 3028",3026,-37.874238,144.777175,,(03) 9315 6511,,,0.0,0
+59,"Sunshine West, VIC",restaurants,Taj Indian Foods Pty Ltd,"2/ 33 Enterprise Way, Sunshine West VIC 3020",3026,-37.814379,144.823887,,(03) 9314 6002,,,0.0,0
+60,"Laverton, VIC",restaurants,Redgum Family Restaurant,"89 Railway Ave, Laverton VIC 3028",3026,-37.865265,144.769589,,(03) 9369 3646,,,0.0,0
+61,"Ardeer, VIC",restaurants,Blazed Bar  Grill,"608 Ballarat Rd, Ardeer VIC 3022",3026,-37.77311,144.80448,Blazed Bar & Grill is open 7 days a week form 5pm till late.,(03) 8361 8065,reception@sunshinemotorinn.com.au,http://www.sunshinemotorinn.com.au/index.php/restaurant,0.0,0
+62,"Caroline Springs, VIC",restaurants,Slices Family Restaurant,"2 Lake St, Caroline Springs VIC 3023",3026,-37.85297,144.718267,One Of The Best Places For Quality Food & Value For Money !,(03) 8390 2359,,,0.0,0
+63,"Braybrook, VIC",restaurants,Akshaya Indian Restaurant,"Shp1/ 77-79 Ashley St, Braybrook VIC 3019",3026,-37.790437,144.862211,,(03) 9689 2233,info@akshaya.com.au,http://www.akshaya.com.au,4.0,1
+64,"West Footscray, VIC",restaurants,Gusto At Barkly,"587 Barkly St, West Footscray VIC 3012",3026,-37.797442,144.875227,,(03) 9396 1755,bookings@gusto-barkly.com.au,http://www.gusto-barkly.com.au,4.5,2
+65,"Point Cook, VIC",restaurants,Cocochine Restaurant Point Cook,"T131, 5 Murnong St (Town Cntr), Point Cook VIC 3030",3026,-37.882695,144.73437,,(03) 9394 8628,ken@cocochinerestaurant.com.au,http://www.cocochinerestaurant.com.au,2.0,1
+66,"Point Cook, VIC",restaurants,Cocochine Restaurant Point Cook,"T131, 5 Murnong St (Town Cntr), Point Cook VIC 3030",3026,-37.891542,144.745353,,(03) 9394 8628,ken@cocochinerestaurant.com.au,http://www.cocochinerestaurant.com.au,2.0,1
+67,"Yarraville, VIC",restaurants,Tandoori Times Yarraville,"45 Anderson St, Yarraville VIC 3013",3026,-37.816765,144.890231,,(03) 9689 0666,,http://www.tandooritimes.com.au,4.5,3
+68,"West Footscray, VIC",restaurants,Hyderabad Inn Indian Restaurant,"551 Barkly St, West Footscray VIC 3012",3026,-37.797679,144.877354,,(03) 9689 0998,,http://www.hyderabadinn.com,3.0,2
+69,"Seabrook, VIC",restaurants,Dor Bo Chinese  Malaysian Restaurant,"Shp 7, 73 Point Cook Rd, Seabrook VIC 3028",3026,-37.877193,144.758471,,,bambi_2_888@hotmail.com,http://www.dorbochinesemalaysianrestaurant.com.au,0.0,0
+70,"Hoppers Crossing, VIC",restaurants,Alankrita Restaurant,"1/ 22 lentini St, Hoppers Crossing VIC 3029",3026,-37.873189,144.726742,,,contact@alankrita.com.au,http://www.alankrita.com.au,0.0,0
+71,"West Footscray, VIC",restaurants,Mumbai Hakka,"592 Barkly St, West Footscray VIC 3012",3026,-37.79,144.87,,0396890342,nikhil_joglekar@hotmail.com,http://mumbaihakka.com.au,0.0,0
+72,"Point Cook, VIC",restaurants,China T,"Sanctuary Lakes Shopping Centre Shop 32, Point Cook Rd, Point Cook VIC 3030",3026,-37.89558,144.75329,,(03) 9395 4888,,http://www.chinat.com.au,0.0,0
+73,"Point Cook, VIC",restaurants,Cocochine Restaurant Point Cook,"T131, 5 Murnong St (Town Cntr), Point Cook VIC 3030",3029,-37.891542,144.745353,Renowned Friendly Service,(03) 9394 8628,ken@cocochinerestaurant.com.au,http://www.cocochinerestaurant.com.au,2.0,1
+74,"Hoppers Crossing, VIC",restaurants,Alankrita Restaurant,"1/ 22 lentini St, Hoppers Crossing VIC 3029",3029,-37.873189,144.726742,,,contact@alankrita.com.au,http://www.alankrita.com.au,0.0,0
+75,"Hoppers Crossing, VIC",restaurants,Sweet India,"Fcty9/ 1 Kilmur Rd, Hoppers Crossing VIC 3029",3029,-37.873414,144.726526,,(03) 9369 6694,,,5.0,1
+76,"Hoppers Crossing, VIC",restaurants,Wer2B Restaurant  Bar,"Shop 1 250 Heaths Rd, Hoppers Crossing VIC 3029",3029,-37.87,144.67,,0397482377,admin@wer2b.com.au,,0.0,0
+77,"Hoppers Crossing, VIC",restaurants,Golden Panda Restaurant,"35 Old Geelong Rd, Hoppers Crossing VIC 3029",3029,-37.88235,144.69989,,(03) 9748 6060,,,0.0,0
+78,"Hoppers Crossing, VIC",restaurants,Elio Italian Family Bistro,"39 Old Geelong Rd, Hoppers Crossing VIC 3029",3029,-37.88222,144.69992,,(03) 9748 3132,,,0.0,0
+79,"Hoppers Crossing, VIC",restaurants,The Tigers Clubhouse,"70 Old Geelong Rd, Hoppers Crossing VIC 3029",3029,-37.88048,144.70629,,(03) 9974 6900,,,0.0,0
+80,"Hoppers Crossing, VIC",restaurants,Dicaprio Family Restaurants,"88 Derrimut Rd, Hoppers Crossing VIC 3029",3029,-37.88122,144.68286,,(03) 9748 2888,,,0.0,0
+81,"Hoppers Crossing, VIC",restaurants,Mosaics Cafe,"Cnr Derrimut & Heaths Rds, Hoppers Crossing VIC 3029",3029,-37.877634,144.682926,,(03) 9749 6000,,,0.0,0
+82,"Hoppers Crossing, VIC",restaurants,Serrano Family Restaurant,"250 Heaths Rd, Hoppers Crossing VIC 3029",3029,-37.875616,144.680616,,(03) 9748 4000,,,0.0,0
+83,"Hoppers Crossing, VIC",restaurants,Mathews Pizza Inn,"5 Old Geelong Rd, Hoppers Crossing VIC 3029",3029,-37.883127,144.699555,,(03) 9749 3837,,,0.0,0
+84,"Hoppers Crossing, VIC",restaurants,Subway Sandwiches  Salads,"Shop 29 Old Geelong Rd, Hoppers Crossing VIC 3029",3029,-37.881756,144.702875,,(03) 9749 5553,,,0.0,0
+85,"Hoppers Crossing, VIC",restaurants,Ethnic India,"U 4/ 2 Kilmur Rd, Hoppers Crossing VIC 3029",3029,-37.872842,144.725939,,(03) 9369 4133,,,0.0,0
+86,"Hoppers Crossing, VIC",restaurants,Shiraaz Ferntee Gully Indian Restaurant Pty Ltd,"19 Trentham Cl, Hoppers Crossing VIC 3029",3029,-37.862308,144.670763,,(03) 9748 9788,,,0.0,0
+87,"Werribee, VIC",restaurants,Italian Sports Club Of Werribee Inc,"601 Heaths Rd, Werribee VIC 3030",3029,-37.88396,144.64783,"Functions, Weddings, Conferences, Parties, Special Events &  Bistro.",(03) 9741 1225,manager@iscw.com.au,http://www.iscw.com.au,0.0,0
+88,"Laverton, VIC",restaurants,Club Laverton Motel  Licensed Club,"15 Aviation Rd, Laverton VIC 3028",3029,-37.868245,144.762243,Brand New Menu Available Seven Nights A Week From 6pm To 8pm.,(03) 8360 9143,reservations@clublaverton.com.au,http://www.clublaverton.com.au,0.0,0
+89,"Werribee, VIC",restaurants,The Indian Roast,"285 Heaths Rd, Werribee VIC 3030",3029,-37.8771,144.67555,"Specialising In North Indian Cuisine, Private Functions & Birthdays.",(03) 8742 7815,dmehra@bigpond.net.au,http://www.indianroast.com.au,0.0,0
+90,"Caroline Springs, VIC",restaurants,Slices Family Restaurant,"2 Lake St, Caroline Springs VIC 3023",3029,-37.85297,144.718267,One Of The Best Places For Quality Food & Value For Money !,(03) 8390 2359,,,0.0,0
+91,"Werribee, VIC",restaurants,Sandyz Tadka,"Shp 6/ 57-61 Synnot St, Werribee VIC 3030",3029,-37.90425,144.660323,Indian Restaurant &Catering Services For all Occasions,(03) 9741 5292,,http://www.sandyztadka.com.au,0.0,0
+92,"Point Cook, VIC",restaurants,Cocochine Restaurant Point Cook,"T131, 5 Murnong St (Town Cntr), Point Cook VIC 3030",3029,-37.882695,144.73437,,(03) 9394 8628,ken@cocochinerestaurant.com.au,http://www.cocochinerestaurant.com.au,2.0,1
+93,"Point Cook, VIC",restaurants,Cocochine Restaurant Point Cook,"T131, 5 Murnong St (Town Cntr), Point Cook VIC 3030",3029,-37.891542,144.745353,,(03) 9394 8628,ken@cocochinerestaurant.com.au,http://www.cocochinerestaurant.com.au,2.0,1
+94,"Werribee, VIC",restaurants,Indian Roast The,"285 Heaths Rd, Werribee VIC 3030",3029,-37.8771,144.67555,,(03) 9748 3999,dmehra@bigpond.net.au,http://www.indianroast.com.au,0.0,0
+95,"Werribee, VIC",restaurants,Baffetti Ristorante eBar,"106 Watton St, Werribee VIC 3030",3029,-37.90362,144.65644,,(03) 9741 8989,info@baffetti.com.au,http://www.baffetti.com.au,0.0,0
+96,"Seabrook, VIC",restaurants,Dor Bo Chinese  Malaysian Restaurant,"Shp 7, 73 Point Cook Rd, Seabrook VIC 3028",3029,-37.877193,144.758471,,,bambi_2_888@hotmail.com,http://www.dorbochinesemalaysianrestaurant.com.au,0.0,0
+97,"Caroline Springs, VIC",restaurants,Izumics,"Shop15c 13-15 Ake St, Caroline Springs VIC 3023",3029,-37.74,144.73,,0383584978,info@izumics.com.au,http://www.izumics.com.au/,0.0,0
+98,"Point Cook, VIC",restaurants,China T,"Sanctuary Lakes Shopping Centre Shop 32, Point Cook Rd, Point Cook VIC 3030",3029,-37.89558,144.75329,,(03) 9395 4888,,http://www.chinat.com.au,0.0,0
+99,"Caroline Springs, VIC",restaurants,Slices Family Restaurant,"2 Lake St, Caroline Springs VIC 3023",3029,-37.734149,144.741548,,(03) 8390 2200,,http://www.slices.com.au,0.0,0
+100,"Werribee, VIC",restaurants,Chawlas,"U3/ 49 Cherry St, Werribee VIC 3030",3029,-37.899623,144.664608,Indian Restaurant,(03) 9741 7597,,,0.0,0
+101,"Werribee, VIC",restaurants,Mynt Lounge,"185 Watton St, Werribee VIC 3030",3029,-37.90404,144.65723,,(03) 9974 0833,,,2.0,1
+102,"Laverton, VIC",restaurants,So N Sos Fully Licensed Restaurant  Cafe,"1 & 2/ 24 Aviation Rd, Laverton VIC 3028",3029,-37.86822,144.76112,,(03) 9369 4311,,,3.0,1
+103,"Werribee, VIC",restaurants,Bikanos,"Shp 3/ 70 Watton St, Werribee VIC 3030",3029,-37.902353,144.658739,,(03) 8742 6450,,,4.0,1
+104,"Point Cook, VIC",restaurants,The Brook On Sneydes,"215 Sneydes Rd, Point Cook VIC 3030",3029,-37.898159,144.729339,,(03) 9394 6444,,,4.0,1
+105,"Laverton, VIC",restaurants,Fresh Chilli Thai Restaurant,"Shp 1/ 1-5 Aviation Rd, Laverton VIC 3028",3029,-37.86754,144.76206,,(03) 9369 3796,,,4.5,3
+106,"Werribee, VIC",restaurants,Silver Chopsticks Chinese Restaurant,"7 Barnes Place (off Comden Grove) Werribee, Werribee VIC 3030",3029,-37.90095,144.66076,,(03) 9741 7554,,,4.5,3
+107,"Deer Park, VIC",restaurants,Delicious House Restaurant,"816 Ballarat Rd, Deer Park VIC 3023",3029,-37.76957,144.77345,,(03) 9363 8808,,,3.5,3
+108,"Werribee, VIC",restaurants,Silver Chopsticks Chinese Restaurant,"7 Barnes Pl, Werribee VIC 3030",3029,-37.900953,144.660755,,(03) 9741 7554,,,4.5,3
+109,"Laverton, VIC",restaurants,Club Laverton Motel  Licensed Club,"15 Aviation Rd, Laverton VIC 3028",3029,-37.868245,144.762243,Family Friendly Dining. Call Us!,(03) 8360 9143,reservations@clublaverton.com.au,http://www.clublaverton.com.au,0.0,0
+110,"Derrimut, VIC",doctors,Caroline Springs Medical Centre,Derrimut VIC 3030,3030,-37.797063,144.765297,"Bulk Billing - 2-6 Caroline Springs Blv, Caroline Springs",(03) 8361 8073,dralani.melbourne@yahoo.com.au,http://www.carolinespringsmedicalcentre.com.au,0.0,0
+111,"Werribee, VIC",doctors,Heaths Road Family Clinic,"241 Heaths Rd, Werribee VIC 3030",3030,-37.87769,144.67992,We are focused on the comfort and convenience of our patients.,(03) 9748 9777,info@skinandcosmeticsolutionclinic.com.au,http://www.mvandc.com.au,0.0,0
+112,"Werribee, VIC",doctors,Wyndham Health Care,"233 Heaths Rd, Werribee VIC 3030",3030,-37.87778,144.68077,We Strive To Provide Optimum Treatment For All Patients,(03) 9749 2766,wyndhamhealth@pacific.net.au,,0.0,0
+113,"Point Cook, VIC",doctors,Lakes Healthwise,"300 Point Cook Rd, Point Cook VIC 3030",3030,-37.89558,144.75329,,(03) 9395 6333,,http://www.lakeshealthwise.com.au,0.0,0
+114,"Point Cook, VIC",doctors,Riters Anita Dr,"300 Point Cook Rd, Point Cook VIC 3030",3030,-37.89558,144.75329,,(03) 9395 6333,,http://www.lakeshealthwise.com.au,0.0,0
+115,"Point Cook, VIC",doctors,Caric Vladimir Dr,"Shp33/ 300 Point Cook Rd, Point Cook VIC 3030",3030,-37.89558,144.75329,,(03) 9395 6333,,http://www.lakeshealthwise.com.au,0.0,0
+116,"Point Cook, VIC",doctors,Guardian Medical,"Shop 33, 300 Point Cook Rd, Point Cook VIC 3030",3030,-37.895578,144.753286,,(03) 9395 6333,,http://wwww.guardianmedical.com.au,0.0,0
+117,"Werribee, VIC",doctors,MDI Radiology,"27 Princes Hwy, Werribee VIC 3030",3030,-37.89,144.66,,0397411222,,http://www.mdi.net.au,0.0,0
+118,"Werribee, VIC",doctors,The Clinic Werribee,"15 Princes Hwy, Werribee VIC 3030",3030,-37.89921,144.66764,,(03) 9974 0573,,,0.0,0
+119,"Werribee, VIC",doctors,Friendly Medical Centre,"83 Watton St, Werribee VIC 3030",3030,-37.902023,144.661477,,(03) 9741 0074,,,3.0,1
+120,"Werribee, VIC",doctors,Vasectomy Centre Western,"241 Heaths Rd, Werribee VIC 3030",3030,-37.87769,144.67992,,(03) 9748 9819,,,0.0,0
+121,"Werribee, VIC",doctors,Dr Jared Mee,"297 Princess Hwy, Werribee VIC 3030",3030,-37.885457,144.697135,,(03) 9749 7846,,,0.0,0
+122,"Werribee, VIC",doctors,Barnetson W,"233 Heaths Rd, Werribee VIC 3030",3030,-37.87778,144.68077,,(03) 9749 2766,,,0.0,0
+123,"Werribee, VIC",doctors,Milone Rafael,"9 Princes Hwy, Werribee VIC 3030",3030,-37.89949,144.66704,,(03) 9741 1355,,,0.0,0
+124,"Werribee, VIC",doctors,Padanyi Robert G Dr,"291 Princes Hwy, Werribee VIC 3030",3030,-37.88578,144.69669,,(03) 9742 7988,,,0.0,0
+125,"Werribee, VIC",doctors,Dunne K,"297 Princes Hwy, Werribee VIC 3030",3030,-37.88546,144.69713,,(03) 9741 9191,,,0.0,0
+126,"Point Cook, VIC",doctors,Point Cook Medical Centre,"1 Dunnings Rd, Point Cook VIC 3030",3030,-37.88759,144.75523,,(03) 9395 3400,,,0.0,0
+127,"Werribee, VIC",doctors,Miller Ashley,"179 Princes Hwy, Werribee VIC 3030",3030,-37.89061,144.68644,,(03) 9417 1811,,,0.0,0
+128,"Werribee, VIC",doctors,Nagesh Ananth,"300 Princes Hwy, Werribee VIC 3030",3030,-37.886267,144.69695,,(03) 9216 8633,,,0.0,0
+129,"Werribee, VIC",doctors,N Crawford Dr,"Mercy Hospital, Werribee VIC 3030",3030,-37.886267,144.69695,,(03) 9216 8633,,,0.0,0
+130,"Werribee, VIC",doctors,Jacobs Rodney,"179 Princes Hwy, Werribee VIC 3030",3030,-37.89061,144.68644,,(03) 9731 8000,,,0.0,0
+131,"Werribee, VIC",doctors,Burke Dr,"233 Heaths Rd, Werribee VIC 3030",3030,-37.877783,144.680772,,(03) 9749 2766,,,0.0,0
+132,"Werribee, VIC",doctors,Sisifa S,"233 Heaths Rd, Werribee VIC 3030",3030,-37.877783,144.680772,,(03) 9749 2766,,,0.0,0
+133,"Werribee, VIC",doctors,Athari Dr,"241 Heaths Rd, Werribee VIC 3030",3030,-37.87769,144.67992,,(03) 9748 9777,,,0.0,0
+134,"Werribee, VIC",doctors,Bradley M F,"1 Pine Ave, Werribee VIC 3030",3030,-37.90286,144.66242,,(03) 9741 9511,,,0.0,0
+135,"Werribee, VIC",doctors,Werribee The Clinic,"15 Princes Hwy, Werribee VIC 3030",3030,-37.89921,144.66764,,(03) 9741 1200,,,0.0,0
+136,"Werribee, VIC",doctors,Princes Highway Medical Centre,"9 Princes Hwy, Werribee VIC 3030",3030,-37.89949,144.66704,,(03) 9741 1355,,,0.0,0
+137,"Werribee, VIC",doctors,Supercare Family Medical Centres Group,"6b Watton St, Werribee VIC 3030",3030,-37.9001,144.66268,,(03) 9742 6288,,,0.0,0
+138,"Werribee, VIC",doctors,Werribee Mercy Hospital Consulting Suite,"300 Princess Hwy, Werribee VIC 3030",3030,-37.886267,144.69695,,(03) 9216 8633,,,0.0,0
+139,"Werribee, VIC",doctors,Popa Dean Dr,"13 Synnot St, Werribee VIC 3030",3030,-37.90119,144.6656,,(03) 9741 2033,,,0.0,0
+140,"Werribee, VIC",doctors,Wyndham Eye Specialist,"297 Princess Hwy, Werribee VIC 3030",3030,-37.885457,144.697135,,(03) 9749 7846,,,0.0,0
+141,"Werribee, VIC",doctors,Green Jack Dr,"253 Heaths Rd, Werribee VIC 3030",3030,-37.87758,144.67853,,(03) 9748 4411,,,0.0,0
+142,"Werribee, VIC",doctors,Markov G Dr,"Werribee Mercy Hospital 300 Princes Hwy, Werribee VIC 3030",3030,-37.886267,144.69695,,(03) 9216 8633,,,0.0,0
+143,"Tarneit, VIC",doctors,Derrimut Rd Health Clinic,"412 Derrimut Rd, Tarneit VIC 3029",3030,-37.847507,144.689608,Bulk Billing & Open Late Mon-Fri,(03) 8742 2088,,http://www.derrimutroadhealthclinic.com.au,5.0,1
+144,"Richmond, VIC",doctors,Medownick Laser Clinic,"185 Hoddle St, Richmond VIC 3121",3026,-37.816882,144.990443,Leaders In Laser Eye Surgery,1800 373 937,info@medownick.com.au,http://www.medownicklasereyesurgery.com.au/,0.0,0
+145,"Derrimut, VIC",doctors,Caroline Springs Medical Centre,Derrimut VIC 3030,3026,-37.797063,144.765297,"Bulk Billing - 2-6 Caroline Springs Blv, Caroline Springs",(03) 8361 8073,dralani.melbourne@yahoo.com.au,http://www.carolinespringsmedicalcentre.com.au,0.0,0
+146,"Altona, VIC",doctors,Nursing Career Development Australia,Altona VIC 3018,3026,-37.864771,144.818301,,0430390946,mail@ncdagroup.com,http://www.ncdagroup.com,0.0,0
+147,"Altona Meadows, VIC",doctors,Altona Meadows Family Medical Clinic,"100 Victoria St, Altona Meadows VIC 3028",3026,-37.87299,144.78626,,(03) 9369 5000,,,0.0,0
+148,"Sunshine West, VIC",doctors,Fairbairn Road Clinic,"65 Fairbairn Rd, Sunshine West VIC 3020",3026,-37.80029,144.81811,,(03) 9317 3706,,,0.0,0
+149,"Sunshine West, VIC",doctors,The Fairbairn Road Medical Centre,"65 Fairbairn Rd, Sunshine West VIC 3020",3026,-37.80029,144.81811,,(03) 9364 8372,,,0.0,0
+150,"Laverton, VIC",doctors,Total Care Medical Centre,"42 Whittaker Av St, Laverton VIC 3028",3026,-37.85274,144.77494,,(03) 9931 1551,,,0.0,0
+151,"Altona North, VIC",doctors,Ledenda Michael Dr,"Cnr Dohertys Rd & Grieve Pde, Altona North VIC 3025",3026,-37.831581,144.826669,,(03) 9369 2444,,,0.0,0
+152,"Laverton, VIC",doctors,A Total Care Medical Centre,"42 Whittaker Ave, Laverton VIC 3028",3026,-37.852741,144.774945,,(03) 9931 1551,,,0.0,0
+153,"Laverton, VIC",doctors,Keane Kieran Dr,"Shop 3 8 Neville Ave, Laverton VIC 3028",3026,-37.86828,144.76069,,(03) 9369 5711,,,0.0,0
+154,"Altona Meadows, VIC",doctors,Lifson Harold,"100 Victoria St, Altona Meadows VIC 3028",3026,-37.87299,144.78626,,(03) 9369 5000,,,0.0,0
+155,"Altona North, VIC",doctors,Westgate Sports Medicine Centre,"Cnr Grieve Pde & Dohertys Rd, Altona North VIC 3025",3026,-37.831581,144.826669,,(03) 9369 2444,,,0.0,0
+156,"Altona Meadows, VIC",doctors,Hampton M,"100 Victoria St, Altona Meadows VIC 3028",3026,-37.87299,144.78626,,(03) 9369 5000,,,0.0,0
+157,"Altona North, VIC",doctors,Yu Kathy,"Cnr Grieve Pde & Dohertys Rd, Altona North VIC 3025",3026,-37.831581,144.826669,,(03) 9369 2444,,,0.0,0
+158,"Laverton, VIC",doctors,Laverton Medical Centre,"Shop 3, 8 Neville Ave, Laverton VIC 3028",3026,-37.86828,144.76069,,(03) 9369 5711,,,0.0,0
+159,"Altona North, VIC",doctors,Fuller Peter Dr,"Cnr Dohertys Rd & Grieve Pde, Altona North VIC 3025",3026,-37.831581,144.826669,,(03) 9369 2444,,,0.0,0
+160,"Altona North, VIC",doctors,Middleton David Dr,"Cnr Dohertys Rd & Grieve Pde, Altona North VIC 3025",3026,-37.831581,144.826669,,(03) 9369 2444,,,0.0,0
+161,"Altona North, VIC",doctors,Middleton David,"Cnr Grieve Pde & Dohertys Rd, Altona North VIC 3025",3026,-37.831581,144.826669,,(03) 9369 2444,,,0.0,0
+162,"Altona Meadows, VIC",doctors,Altona Meadows Diagnostic Centre,"309 Queen St, Altona Meadows VIC 3028",3026,-37.87336,144.7871,,(03) 9360 9833,,,0.0,0
+163,"Altona North, VIC",doctors,Fuller Peter J,"Cnr Grieve Pde & Dohertys Rd, Altona North VIC 3025",3026,-37.831581,144.826669,,(03) 9369 2444,,,0.0,0
+164,"Altona Meadows, VIC",doctors,Chan Lawrence,"100 Victoria St, Altona Meadows VIC 3028",3026,-37.87299,144.78626,,(03) 9369 5000,,,0.0,0
+165,"Altona Meadows, VIC",doctors,Meadows Medical Centre,"311 Queen St, Altona Meadows VIC 3028",3026,-37.87336,144.7871,,(03) 9369 4266,,,0.0,0
+166,"Altona Meadows, VIC",doctors,Aufgang Michael Dr,"311 Queen St, Altona Meadows VIC 3028",3026,-37.87336,144.7871,,(03) 9369 4266,,,0.0,0
+167,"Altona Meadows, VIC",doctors,Lifson Harold,"100 Victoria St, Altona Meadows VIC 3028",3026,-37.87299,144.78626,,(03) 9369 5000,,,0.0,0
+168,"Altona Meadows, VIC",doctors,Hampton Mike,"100 Victoria St, Altona Meadows VIC 3028",3026,-37.87299,144.78626,,(03) 9369 5000,,,0.0,0
+169,"Altona Meadows, VIC",doctors,Chan Lawrence,"100 Victoria St, Altona Meadows VIC 3028",3026,-37.87299,144.78626,,(03) 9369 5000,,,0.0,0
+170,"Altona Meadows, VIC",doctors,Calcutt Ian,"100 Victoria St, Altona Meadows VIC 3028",3026,-37.87299,144.78626,,(03) 9369 5000,,,0.0,0
+171,"Laverton, VIC",doctors,Gilbourne P Dr,"Shop 3 8 Neville Ave, Laverton VIC 3028",3026,-37.86828,144.76069,,(03) 9369 5711,,,0.0,0
+172,"Sunshine, VIC",doctors,Sunshine Central Medical Clinic,"217 Hampshire Rd, Sunshine VIC 3020",3026,-37.785525,144.83166,Fully Qualified Australian Trained Doctor who Bulk Bills.,(03) 9311 1337,info@scmedclin.com.au,http://www.sunshinemedical.com.au,0.0,0
+173,"Altona, VIC",doctors,Pier Street Medical Centre,"125 Pier St, Altona VIC 3018",3026,-37.86464,144.8307,,(03) 9398 3711,,http://www.pierstreetmedicalcentre.com.au,0.0,0
+174,"Tarneit, VIC",doctors,Derrimut Rd Health Clinic,"412 Derrimut Rd, Tarneit VIC 3029",3026,-37.847507,144.689608,,(03) 8742 2088,,http://www.derrimutroadhealthclinic.com.au,5.0,1
+175,"Tarneit, VIC",doctors,Derrimut Rd Health Clinic,"412 Derrimut Rd, Tarneit VIC 3029",3026,-37.847315,144.68991,,(03) 8742 2088,,http://www.derrimutroadhealthclinic.com.au,5.0,1
+176,"Sunshine, VIC",doctors,Durham Road Clinic,"141 Durham Rd, Sunshine VIC 3020",3026,-37.7884,144.82802,First & Longest Established Surgery In Sunshine - Family Medical Care.,(03) 9310 1792,,,0.0,0
+177,"Sunshine, VIC",doctors,The Clinic Sunshine,"53 Devonshire Rd, Sunshine VIC 3020",3026,-37.78501,144.83536,"Dr's Neville Poynton, Philip Yazbek, Maria Tomic, & Melinda Humphries",(03) 9310 1479,,,0.0,0
+178,"Deer Park, VIC",doctors,Tristar Medical Group,"Shop 1, 2, 3 8 Hatchlands Drive (Cnr Robins Road), Deer Park VIC 3023",3026,-37.777546,144.755836,,(03) 8361 7189,deerparkreception@tristarmedicalgroup.com.au,http://www.tristarmedicalgroup.com.au,0.0,0
+179,"St Albans, VIC",doctors,St Albans Dermatology,"198 Furlong Rd, St Albans VIC 3021",3026,-37.76025,144.814,,(03) 9356 0411,admin@stalbansderm.com.au,http://www.stalbansderm.com.au,0.0,0
+180,"Altona, VIC",doctors,Altona Medical Centre,"110 Queen St, Altona VIC 3018",3026,-37.86942,144.83112,Open 6 Days,(03) 9399 3536,,,0.0,0
+181,"Tarneit, VIC",doctors,Derrimut Rd Health Clinic,"412 Derrimut Rd, Tarneit VIC 3029",3029,-37.847507,144.689608,,(03) 8742 2088,,http://www.derrimutroadhealthclinic.com.au,5.0,1
+182,"Tarneit, VIC",doctors,Derrimut Rd Health Clinic,"412 Derrimut Rd, Tarneit VIC 3029",3029,-37.847315,144.68991,,(03) 8742 2088,,http://www.derrimutroadhealthclinic.com.au,5.0,1
+183,"Hoppers Crossing, VIC",doctors,HeartWest,"118 Derrimut Rd, Hoppers Crossing VIC 3029",3029,-37.87528,144.6837,,(03) 9748 7377,wyndham@heartwest.com.au,http://www.heartwest.com.au/index.html,0.0,0
+184,"Hoppers Crossing, VIC",doctors,Hoppers Crossing Medical Centre,"110 Heaths Rd, Hoppers Crossing VIC 3029",3029,-37.87855,144.69501,,(03) 9749 3200,,,0.0,0
+185,"Hoppers Crossing, VIC",doctors,Hampstead Drive Medical Centre,"2 Hampstead Drv, Hoppers Crossing VIC 3029",3029,-37.879314,144.69376,,(03) 8742 4938,,,0.0,0
+186,"Hoppers Crossing, VIC",doctors,Dr Ailina Ismail,"2 Hampstead Drv, Hoppers Crossing VIC 3029",3029,-37.879315,144.693758,,(03) 8742 7303,,,0.0,0
+187,"Hoppers Crossing, VIC",doctors,Donald Fraser Dr,"2 Hampstead Drv, Hoppers Crossing VIC 3029",3029,-37.879314,144.69376,,(03) 8742 2190,,,0.0,0
+188,"Hoppers Crossing, VIC",doctors,Parker H J,"79 Morris Rd, Hoppers Crossing VIC 3029",3029,-37.87802,144.70117,,(03) 9387 1000,,,0.0,0
+189,"Hoppers Crossing, VIC",doctors,Fyffe Naome,"83a Derrimut Rd, Hoppers Crossing VIC 3029",3029,-37.88577,144.68108,,(03) 9742 3932,,,0.0,0
+190,"Hoppers Crossing, VIC",doctors,KK Medical Practice,"105 Heaths Rd, Hoppers Crossing VIC 3029",3029,-37.879346,144.696211,,(03) 9749 0700,,,0.0,0
+191,"Hoppers Crossing, VIC",doctors,Pathcare Consulting Pathologists Pty Ltd,"79 Morris Rd, Hoppers Crossing VIC 3029",3029,-37.87802,144.70117,,(03) 9974 6969,,,0.0,0
+192,"Hoppers Crossing, VIC",doctors,Boag Simon,"Cnr Hogans Rd & Mossfiel Drv, Hoppers Crossing VIC 3029",3029,-37.86376,144.69077,,(03) 9748 0855,,,0.0,0
+193,"Hoppers Crossing, VIC",doctors,Taft Diagnostic Imaging Pty Ltd,"267 Heaths Rd, Hoppers Crossing VIC 3029",3029,-37.8774,144.67726,,(03) 9748 9044,,,0.0,0
+194,"Tarneit, VIC",doctors,Tarneit Family Medical and Dental Centre,"937-941 Sayers Rd, Tarneit VIC 3029",3029,-37.845356,144.654624,,(03) 8742 4676,,,0.0,0
+195,"Hoppers Crossing, VIC",doctors,AbouSeif Nader Dr,"63 Hogans Rd, Hoppers Crossing VIC 3029",3029,-37.86423,144.69472,,(03) 9749 6777,,,0.0,0
+196,"Hoppers Crossing, VIC",doctors,Underwood Alan Dr,"63 Hogans Rd, Hoppers Crossing VIC 3029",3029,-37.86423,144.69472,,(03) 9749 6777,,,0.0,0
+197,"Hoppers Crossing, VIC",doctors,Chow Debbie,"83a Derrimut Rd, Hoppers Crossing VIC 3029",3029,-37.88577,144.68108,,(03) 9742 3932,,,0.0,0
+198,"Hoppers Crossing, VIC",doctors,Sharwood Carolyn Dr,"110 Heaths Rd, Hoppers Crossing VIC 3029",3029,-37.87855,144.69501,,(03) 9749 3200,,,0.0,0
+199,"Hoppers Crossing, VIC",doctors,Independent Imaging Pty Ltd,"119 Heaths Rd, Hoppers Crossing VIC 3029",3029,-37.87921,144.69496,,(03) 9749 4555,,,0.0,0
+200,"Hoppers Crossing, VIC",doctors,Armitage Elissa Dr,"110 Heaths Rd, Hoppers Crossing VIC 3029",3029,-37.87855,144.69501,,(03) 9749 3200,,,0.0,0
+201,"Hoppers Crossing, VIC",doctors,MOSSFIEL MEDICAL CENTRE,"166 Heaths Rd, Hoppers Crossing VIC 3029",3029,-37.87807,144.69061,,(03) 9749 6666,,,0.0,0
+202,"Hoppers Crossing, VIC",doctors,Smith Neil Dr,"Port Phillip Specialist Medical Centre 218 Heaths Rd, Hoppers Crossing VIC 3029",3029,-37.87745,144.68479,,(03) 9749 4699,,,0.0,0
+203,"Hoppers Crossing, VIC",doctors,Hogans Road Medical Centre,"63 Hogans Rd, Hoppers Crossing VIC 3029",3029,-37.86423,144.69472,,(03) 9749 6777,,,0.0,0
+204,"Hoppers Crossing, VIC",doctors,Hogans Rd Medical Centre,"63 Hogans Rd, Hoppers Crossing VIC 3029",3029,-37.86423,144.69472,,(03) 9749 6777,,,0.0,0
+205,"Hoppers Crossing, VIC",doctors,Werribee Group Healthcare,"1 Barber Drv, Hoppers Crossing VIC 3029",3029,-37.8704,144.68373,,(03) 9748 7070,,,0.0,0
+206,"Hoppers Crossing, VIC",doctors,Krygger Jenny Dr,"63 Hogans Rd, Hoppers Crossing VIC 3029",3029,-37.86423,144.69472,,(03) 9749 6777,,,0.0,0
+207,"Tarneit, VIC",doctors,Wyndham Village Medical Centre,"Wydham Village Shopping Centre, 380 Sayers Rd, Tarneit VIC 3029",3029,-37.84934,144.70483,,(03) 8742 7100,,,0.0,0
+208,"Hoppers Crossing, VIC",doctors,Ghani A Dr,"110 Heaths Rd, Hoppers Crossing VIC 3029",3029,-37.87855,144.69501,,(03) 9749 3200,,,0.0,0
+209,"Hoppers Crossing, VIC",doctors,Westgate Medical Centre,"381 Sayers Rd, Hoppers Crossing VIC 3029",3029,-37.850878,144.705871,,(03) 9748 5088,,,0.0,0
+210,"Hoppers Crossing, VIC",doctors,Pereira Jeremy J Dr,"118 Derrimut Rd, Hoppers Crossing VIC 3029",3029,-37.87528,144.6837,,(03) 9748 7377,,,0.0,0
+211,"Hoppers Crossing, VIC",doctors,Igoor Payal Dr,"110 Heaths Rd, Hoppers Crossing VIC 3029",3029,-37.87855,144.69501,,(03) 9749 3200,,,0.0,0
+212,"Hoppers Crossing, VIC",doctors,Markov G Dr,"218 Heaths Rd, Hoppers Crossing VIC 3029",3029,-37.87745,144.68479,,(03) 9749 4699,,,0.0,0
+213,"Hoppers Crossing, VIC",doctors,Scala Sue Dr,"110 Heaths Rd, Hoppers Crossing VIC 3029",3029,-37.87855,144.69501,,(03) 9749 3200,,,0.0,0
+214,"Hoppers Crossing, VIC",doctors,Piaggio Robert,"267 Heaths Rd, Hoppers Crossing VIC 3029",3029,-37.8774,144.67726,,(03) 9748 9044,,,0.0,0
+215,"Hoppers Crossing, VIC",doctors,Searle Russell Dr,"63 Hogans Rd, Hoppers Crossing VIC 3029",3029,-37.86423,144.69472,,(03) 9749 6777,,,0.0,0
+216,"Tarneit, VIC",doctors,Derrimut Rd Health Clinic,"412 Derrimut Rd, Tarneit VIC 3029",3029,-37.847507,144.689608,Bulk Billing & Open Late Mon-Fri,(03) 8742 2088,,http://www.derrimutroadhealthclinic.com.au,5.0,1
+217,"Werribee, VIC",Electronics,Jaycar Electronics,"Cnr Synnot & Wedge Sts, Werribee VIC 3030",3030,-37.904253,144.658526,,(03) 9741 8951,,http://www.jaycar.com.au,0.0,0
+218,"Sunshine West, VIC",Electronics,RS Compoments,"668 Somerville Rd, Sunshine West VIC 3020",3030,-37.80501,144.8166,"550,000 Products - Electronic, Electrical & Industrial",1300 656 636,RSOnline.AU@rs-components.com,http://www.rsaustralia.com,0.0,0
+219,"Altona, VIC",Electronics,Dick Smith Electronics,"Shop L32, Altona Gate S/C, 124 Millers Rd, Altona VIC 3018",3030,-37.856484,144.844033,,(03) 9314 6611,,http://www.dicksmith.com.au,3.0,1
+220,"Sunshine West, VIC",Electronics,RS Components,"668 Somerville Rd, Sunshine West VIC 3020",3030,-37.80501,144.8166,,1300 366 189,RSOnline.AU@rs-components.com,http://www.rsaustralia.com,0.0,0
+221,"Truganina, VIC",Electronics,Sun Electronics,"45 Brigalow Drv, Truganina VIC 3029",3030,-37.838009,144.715144,,(03) 8368 2668,,,0.0,0
+222,"Sunshine West, VIC",Electronics,RS Components Pty Limited,"668 Somerville Rd, Sunshine West VIC 3020",3030,-37.80501,144.8166,,1300 656 636,,,0.0,0
+223,"West Melbourne, VIC",Electronics,Radio Parts Group,"562 Spencer St, West Melbourne VIC 3003",3030,-37.80695,144.94763,Over 70 Years Experience With 6000+ Products.,(03) 9328 1806,sales@radioparts.com.au,http://www.radioparts.com.au,0.0,0
+224,"Coburg, VIC",Electronics,Jaycar Electronics,"266 Sydney Rd, Coburg VIC 3058",3030,-37.74814,144.96579,,(03) 9384 1811,,http://www.jaycar.com.au,3.0,1
+225,"Melbourne, VIC",Electronics,Jaycar Electronics,"45 A'Beckett St, Melbourne VIC 3000",3030,-37.80903,144.9623,,(03) 9663 2030,,http://www.jaycar.com.au,3.5,2
+226,"Melbourne, VIC",Electronics,Dick Smith Electronics,"Shop 20, Midtown Plaza 246 Bourke St, Melbourne VIC 3000",3030,-37.8134,144.96608,,(03) 9639 0396,,http://www.dicksmith.com.au,2.5,2
+227,"Tullamarine, VIC",Electronics,Global Cold Chain Solutions,"20 Lilee Crs, Tullamarine VIC 3043",3030,-37.705123,144.848809,,(03) 9330 3603,info@globalcoldchain.com,http://www.globalcoldchain.com,0.0,0
+228,"Sunshine, VIC",Electronics,Jaycar Electronics,"204 McIntyre Rd, Sunshine VIC 3020",3030,-37.755828,144.832666,,(03) 9310 8066,,http://www.jaycar.com.au,0.0,0
+229,"Kew East, VIC",Electronics,Jaycar Electronics,"782 High St, Kew East VIC 3102",3030,-37.797181,145.056341,,(03) 9859 6188,,http://www.jaycar.com.au,0.0,0
+230,"Cheltenham, VIC",Electronics,Jaycar Electronics,"315 Warrigal Rd, Cheltenham VIC 3192",3030,-37.959604,145.075216,,(03) 9585 5011,,http://www.jaycar.com.au,0.0,0
+231,"Sunshine, VIC",Electronics,Dick Smith Electronics,"Shop 14A, Sunshine Mkt Place, 80 Harvester Rd, Sunshine VIC 3020",3030,-37.781749,144.830818,,(03) 9312 4946,,http://www.dicksmith.com.au,0.0,0
+232,"Hawthorn, VIC",Electronics,Vaisala Pty Ltd,"3 Guest St, Hawthorn VIC 3122",3030,-37.82298,145.03298,,(03) 9815 6700,,http://www.vaisala.com,0.0,0
+233,"Bentleigh, VIC",Electronics,Pipos Systems,"1/ 60 Mortimore St, Bentleigh VIC 3204",3030,-37.928263,145.046122,,1800 727 133,,http://www.pipos.com.au,0.0,0
+234,"Cheltenham, VIC",Electronics,Dick Smith Electronics,"Tenancy 3066, Lvl 3 Westfield, 1239 Nepean Hwy, Cheltenham VIC 3192",3030,-37.957833,145.055804,,(03) 8581 9860,,http://www.dicksmith.com.au,0.0,0
+235,"Cheltenham, VIC",Electronics,HiTech Electronic Products Pty Ltd,"Unit 5/ 34 Christensen St, Cheltenham VIC 3192",3030,-37.949639,145.066957,,(03) 9532 2002,,http://www.hi-techelectronicseltproducts.com.au,0.0,0
+236,"Mentone, VIC",Electronics,Dick Smith Electronics,"6- 10 Nepean Hwy, Mentone VIC 3194",3030,-37.97507,145.06467,,(03) 9585 5455,,http://www.dicksmith.com.au,0.0,0
+237,"Brighton, VIC",Electronics,Dick Smith Electronics,"Cnr Hawthorn Rd & Nepean Hwy, Brighton VIC 3186",3030,-37.914425,145.016575,,(03) 9592 2366,,http://www.dicksmith.com.au,0.0,0
+238,"Richmond, VIC",Electronics,Dick Smith Electronics,"Shop MM2, Victoria Gardens S/C, Cnr Victoria & Burnley Sts, Richmond VIC 3121",3030,-37.811337,145.00975,,(03) 9429 0355,,http://www.dicksmith.com.au,0.0,0
+239,"Maribyrnong, VIC",Electronics,Dick Smith Electronics,"Shop 3050, Level 3, High Point West Shopping Cntr, Maribyrnong VIC 3032",3030,-37.7733,144.888735,,(03) 9318 6300,,http://www.dicksmith.com.au,0.0,0
+240,"Geelong, VIC",Electronics,Jaycar Electronics,"48 Mercer St, Geelong VIC 3220",3030,-38.141863,144.355408,,(03) 5221 5800,,,0.0,0
+241,"Moorabbin, VIC",Electronics,BDL Cable  Electrical Company Pty Ltd,"1- 7 Sullivan St, Moorabbin VIC 3189",3030,-37.93925,145.06358,,(03) 9532 1144,,,0.0,0
+242,"Preston, VIC",Electronics,ABC All Small Electronic Parts,"172 High St, Preston VIC 3072",3030,-37.74582,145.00304,,(03) 9484 0191,,,0.0,0
+243,"South Yarra, VIC",Electronics,Probe Electronics,South Yarra VIC 3141,3030,-37.840259,144.991384,,(03) 9568 6955,,,0.0,0
+244,"Cheltenham, VIC",Electronics,Connector World,"162 Weatherall Rd, Cheltenham VIC 3192",3030,-37.97229,145.05048,,(03) 9585 1311,,,0.0,0
+245,"Kew, VIC",Electronics,Blip IT Pty Ltd,"9 Hutchinson Drv, Kew VIC 3101",3030,-37.79377,145.02428,,,,,0.0,0
+246,"Melbourne*, VIC",Electronics,Jnb Communications Electronics,"Suite 1138, Melbourne* VIC 3004",3030,-37.835964,144.973845,,(03) 9867 1548,,,0.0,0
+247,"Ascot Vale, VIC",Electronics,Aashapuri Electronics,"325 Maribyrnong Rd, Ascot Vale VIC 3032",3030,-37.770355,144.902165,,(03) 9078 7259,,,0.0,0
+248,"Cheltenham, VIC",Electronics,HiTech Electronic Products Pty Ltd,"Fcty5/ 265 Christensen St, Cheltenham VIC 3192",3030,-37.94635,145.05536,,(03) 9532 2002,,,0.0,0
+249,"Prahran, VIC",Electronics,The Samant Group,"PO Box 2302, Prahran VIC 3181",3030,-37.852695,144.999599,,(03) 9029 6361,,,0.0,0
+250,"Campbellfield, VIC",Electronics,Australian Interconnection Technology Pty Ltd,"11 A Capital Link Drv, Campbellfield VIC 3061",3030,-37.65705,144.96334,,(03) 9357 7766,,,0.0,0
+251,"Melton, VIC",Electronics,Melton Electronics  Communication,"39 Bakery Sq, Melton VIC 3337",3030,-37.684301,144.584281,,(03) 9743 1233,,,0.0,0
+252,"Sunshine West, VIC",Electronics,RS Compoments,"668 Somerville Rd, Sunshine West VIC 3020",3026,-37.80501,144.8166,"550,000 Products - Electronic, Electrical & Industrial",1300 656 636,RSOnline.AU@rs-components.com,http://www.rsaustralia.com,0.0,0
+253,"Sunshine West, VIC",Electronics,RS Components,"668 Somerville Rd, Sunshine West VIC 3020",3026,-37.80501,144.8166,,1300 366 189,RSOnline.AU@rs-components.com,http://www.rsaustralia.com,0.0,0
+254,"Sunshine West, VIC",Electronics,RS Components Pty Limited,"668 Somerville Rd, Sunshine West VIC 3020",3026,-37.80501,144.8166,,1300 656 636,,,0.0,0
+255,"Altona, VIC",Electronics,Dick Smith Electronics,"Shop L32, Altona Gate S/C, 124 Millers Rd, Altona VIC 3018",3026,-37.856484,144.844033,,(03) 9314 6611,,http://www.dicksmith.com.au,3.0,1
+256,"Sunshine, VIC",Electronics,Dick Smith Electronics,"Shop 14A, Sunshine Mkt Place, 80 Harvester Rd, Sunshine VIC 3020",3026,-37.781749,144.830818,,(03) 9312 4946,,http://www.dicksmith.com.au,0.0,0
+257,"Truganina, VIC",Electronics,Sun Electronics,"45 Brigalow Drv, Truganina VIC 3029",3026,-37.838009,144.715144,,(03) 8368 2668,,,0.0,0
+258,"Williamstown, VIC",Electronics,Pacific Test Equipment Pty Ltd,"16 Dickson Crt, Williamstown VIC 3016",3026,-37.85845,144.88004,,(03) 9397 0453,,,0.0,0
+259,"Werribee, VIC",Electronics,Jaycar Electronics,"Cnr Synnot & Wedge Sts, Werribee VIC 3030",3026,-37.904253,144.658526,,(03) 9741 8951,,http://www.jaycar.com.au,0.0,0
+260,"Sunshine, VIC",Electronics,Jaycar Electronics,"204 McIntyre Rd, Sunshine VIC 3020",3026,-37.755828,144.832666,,(03) 9310 8066,,http://www.jaycar.com.au,0.0,0
+261,"Maribyrnong, VIC",Electronics,Dick Smith Electronics,"Shop 3050, Level 3, High Point West Shopping Cntr, Maribyrnong VIC 3032",3026,-37.7733,144.888735,,(03) 9318 6300,,http://www.dicksmith.com.au,0.0,0
+262,"Ascot Vale, VIC",Electronics,Aashapuri Electronics,"325 Maribyrnong Rd, Ascot Vale VIC 3032",3026,-37.770355,144.902165,,(03) 9078 7259,,,0.0,0
+263,"Ascot Vale, VIC",Electronics,Data Instrumentation Pty Ltd,"119 Union Rd, Ascot Vale VIC 3032",3026,-37.77546,144.91526,,(03) 9375 7422,,,0.0,0
+264,"Keilor East, VIC",Electronics,LDR Electronics,"61 Wyong St, Keilor East VIC 3033",3026,-37.7324,144.86599,,(03) 9336 3803,,,0.0,0
+265,"West Melbourne, VIC",Electronics,Radio Parts Group,"562 Spencer St, West Melbourne VIC 3003",3026,-37.80695,144.94763,Over 70 Years Experience With 6000+ Products.,(03) 9328 1806,sales@radioparts.com.au,http://www.radioparts.com.au,0.0,0
+266,"Coburg, VIC",Electronics,Jaycar Electronics,"266 Sydney Rd, Coburg VIC 3058",3026,-37.74814,144.96579,,(03) 9384 1811,,http://www.jaycar.com.au,3.0,1
+267,"Melbourne, VIC",Electronics,Jaycar Electronics,"45 A'Beckett St, Melbourne VIC 3000",3026,-37.80903,144.9623,,(03) 9663 2030,,http://www.jaycar.com.au,3.5,2
+268,"Melbourne, VIC",Electronics,Dick Smith Electronics,"Shop 20, Midtown Plaza 246 Bourke St, Melbourne VIC 3000",3026,-37.8134,144.96608,,(03) 9639 0396,,http://www.dicksmith.com.au,2.5,2
+269,"Tullamarine, VIC",Electronics,Global Cold Chain Solutions,"20 Lilee Crs, Tullamarine VIC 3043",3026,-37.705123,144.848809,,(03) 9330 3603,info@globalcoldchain.com,http://www.globalcoldchain.com,0.0,0
+270,"South Yarra, VIC",Electronics,Probe Electronics,South Yarra VIC 3141,3026,-37.840259,144.991384,,(03) 9568 6955,,,0.0,0
+271,"Melbourne*, VIC",Electronics,Jnb Communications Electronics,"Suite 1138, Melbourne* VIC 3004",3026,-37.835964,144.973845,,(03) 9867 1548,,,0.0,0
+272,"Essendon, VIC",Electronics,Litton Precision Products International Inc,"Suite 7, 902-912 Mount Alexander Rd, Essendon VIC 3040",3026,-37.75584,144.91868,,(03) 9375 3838,,,0.0,0
+273,"Prahran, VIC",Electronics,Dick Smith,"219 Commercial Rd, Prahran VIC 3181",3026,-37.846854,144.994086,,(03) 9824 0932,,,0.0,0
+274,"Hawthorn, VIC",Electronics,Vaisala Pty Ltd,"3 Guest St, Hawthorn VIC 3122",3026,-37.82298,145.03298,,(03) 9815 6700,,http://www.vaisala.com,0.0,0
+275,"Brighton, VIC",Electronics,Dick Smith Electronics,"Cnr Hawthorn Rd & Nepean Hwy, Brighton VIC 3186",3026,-37.914425,145.016575,,(03) 9592 2366,,http://www.dicksmith.com.au,0.0,0
+276,"Richmond, VIC",Electronics,Dick Smith Electronics,"Shop MM2, Victoria Gardens S/C, Cnr Victoria & Burnley Sts, Richmond VIC 3121",3026,-37.811337,145.00975,,(03) 9429 0355,,http://www.dicksmith.com.au,0.0,0
+277,"Preston, VIC",Electronics,ABC All Small Electronic Parts,"172 High St, Preston VIC 3072",3026,-37.74582,145.00304,,(03) 9484 0191,,,0.0,0
+278,"Kew, VIC",Electronics,Blip IT Pty Ltd,"9 Hutchinson Drv, Kew VIC 3101",3026,-37.79377,145.02428,,,,,0.0,0
+279,"Prahran, VIC",Electronics,The Samant Group,"PO Box 2302, Prahran VIC 3181",3026,-37.852695,144.999599,,(03) 9029 6361,,,0.0,0
+280,"Broadmeadows, VIC",Electronics,Tunjay Electronics,"2/22 Dargie Crt, Broadmeadows VIC 3047",3026,-37.67268,144.93075,,(03) 9309 7933,,,0.0,0
+281,"Preston, VIC",Electronics,ABC Preston Electronics,"172- 174 High St, Preston VIC 3072",3026,-37.74582,145.00304,,(03) 9484 0191,,,0.0,0
+282,"Hawthorn, VIC",Electronics,Manuco Electronics,"11 Church St, Hawthorn VIC 3122",3026,-37.81378,145.02334,,(03) 9852 7922,,,0.0,0
+283,"Sunshine West, VIC",Electronics,RS Compoments,"668 Somerville Rd, Sunshine West VIC 3020",3026,-37.80501,144.8166,"550,000 Products - Electronic, Electrical & Industrial",1300 656 636,RSOnline.AU@rs-components.com,http://www.rsaustralia.com,0.0,0
+284,"Sunshine West, VIC",Electronics,RS Components,"668 Somerville Rd, Sunshine West VIC 3020",3026,-37.80501,144.8166,,1300 656 636,RSOnline.AU@rs-components.com,http://www.rsaustralia.com,0.0,0
+285,"Sunshine West, VIC",Electronics,RS Components Pty Limited,"668 Somerville Rd, Sunshine West VIC 3020",3026,-37.80501,144.8166,,1300 656 636,,,0.0,0
+286,"Sunshine West, VIC",Electronics,Sniper Investments Pty Ltd,"59 Strezlecki Ave, Sunshine West VIC 3020",3026,-37.80906,144.82323,Surface Mount Technology and Through Hole Manufacturing,(03) 9311 9009,sales@sniperinvestments.com.au,http://www.sniperinvestments.com.au,0.0,0
+287,"Truganina, VIC",Electronics,Sun Electronics,"45 Brigalow Drv, Truganina VIC 3029",3029,-37.838009,144.715144,,(03) 8368 2668,,,0.0,0
+288,"Werribee, VIC",Electronics,Jaycar Electronics,"Cnr Synnot & Wedge Sts, Werribee VIC 3030",3029,-37.904253,144.658526,,(03) 9741 8951,,http://www.jaycar.com.au,0.0,0
+289,"Sunshine West, VIC",Electronics,RS Compoments,"668 Somerville Rd, Sunshine West VIC 3020",3029,-37.80501,144.8166,"550,000 Products - Electronic, Electrical & Industrial",1300 656 636,RSOnline.AU@rs-components.com,http://www.rsaustralia.com,0.0,0
+290,"Altona, VIC",Electronics,Dick Smith Electronics,"Shop L32, Altona Gate S/C, 124 Millers Rd, Altona VIC 3018",3029,-37.856484,144.844033,,(03) 9314 6611,,http://www.dicksmith.com.au,3.0,1
+291,"Sunshine West, VIC",Electronics,RS Components,"668 Somerville Rd, Sunshine West VIC 3020",3029,-37.80501,144.8166,,1300 366 189,RSOnline.AU@rs-components.com,http://www.rsaustralia.com,0.0,0
+292,"Tullamarine, VIC",Electronics,Global Cold Chain Solutions,"20 Lilee Crs, Tullamarine VIC 3043",3029,-37.705123,144.848809,,(03) 9330 3603,info@globalcoldchain.com,http://www.globalcoldchain.com,0.0,0
+293,"Sunshine, VIC",Electronics,Jaycar Electronics,"204 McIntyre Rd, Sunshine VIC 3020",3029,-37.755828,144.832666,,(03) 9310 8066,,http://www.jaycar.com.au,0.0,0
+294,"Sunshine, VIC",Electronics,Dick Smith Electronics,"Shop 14A, Sunshine Mkt Place, 80 Harvester Rd, Sunshine VIC 3020",3029,-37.781749,144.830818,,(03) 9312 4946,,http://www.dicksmith.com.au,0.0,0
+295,"Maribyrnong, VIC",Electronics,Dick Smith Electronics,"Shop 3050, Level 3, High Point West Shopping Cntr, Maribyrnong VIC 3032",3029,-37.7733,144.888735,,(03) 9318 6300,,http://www.dicksmith.com.au,0.0,0
+296,"Ascot Vale, VIC",Electronics,Aashapuri Electronics,"325 Maribyrnong Rd, Ascot Vale VIC 3032",3029,-37.770355,144.902165,,(03) 9078 7259,,,0.0,0
+297,"Melton, VIC",Electronics,Melton Electronics  Communication,"39 Bakery Sq, Melton VIC 3337",3029,-37.684301,144.584281,,(03) 9743 1233,,,0.0,0
+298,"Sunshine West, VIC",Electronics,RS Components Pty Limited,"668 Somerville Rd, Sunshine West VIC 3020",3029,-37.80501,144.8166,,1300 656 636,,,0.0,0
+299,"Ascot Vale, VIC",Electronics,Data Instrumentation Pty Ltd,"119 Union Rd, Ascot Vale VIC 3032",3029,-37.77546,144.91526,,(03) 9375 7422,,,0.0,0
+300,"Keilor East, VIC",Electronics,LDR Electronics,"61 Wyong St, Keilor East VIC 3033",3029,-37.7324,144.86599,,(03) 9336 3803,,,0.0,0
+301,"Williamstown, VIC",Electronics,Pacific Test Equipment Pty Ltd,"16 Dickson Crt, Williamstown VIC 3016",3029,-37.85845,144.88004,,(03) 9397 0453,,,0.0,0
+302,"West Melbourne, VIC",Electronics,Radio Parts Group,"562 Spencer St, West Melbourne VIC 3003",3029,-37.80695,144.94763,Over 70 Years Experience With 6000+ Products.,(03) 9328 1806,sales@radioparts.com.au,http://www.radioparts.com.au,0.0,0
+303,"Coburg, VIC",Electronics,Jaycar Electronics,"266 Sydney Rd, Coburg VIC 3058",3029,-37.74814,144.96579,,(03) 9384 1811,,http://www.jaycar.com.au,3.0,1
+304,"Melbourne, VIC",Electronics,Jaycar Electronics,"45 A'Beckett St, Melbourne VIC 3000",3029,-37.80903,144.9623,,(03) 9663 2030,,http://www.jaycar.com.au,3.5,2
+305,"Melbourne, VIC",Electronics,Dick Smith Electronics,"Shop 20, Midtown Plaza 246 Bourke St, Melbourne VIC 3000",3029,-37.8134,144.96608,,(03) 9639 0396,,http://www.dicksmith.com.au,2.5,2
+306,"Hawthorn, VIC",Electronics,Vaisala Pty Ltd,"3 Guest St, Hawthorn VIC 3122",3029,-37.82298,145.03298,,(03) 9815 6700,,http://www.vaisala.com,0.0,0
+307,"Brighton, VIC",Electronics,Dick Smith Electronics,"Cnr Hawthorn Rd & Nepean Hwy, Brighton VIC 3186",3029,-37.914425,145.016575,,(03) 9592 2366,,http://www.dicksmith.com.au,0.0,0
+308,"Richmond, VIC",Electronics,Dick Smith Electronics,"Shop MM2, Victoria Gardens S/C, Cnr Victoria & Burnley Sts, Richmond VIC 3121",3029,-37.811337,145.00975,,(03) 9429 0355,,http://www.dicksmith.com.au,0.0,0
+309,"Preston, VIC",Electronics,ABC All Small Electronic Parts,"172 High St, Preston VIC 3072",3029,-37.74582,145.00304,,(03) 9484 0191,,,0.0,0
+310,"South Yarra, VIC",Electronics,Probe Electronics,South Yarra VIC 3141,3029,-37.840259,144.991384,,(03) 9568 6955,,,0.0,0
+311,"Kew, VIC",Electronics,Blip IT Pty Ltd,"9 Hutchinson Drv, Kew VIC 3101",3029,-37.79377,145.02428,,,,,0.0,0
+312,"Melbourne*, VIC",Electronics,Jnb Communications Electronics,"Suite 1138, Melbourne* VIC 3004",3029,-37.835964,144.973845,,(03) 9867 1548,,,0.0,0
+313,"Prahran, VIC",Electronics,The Samant Group,"PO Box 2302, Prahran VIC 3181",3029,-37.852695,144.999599,,(03) 9029 6361,,,0.0,0
+314,"Campbellfield, VIC",Electronics,Australian Interconnection Technology Pty Ltd,"11 A Capital Link Drv, Campbellfield VIC 3061",3029,-37.65705,144.96334,,(03) 9357 7766,,,0.0,0
+315,"Essendon, VIC",Electronics,Litton Precision Products International Inc,"Suite 7, 902-912 Mount Alexander Rd, Essendon VIC 3040",3029,-37.75584,144.91868,,(03) 9375 3838,,,0.0,0
+316,"Broadmeadows, VIC",Electronics,Tunjay Electronics,"2/22 Dargie Crt, Broadmeadows VIC 3047",3029,-37.67268,144.93075,,(03) 9309 7933,,,0.0,0
+317,"Preston, VIC",Electronics,ABC Preston Electronics,"172- 174 High St, Preston VIC 3072",3029,-37.74582,145.00304,,(03) 9484 0191,,,0.0,0
+318,"Hawthorn, VIC",Electronics,Manuco Electronics,"11 Church St, Hawthorn VIC 3122",3029,-37.81378,145.02334,,(03) 9852 7922,,,0.0,0
+319,"Prahran, VIC",Electronics,Dick Smith,"219 Commercial Rd, Prahran VIC 3181",3029,-37.846854,144.994086,,(03) 9824 0932,,,0.0,0
+320,"Clayton, VIC",Electronics,QualiEco Circuits Pty Ltd,"U 5/ 3 Whitburn St, Clayton VIC 3168",3029,-37.915663,145.122612,,1300 289 722,pcb@qualiecocircuits.com.au,http://www.qualiecocircuits.com.au,0.0,0
+321,"Clayton, VIC",Electronics,QualiEco Circuits Pty Ltd,"U 5/ 3 Whitburn St, Clayton VIC 3168",3029,-37.915663,145.122612,,,pcb@qualiecocircuits.com.au,http://www.qualiecocircuits.com.au,0.0,0
+322,"Werribee, VIC",Motor Accessories,Mos Mobiles,"Kiosk 011 Cnr Derrimut & Heaths Rd, Werribee VIC 3030",3030,-37.87,144.65,,0387424988,werribeeplaza@mosmobiles.com.au,http://www.vodafone.com.au/,0.0,0
+323,"Werribee, VIC",Motor Accessories,Marlows Auto Parts  Accessories,"215 Derrimut Rd, Werribee Plaza Shpng Cntr, Werribee VIC 3030",3030,-37.875204,144.683113,,(03) 9748 0055,,,0.0,0
+324,"Werribee, VIC",Motor Accessories,Motor Components,"7 Lock Ave, Werribee VIC 3030",3030,-37.91109,144.66299,,1800 880 077,,,0.0,0
+325,"Hoppers Crossing, VIC",Motor Accessories,Autobarn Hoppers Crossing,"Unit 1, 194- 210 Old Geelong Rd, Hoppers Crossing VIC 3029",3030,-37.87649,144.71726,Autobarn-The Automotive Superstore. Home Of Australia's Biggest Brands,(03) 9748 8477,sales@hopperscrossing.autobarn.com.au,http://www.autobarn.com.au,0.0,0
+326,"Ravenhall, VIC",Motor Accessories,True Flow Exhaust,"Factory 2/ 25 Westwood Drv, Ravenhall VIC 3023",3030,-37.768029,144.753064,,(03) 8358 5511,trueflowexhaust@bigpond.com,http://www.trueflowexhausts.com.au,0.0,0
+327,"Deer Park, VIC",Motor Accessories,Corpstar,"Kiosk 10 Cnr Neale Rd & Station Rd, Deer Park VIC 3023",3030,-37.76,144.77,,0393630166,brimbank@corpstar.com.au,http://www.vodafone.com.au/,0.0,0
+328,"Sunshine West, VIC",Motor Accessories,Motor Cars International,"41 Enterprise Way, Sunshine West VIC 3020",3030,-37.814061,144.82394,,(03) 9314 1500,,http://www.mci-online.com.au,0.0,0
+329,"Laverton North, VIC",Motor Accessories,Radiant Exhausts Pty Ltd,"41 Little Boundary Rd, Laverton North VIC 3026",3030,-37.81741,144.81702,,(03) 9689 4360,,http://www.radiantexhausts.com.au,0.0,0
+330,"Deer Park, VIC",Motor Accessories,Independent Car Parts,"Fcty 4, 1021 - 1027 Western Hwy, Deer Park VIC 3023",3030,-37.76212,144.75173,,(03) 9361 2004,,,0.0,0
+331,"Brooklyn, VIC",Motor Accessories,Allsafe Ladders PL,"720 Geelong Rd, Brooklyn VIC 3012",3030,-37.82085,144.83107,,(03) 9314 3871,,,0.0,0
+332,"Caroline Springs, VIC",Motor Accessories,SS Body Styling,Caroline Springs VIC 3023,3030,-37.737294,144.739454,,,,,0.0,0
+333,"Altona, VIC",Motor Accessories,K Mart Auto,"Altona Gate Shopping Centre, Altona VIC 3018",3030,-37.859,144.850084,,(03) 9314 2333,,,0.0,0
+334,"Laverton North, VIC",Motor Accessories,HyWay Truck Accessories,"89- 103 Boundary Rd, Laverton North VIC 3026",3030,-37.81549,144.799,,(03) 9369 9905,,,0.0,0
+335,"Deer Park, VIC",Motor Accessories,Mega Tech Digital,"Brimbank Central S/C Kiosk, Deer Park VIC 3023",3030,-37.767228,144.765666,,,,,0.0,0
+336,"Hoppers Crossing, VIC",Motor Accessories,Hogans Axle Correction Pty Ltd,"244 Old Geelong Rd, Hoppers Crossing VIC 3029",3030,-37.874745,144.720415,,(03) 9748 5533,,,0.0,0
+337,"Hoppers Crossing, VIC",Motor Accessories,Repco,"174- 182 Old Geelong Rd, Hoppers Crossing VIC 3029",3030,-37.87708,144.71542,,(03) 9749 5350,,,0.0,0
+338,"Hoppers Crossing, VIC",Motor Accessories,K Mart Auto,"Werribee Plaza Regional Shopping Centre, Hoppers Crossing VIC 3029",3030,-37.875799,144.679049,,(03) 9749 2300,,,0.0,0
+339,"Hoppers Crossing, VIC",Motor Accessories,Autopro,"7 Old Geelong Rd, Hoppers Crossing VIC 3029",3030,-37.88307,144.69958,,(03) 9749 5413,,,0.0,0
+340,"Melton, VIC",Motor Accessories,Auto One Melton,"2/ 93 High St, Melton VIC 3337",3030,-37.690366,144.602482,"""Right Gear! Right Advice!"", Auto One is the Right Choice for You!",(03) 9743 3355,info@autoone.com.au,http://www.autoone.com.au,0.0,0
+341,"Footscray, VIC",Motor Accessories,Custom Sunroofs Aust Pty Ltd,"110 Mitchell St, Footscray VIC 3011",3030,-37.781658,144.874193,"Sunroofs Are Our Specialty, Come and See Our Show Room!",(03) 9318 4978,info@customsunroofs.com.au,http://customsunroofs.com.au/,0.0,0
+342,"Camberwell, VIC",Motor Accessories,Roof Carrier Systems,"469, Burke Road (Cnr Toorak Road),, Camberwell VIC 3124",3030,-37.84543,145.0537,"Roof racks, bike carriers, luggage boxes, snow chains. New and used.",(03) 9822 9539,info@roofcarriersystems.com.au,http://www.roofcarriersystems.com.au,0.0,0
+343,"Braybrook, VIC",Motor Accessories,KAM Autoparts,"234 Ballarat Rd, Braybrook VIC 3019",3030,-37.77996,144.86372,"Service Parts, Car Care & Accessories.",(03) 9317 5324,kamautoparts@optusnet.com.au,http://www.kamautoparts.com.au/,0.0,0
+344,"Moorabbin, VIC",Motor Accessories,Roof Rack Superstore,"6/ 265- 269 Wickham Rd, Moorabbin VIC 3189",3030,-37.946345,145.055357,"Huge Range & Showroom, Roof Racks, Roof Boxes/ Pods & Accessories",(03) 9532 3624,,http://www.roofracksuperstore.com,5.0,1
+345,"Port Melbourne, VIC",Motor Accessories,Roof Rack City,"49 Fennell St, Port Melbourne VIC 3207",3030,-37.827373,144.938713,For All Your Towing Needs - All Vehicle Accessories,1300 133 353,sales@allvehicleaccessories.com.au,http://www.allvehicleaccessories.com.au,0.0,0
+346,"Campbellfield, VIC",Motor Accessories,Car  Bra Australia,Campbellfield VIC 3061,3030,-37.667601,144.960389,The Original Car-Bra. Australian Made.,1800 422 727,sales@carbra.com.au,http://www.carbra.com.au,1.0,1
+347,"Abbotsford, VIC",Motor Accessories,Ilana Accessories Aust Pty Ltd,"20 Hoddle St, Abbotsford VIC 3067",3030,-37.80851,144.99198,Quality Motor Accessories,1800 335 605,michael@ilanas.com.au,http://www.ilanas.com.au,0.0,0
+348,"Oakleigh, VIC",Motor Accessories,VIP Car Seat Covers,"174b Warrigal Rd, Oakleigh VIC 3166",3030,-37.90848,145.08558,Widest Range Of Motor Accessories,(03) 9579 3484,,,0.0,0
+349,"Drysdale, VIC",Motor Accessories,Autopro Drysdale Parts Professionals,"2/ 31 Murradoc Rd, Drysdale VIC 3222",3030,-38.17285,144.57406,With Over 40 Years Experience In The Industry,(03) 5253 2811,autoprodrysdale@aanet.com.au,,0.0,0
+350,"Melton, VIC",Motor Accessories,True Flow Exhaust,"86 High St, Melton VIC 3337",3030,-37.688438,144.602248,,(03) 9743 5160,trueflowexhaust@bigpond.com,http://www.trueflowexhausts.com.au,0.0,0
+351,"Drysdale, VIC",Motor Accessories,Autopro Drysdale Parts Professionals,"2 / 31 Murradoc Rd, Drysdale VIC 3222",3030,-38.17285,144.57406,,(03) 5253 2811,autoprodrysdale@aanet.com.au,,0.0,0
+352,"Ocean Grove, VIC",Motor Accessories,Parts 4 Automotive,"2/ 18 Sinclair St, Ocean Grove VIC 3226",3030,-38.25099,144.53867,Performance & Custom Equipment.,(03) 5255 3483,autoog@bigpond.com,,0.0,0
+353,"Laverton North, VIC",Motor Accessories,Radiant Exhausts Pty Ltd,"41 Little Boundary Rd, Laverton North VIC 3026",3026,-37.81741,144.81702,,(03) 9689 4360,,http://www.radiantexhausts.com.au,0.0,0
+354,"Laverton North, VIC",Motor Accessories,HyWay Truck Accessories,"89- 103 Boundary Rd, Laverton North VIC 3026",3026,-37.81549,144.799,,(03) 9369 9905,,,0.0,0
+355,"Sunshine West, VIC",Motor Accessories,Motor Cars International,"41 Enterprise Way, Sunshine West VIC 3020",3026,-37.814061,144.82394,,(03) 9314 1500,,http://www.mci-online.com.au,0.0,0
+356,"Brooklyn, VIC",Motor Accessories,Allsafe Ladders PL,"720 Geelong Rd, Brooklyn VIC 3012",3026,-37.82085,144.83107,,(03) 9314 3871,,,0.0,0
+357,"Braybrook, VIC",Motor Accessories,KAM Autoparts,"234 Ballarat Rd, Braybrook VIC 3019",3026,-37.77996,144.86372,"Service Parts, Car Care & Accessories.",(03) 9317 5324,kamautoparts@optusnet.com.au,http://www.kamautoparts.com.au/,0.0,0
+358,"Altona, VIC",Motor Accessories,Autobarn Altona,"1/ 174 Millers Rd, Altona VIC 3018",3026,-37.83257,144.84744,Autobarn-The Automotive Superstore. Home Of Australia's Biggest Brands,(03) 9314 2571,sales@altona.autobarn.com.au,http://www.autobarn.com.au,4.0,2
+359,"Ravenhall, VIC",Motor Accessories,True Flow Exhaust,"Factory 2/ 25 Westwood Drv, Ravenhall VIC 3023",3026,-37.768029,144.753064,,(03) 8358 5511,trueflowexhaust@bigpond.com,http://www.trueflowexhausts.com.au,0.0,0
+360,"Deer Park, VIC",Motor Accessories,Corpstar,"Kiosk 10 Cnr Neale Rd & Station Rd, Deer Park VIC 3023",3026,-37.76,144.77,,0393630166,brimbank@corpstar.com.au,http://www.vodafone.com.au/,0.0,0
+361,"Tottenham, VIC",Motor Accessories,Don Kyatt Spare Parts,"245 Sunshine Rd, Tottenham VIC 3012",3026,-37.797255,144.845853,,(03) 9325 9700,,http://www.donkyatt.com.au,0.0,0
+362,"Sunshine, VIC",Motor Accessories,HP Heaven,Sunshine VIC 3020,3026,-37.788946,144.835364,,(03) 9312 4555,,http://www.hpheaven.com.au,0.0,0
+363,"Ardeer, VIC",Motor Accessories,American Performance Imports,"Fcty 1/ 36 Reid St, Ardeer VIC 3022",3026,-37.76947,144.80525,,(03) 9360 5685,,,0.0,0
+364,"Deer Park, VIC",Motor Accessories,Autopro,"Cnr. Station Rd & Neale St, Deer Park VIC 3023",3026,-37.752521,144.77768,,(03) 9361 1999,,,0.0,0
+365,"Deer Park, VIC",Motor Accessories,Independent Car Parts,"Fcty 4, 1021 - 1027 Western Hwy, Deer Park VIC 3023",3026,-37.76212,144.75173,,(03) 9361 2004,,,0.0,0
+366,"Braybrook, VIC",Motor Accessories,Western Auto Raceway Pty Ltd,"234 Ballarat Rd, Braybrook VIC 3019",3026,-37.779962,144.863692,,(03) 9317 0055,,,0.0,0
+367,"Ardeer, VIC",Motor Accessories,American Performance Imports,"1/ 36 Reid St, Ardeer VIC 3022",3026,-37.76947,144.80525,,(03) 9363 1127,,,0.0,0
+368,"Altona, VIC",Motor Accessories,K Mart Auto,"Altona Gate Shopping Centre, Altona VIC 3018",3026,-37.859,144.850084,,(03) 9314 2333,,,0.0,0
+369,"Deer Park, VIC",Motor Accessories,Autopro,"Brimbank Central Shopping Centre Cnr Neale & Station Rds, Deer Park VIC 3023",3026,-37.752521,144.77768,,(03) 9361 1999,,,0.0,0
+370,"Deer Park, VIC",Motor Accessories,Mega Tech Digital,"Brimbank Central S/C Kiosk, Deer Park VIC 3023",3026,-37.767228,144.765666,,,,,0.0,0
+371,"Hoppers Crossing, VIC",Motor Accessories,Hogans Axle Correction Pty Ltd,"244 Old Geelong Rd, Hoppers Crossing VIC 3029",3026,-37.874745,144.720415,,(03) 9748 5533,,,0.0,0
+372,"Hoppers Crossing, VIC",Motor Accessories,Repco,"174- 182 Old Geelong Rd, Hoppers Crossing VIC 3029",3026,-37.87708,144.71542,,(03) 9749 5350,,,0.0,0
+373,"Brooklyn, VIC",Motor Accessories,Templewood Pty Ltd,"554 Geelong Rd, Brooklyn VIC 3025",3026,-37.81467,144.85339,,(03) 9314 8888,,,0.0,0
+374,"Footscray West, VIC",Motor Accessories,Western Auto Accessories,"470 Geelong Rd, Footscray West VIC 3012",3026,-37.812442,144.862932,,(03) 9315 4055,,,0.0,0
+375,"Sunshine, VIC",Motor Accessories,Professional Performance,"493 Ballarat Rd, Sunshine VIC 3020",3026,-37.77793,144.83248,,(03) 9312 3055,,,0.0,0
+376,"Sunshine, VIC",Motor Accessories,Repco,"447 Ballarat Rd, Sunshine VIC 3020",3026,-37.77836,144.838,,(03) 9312 5584,,,0.0,0
+377,"Ardeer, VIC",Motor Accessories,Borgys Motor Spares,"Factory 5 / 36 Reid St, Ardeer VIC 3022",3026,-37.76947,144.80525,,(03) 9363 8855,,,0.0,0
+378,"West Footscray, VIC",Motor Accessories,Summa Auto Parts Pty Ltd,"1/ 19-23 Paramount Rd, West Footscray VIC 3012",3026,-37.806378,144.862873,,(03) 9315 2212,,,0.0,0
+379,"Sunshine, VIC",Motor Accessories,Un Mobiles Sunshine,"278 Hampshire Rd, Sunshine VIC 3020",3026,-37.78,144.83,,0393102711,,,0.0,0
+380,"Maidstone, VIC",Motor Accessories,Aus Used Mobile Phone Store,"15 Albert Facey St, Maidstone VIC 3012",3026,-37.79,144.87,,0406222632,,,0.0,0
+381,"Footscray, VIC",Motor Accessories,Custom Sunroofs Aust Pty Ltd,"110 Mitchell St, Footscray VIC 3011",3026,-37.781658,144.874193,"Sunroofs Are Our Specialty, Come and See Our Show Room!",(03) 9318 4978,info@customsunroofs.com.au,http://customsunroofs.com.au/,0.0,0
+382,"Port Melbourne, VIC",Motor Accessories,Roof Rack City,"49 Fennell St, Port Melbourne VIC 3207",3026,-37.827373,144.938713,For All Your Towing Needs - All Vehicle Accessories,1300 133 353,sales@allvehicleaccessories.com.au,http://www.allvehicleaccessories.com.au,0.0,0
+383,"Yarraville, VIC",Motor Accessories,Roof Rack Superstore,"2/ 280 Whitehall St, Yarraville VIC 3013",3026,-37.81918,144.89857,"Huge Range & Showroom, Roof Racks, Roof Boxes/ Pods & Accessories",(03) 9687 0877,,http://www.roofracksuperstore.com,0.0,0
+384,"Maribyrnong, VIC",Motor Accessories,J2K,"Kiosk 7327 120-200 Rosamand Rd, Maribyrnong VIC 3032",3026,-37.77,144.88,,0393187788,maribtynong@j2k.com.au,http://www.vodafone.com.au/,0.0,0
+385,"Werribee, VIC",Motor Accessories,Mos Mobiles,"Kiosk 011 Cnr Derrimut & Heaths Rd, Werribee VIC 3030",3026,-37.87,144.65,,0387424988,werribeeplaza@mosmobiles.com.au,http://www.vodafone.com.au/,0.0,0
+386,"Hoppers Crossing, VIC",Motor Accessories,Autobarn Hoppers Crossing,"Unit 1, 194- 210 Old Geelong Rd, Hoppers Crossing VIC 3029",3029,-37.87649,144.71726,Autobarn-The Automotive Superstore. Home Of Australia's Biggest Brands,(03) 9748 8477,sales@hopperscrossing.autobarn.com.au,http://www.autobarn.com.au,0.0,0
+387,"Hoppers Crossing, VIC",Motor Accessories,Hogans Axle Correction Pty Ltd,"244 Old Geelong Rd, Hoppers Crossing VIC 3029",3029,-37.874745,144.720415,,(03) 9748 5533,,,0.0,0
+388,"Hoppers Crossing, VIC",Motor Accessories,Repco,"174- 182 Old Geelong Rd, Hoppers Crossing VIC 3029",3029,-37.87708,144.71542,,(03) 9749 5350,,,0.0,0
+389,"Hoppers Crossing, VIC",Motor Accessories,K Mart Auto,"Werribee Plaza Regional Shopping Centre, Hoppers Crossing VIC 3029",3029,-37.875799,144.679049,,(03) 9749 2300,,,0.0,0
+390,"Hoppers Crossing, VIC",Motor Accessories,Autopro,"7 Old Geelong Rd, Hoppers Crossing VIC 3029",3029,-37.88307,144.69958,,(03) 9749 5413,,,0.0,0
+391,"Ravenhall, VIC",Motor Accessories,True Flow Exhaust,"Factory 2/ 25 Westwood Drv, Ravenhall VIC 3023",3029,-37.768029,144.753064,,(03) 8358 5511,trueflowexhaust@bigpond.com,http://www.trueflowexhausts.com.au,0.0,0
+392,"Werribee, VIC",Motor Accessories,Mos Mobiles,"Kiosk 011 Cnr Derrimut & Heaths Rd, Werribee VIC 3030",3029,-37.87,144.65,,0387424988,werribeeplaza@mosmobiles.com.au,http://www.vodafone.com.au/,0.0,0
+393,"Deer Park, VIC",Motor Accessories,Corpstar,"Kiosk 10 Cnr Neale Rd & Station Rd, Deer Park VIC 3023",3029,-37.76,144.77,,0393630166,brimbank@corpstar.com.au,http://www.vodafone.com.au/,0.0,0
+394,"Werribee, VIC",Motor Accessories,Marlows Auto Parts  Accessories,"215 Derrimut Rd, Werribee Plaza Shpng Cntr, Werribee VIC 3030",3029,-37.875204,144.683113,,(03) 9748 0055,,,0.0,0
+395,"Deer Park, VIC",Motor Accessories,Independent Car Parts,"Fcty 4, 1021 - 1027 Western Hwy, Deer Park VIC 3023",3029,-37.76212,144.75173,,(03) 9361 2004,,,0.0,0
+396,"Werribee, VIC",Motor Accessories,Motor Components,"7 Lock Ave, Werribee VIC 3030",3029,-37.91109,144.66299,,1800 880 077,,,0.0,0
+397,"Caroline Springs, VIC",Motor Accessories,SS Body Styling,Caroline Springs VIC 3023,3029,-37.737294,144.739454,,,,,0.0,0
+398,"Laverton North, VIC",Motor Accessories,HyWay Truck Accessories,"89- 103 Boundary Rd, Laverton North VIC 3026",3029,-37.81549,144.799,,(03) 9369 9905,,,0.0,0
+399,"Deer Park, VIC",Motor Accessories,Mega Tech Digital,"Brimbank Central S/C Kiosk, Deer Park VIC 3023",3029,-37.767228,144.765666,,,,,0.0,0
+400,"Melton, VIC",Motor Accessories,Auto One Melton,"2/ 93 High St, Melton VIC 3337",3029,-37.690366,144.602482,"""Right Gear! Right Advice!"", Auto One is the Right Choice for You!",(03) 9743 3355,info@autoone.com.au,http://www.autoone.com.au,0.0,0
+401,"Footscray, VIC",Motor Accessories,Custom Sunroofs Aust Pty Ltd,"110 Mitchell St, Footscray VIC 3011",3029,-37.781658,144.874193,"Sunroofs Are Our Specialty, Come and See Our Show Room!",(03) 9318 4978,info@customsunroofs.com.au,http://customsunroofs.com.au/,0.0,0
+402,"Braybrook, VIC",Motor Accessories,KAM Autoparts,"234 Ballarat Rd, Braybrook VIC 3019",3029,-37.77996,144.86372,"Service Parts, Car Care & Accessories.",(03) 9317 5324,kamautoparts@optusnet.com.au,http://www.kamautoparts.com.au/,0.0,0
+403,"Yarraville, VIC",Motor Accessories,Roof Rack Superstore,"2/ 280 Whitehall St, Yarraville VIC 3013",3029,-37.81918,144.89857,"Huge Range & Showroom, Roof Racks, Roof Boxes/ Pods & Accessories",(03) 9687 0877,,http://www.roofracksuperstore.com,0.0,0
+404,"Melton, VIC",Motor Accessories,True Flow Exhaust,"86 High St, Melton VIC 3337",3029,-37.688438,144.602248,,(03) 9743 5160,trueflowexhaust@bigpond.com,http://www.trueflowexhausts.com.au,0.0,0
+405,"Niddrie, VIC",Motor Accessories,Auto One North Essendon,"384 Keilor Rd, Niddrie VIC 3042",3029,-37.73547,144.8885,,(03) 9379 1615,lucaneao@bigpond.com,http://www.autoone.com.au,0.0,0
+406,"Maribyrnong, VIC",Motor Accessories,J2K,"Kiosk 7327 120-200 Rosamand Rd, Maribyrnong VIC 3032",3029,-37.77,144.88,,0393187788,maribtynong@j2k.com.au,http://www.vodafone.com.au/,0.0,0
+407,"Melton, VIC",Motor Accessories,Auto One Melton,"2/ 93 High St, Melton VIC 3337",3029,-37.69037,144.60246,,(03) 9743 3355,info@autoone.com.au,http://www.autoone.com.au,0.0,0
+408,"St Albans, VIC",Motor Accessories,Mos Mobiles,"1 Alfrieda St, St Albans VIC 3021",3029,-37.74,144.8,,0393109959,stalbans@mosmobiles.com.au,http://www.vodafone.com.au/,0.0,0
+409,"Taylors Hill, VIC",Motor Accessories,the ibreakers,Taylors Hill VIC 3037,3029,-37.716936,144.753926,,0413238316,theibreakers@gmail.com,http://www.theibreakers.webs.com,0.0,0
+410,"St Albans, VIC",Motor Accessories,St Albans Exhaust Centre,"200 Williams St, St Albans VIC 3021",3029,-37.73506,144.79815,Professionals You Can Trust,(03) 9366 6871,,,0.0,0
+411,"Tottenham, VIC",Motor Accessories,Don Kyatt Spare Parts,"245 Sunshine Rd, Tottenham VIC 3012",3029,-37.797255,144.845853,,(03) 9325 9700,,http://www.donkyatt.com.au,0.0,0
+412,"Sunshine, VIC",Motor Accessories,HP Heaven,Sunshine VIC 3020,3029,-37.788946,144.835364,,(03) 9312 4555,,http://www.hpheaven.com.au,0.0,0
+413,"Maidstone, VIC",Motor Accessories,Child Restraints FittedMobile,"7/ 61 Wattle Rd, Maidstone VIC 3012",3029,-37.77796,144.8792,,(03) 9317 3050,,http://www.childrestraints.com.au,0.0,0
+414,"Sunshine West, VIC",Motor Accessories,Motor Cars International,"41 Enterprise Way, Sunshine West VIC 3020",3029,-37.814061,144.82394,,(03) 9314 1500,,http://www.mci-online.com.au,0.0,0
+415,"Laverton North, VIC",Motor Accessories,Radiant Exhausts Pty Ltd,"41 Little Boundary Rd, Laverton North VIC 3026",3029,-37.81741,144.81702,,(03) 9689 4360,,http://www.radiantexhausts.com.au,0.0,0
+416,"Maribyrnong, VIC",Motor Accessories,Allphones,"120-200 Rosamond Rd, Maribyrnong VIC 3032",3029,-37.77,144.88,,0393186638,,http://www.allphones.com.au/,0.0,0
+417,"Taylors Lakes, VIC",Motor Accessories,Image Auto Parts,"Unit 5, 399 Melton Hwy, Taylors Lakes VIC 3038",3029,-37.69569,144.77311,,(03) 8390 8839,,,0.0,0
+418,"Point Cook, VIC",Shopping Centres,Point Cook Town Centre,"Main St and Murnong St, Point Cook VIC 3030",3030,-37.883178,144.735349,Featuring Over 120 Stores.,(03) 9394 6200,,http://www.pointcook.com.au,0.0,0
+419,"Werribee, VIC",Shopping Centres,Werribee Plaza Shopping Centre,"Cnr Heaths & Derrimut Rds, Werribee VIC 3030",3030,-37.877611,144.682746,,(03) 9749 5111,,,0.0,0
+420,"Point Cook, VIC",Shopping Centres,Thehaircarestore,"17/ 22-30 Wallace Ave, Point Cook VIC 3030",3030,-37.8732,144.745994,,(03) 8360 3600,,,0.0,0
+421,"Werribee, VIC",Shopping Centres,Discount Direct,"Shop 27 Werribee Plaza, Cnr Derrimut & Heaths Rd, Werribee VIC 3030",3030,-37.877611,144.682746,,(03) 9748 0366,,,0.0,0
+422,"Werribee, VIC",Shopping Centres,Werribee Plaza Shopping Centre  Market,"Cnr Heaths & Derrimut Rds, Werribee VIC 3030",3030,-37.877611,144.682746,,(03) 9749 5111,,,0.0,0
+423,"Point Cook, VIC",Shopping Centres,Sanctuary Lakes Shopping Centre,"300 Point Cook Rd, Point Cook VIC 3030",3030,-37.89558,144.75329,,(03) 9395 1011,,,0.0,0
+424,"Point Cook, VIC",Shopping Centres,Online Auctions Australia,"Ginger Line, Point Cook VIC 3030",3030,-37.9,144.74,,0390169102,,,0.0,0
+425,"Laverton North, VIC",Shopping Centres,The Blue Oval Store,"22 Agosta Dr, Laverton North VIC 3026",3030,-37.82,144.8,,1300661377,sales@blueovalstore.com.au,http://www.blueovalstore.com.au/,0.0,0
+426,"Altona Meadows, VIC",Shopping Centres,Central Square Shopping Centre,"1 Centre Ave, Altona Meadows VIC 3028",3030,-37.873523,144.776059,,(03) 9315 8999,,,0.0,0
+427,"Deer Park, VIC",Shopping Centres,Go Easy Australia,"U1/ 25 Westwood Drv, Deer Park VIC 3023",3030,-37.759135,144.754031,,1300 766 469,,,0.0,0
+428,"Wyndham Vale, VIC",Shopping Centres,Manor Lakes Central,"8 Manor Lakes Blv, Wyndham Vale VIC 3024",3030,-37.888665,144.617729,,(03) 9742 6696,,,0.0,0
+429,"Tarneit, VIC",Shopping Centres,Shoppingferrett,Tarneit VIC 3029,3030,-37.847264,144.677758,,0404610249,,,0.0,0
+430,"Prahran, VIC",Shopping Centres,Pran Central Shopping Centre,"325 Chapel St, Prahran VIC 3181",3030,-37.847239,144.993556,Centre of Attention,(03) 9521 2853,info@prancentral.com.au,http://www.prancentral.com.au,2.0,1
+431,"Docklands, VIC",Shopping Centres,Spencer Outlet Centre,"Lvl 1/ 201 Spencer St, Docklands VIC 3008",3030,-37.816606,144.952012,Your One Stop Fashion destination!,(03) 8689 7577,info@spenceroutletcentre.com.au,http://www.spenceroutletcentre.com.au,0.0,0
+432,"Chadstone, VIC",Shopping Centres,Chadstone The Fashion Capital,"1341 Dandenong Rd, Chadstone VIC 3148",3030,-37.88668,145.08071,,(03) 9563 3355,chadstone_mail@cfsgam.com.au,http://www.chadstoneshopping.com.au,4.0,1
+433,"Melbourne, VIC",Shopping Centres,Block Arcade,"282 Collins St, Melbourne VIC 3000",3030,-37.81598,144.96466,,(03) 9654 5244,management@theblock.com.au,http://www.theblockarcade.com.au,4.2,6
+434,"Camberwell, VIC",Shopping Centres,Camberwell Shopping Precinct,Camberwell VIC 3124,3030,-37.838876,145.073081,,(03) 9813 4190,kdaly@camberwellcentre.com.au,http://www.camberwellcentre.com.au,4.0,1
+435,"Richmond, VIC",Shopping Centres,Victoria Gardens Shopping Centre,"Cnr Victoria & Burnley St 620 Victoria St, Richmond VIC 3121",3030,-37.81206,145.01078,,(03) 8420 1400,,http://www.vicgardens.com.au,3.3,5
+436,"Geelong, VIC",Shopping Centres,Market Square Shopping Centre,"Cntr Management Cnr Malop & Moorabool Sts, Geelong VIC 3220",3030,-38.148195,144.360903,,(03) 5221 2411,marketsquare@au.knightfrank.com,http://www.marketsquaregeelong.com.au,0.0,0
+437,"Essendon Fields, VIC",Shopping Centres,DFO Essendon,"100 Bulla Rd, Essendon Fields VIC 3041",3030,-37.73341,144.90511,,(03) 9937 7222,,http://www.dfo.com.au,3.5,4
+438,"Malvern, VIC",Shopping Centres,Malvern Central Shopping Centre,"110-122 Wattletree Rd, Malvern VIC 3144",3030,-37.862977,145.027127,,(03) 9509 2288,,http://www.malverncentralshopping.com.au,3.0,3
+439,"Melbourne, VIC",Shopping Centres,Australia On Collins,"260 Collins St, Melbourne VIC 3000",3030,-37.8158,144.96525,,(03) 9650 4355,,http://www.australiaoncollins.com.au,2.3,3
+440,"South Wharf, VIC",Shopping Centres,DFO South Wharf,"20 Convention Centre Pl, South Wharf VIC 3006",3030,-37.824655,144.949999,,(03) 9099 1111,,http://www.dfo.com.au,4.0,7
+441,"South Yarra, VIC",Shopping Centres,The Jam Factory,South Yarra VIC 3141,3030,-37.840259,144.991384,,(03) 9860 8505,,http://www.thejamfactory.com.au,3.8,6
+442,"Corio, VIC",Shopping Centres,Corio Shopping Centre,"Cnr Bacchus Marsh & Purnell Rds, Corio VIC 3214",3030,-38.074165,144.358711,,(03) 5275 3111,corio_shopping_centre@cfsgam.com.au,http://www.corioshopping.com.au,0.0,0
+443,"Ashburton, VIC",Shopping Centres,Carpet Bargains,"41 Fakenham Rd, Ashburton VIC 3147",3030,-37.86,145.08,,1800281092,admin@carpetbargainsdirect.com.au,http://carpetbargainsdirect.com.au/,0.0,0
+444,"Brunswick East, VIC",Shopping Centres,Gaetanos Shoe Warehouse Outlet,"3057 St, Brunswick East VIC 3057",3030,-37.76,144.96,,0393806322,softstyle@aapt.net.au,http://www.gaetanositalianshoe.com.au/,0.0,0
+445,"Port Melbourne, VIC",Shopping Centres,OKME,"Unit 16 345 Plummer St, Port Melbourne VIC 3207",3030,-37.83,144.92,,1800833769,chris.ward@okmart.com.au,http://www.okme.com.au/,0.0,0
+446,"Cremorne, VIC",Shopping Centres,Look3d Eyeware,"Level 1 16 Palmer Pde, Cremorne VIC 3121",3030,-37.81,145.0,,0280604123,google@andmine.com,http://look3d.com,0.0,0
+447,"St Kilda, VIC",Shopping Centres,Antsales,St Kilda VIC 3182,3030,-37.864259,144.983008,,0395254316,sales@antsales.com.au,http://www.antsales.com.au,0.0,0
+448,"Melbourne, VIC",Shopping Centres,dealboard,"720 Collins Street St, Melbourne VIC 3000",3030,-37.81,144.96,,1300783865,kathryn.bottrell@yahoo.com,http://dealboard.info/,0.0,0
+449,"Cheltenham, VIC",Shopping Centres,AusCause,Cheltenham VIC 3192,3030,-37.964318,145.065253,,0423664464,others@auscause.com.au,http://www.auscause.com.au/,0.0,0
+450,"Melbourne, VIC",Shopping Centres,Budget Stamps,"375 Little Lonsdale Street St, Melbourne VIC 3000",3030,-37.81,144.95,,0396705158,enquiries@budgetstamps.com.au,http://www.budgetstamps.com.au/,0.0,0
+451,"Laverton North, VIC",Shopping Centres,The Blue Oval Store,"22 Agosta Dr, Laverton North VIC 3026",3026,-37.82,144.8,,1300661377,sales@blueovalstore.com.au,http://www.blueovalstore.com.au/,0.0,0
+452,"Altona Meadows, VIC",Shopping Centres,Central Square Shopping Centre,"1 Centre Ave, Altona Meadows VIC 3028",3026,-37.873523,144.776059,,(03) 9315 8999,,,0.0,0
+453,"Point Cook, VIC",Shopping Centres,Point Cook Town Centre,"Main St and Murnong St, Point Cook VIC 3030",3026,-37.883178,144.735349,Featuring Over 120 Stores.,(03) 9394 6200,,http://www.pointcook.com.au,0.0,0
+454,"Altona North, VIC",Shopping Centres,Altona Gate Shopping Centre,"124 Millers Rd, Altona North VIC 3025",3026,-37.82787,144.84751,,(03) 9316 2222,,http://www.altonagateshopping.com.au/,0.0,0
+455,"Deer Park, VIC",Shopping Centres,Brimbank Central Shopping Centre,"Cnr Station & Neale Rds, Deer Park VIC 3023",3026,-37.752521,144.77768,,(03) 9363 5188,,http://www.brimbankcentralshopping.com.au,0.0,0
+456,"Point Cook, VIC",Shopping Centres,Thehaircarestore,"17/ 22-30 Wallace Ave, Point Cook VIC 3030",3026,-37.8732,144.745994,,(03) 8360 3600,,,0.0,0
+457,"Deer Park, VIC",Shopping Centres,Go Easy Australia,"U1/ 25 Westwood Drv, Deer Park VIC 3023",3026,-37.759135,144.754031,,1300 766 469,,,0.0,0
+458,"Sunshine, VIC",Shopping Centres,Sunshine Plaza Shopping Centre,"Cnr Hampshire Rd & Service St, Sunshine VIC 3020",3026,-37.783029,144.832409,,(03) 9312 3555,,,0.0,0
+459,"Sunshine, VIC",Shopping Centres,Sunshine Marketplace,"80 Harvester Rd, Sunshine VIC 3020",3026,-37.78153,144.83091,,(03) 9312 0566,,,0.0,0
+460,"Point Cook, VIC",Shopping Centres,Sanctuary Lakes Shopping Centre,"300 Point Cook Rd, Point Cook VIC 3030",3026,-37.89558,144.75329,,(03) 9395 1011,,,0.0,0
+461,"Braybrook, VIC",Shopping Centres,Central West Shopping Centre,"67 Ashley St, Braybrook VIC 3019",3026,-37.793264,144.861437,,(03) 9689 8333,,,0.0,0
+462,"Point Cook, VIC",Shopping Centres,Online Auctions Australia,"Ginger Line, Point Cook VIC 3030",3026,-37.9,144.74,,0390169102,,,0.0,0
+463,"Port Melbourne, VIC",Shopping Centres,OKME,"Unit 16 345 Plummer St, Port Melbourne VIC 3207",3026,-37.83,144.92,,1800833769,chris.ward@okmart.com.au,http://www.okme.com.au/,0.0,0
+464,"Taylors Hill, VIC",Shopping Centres,Watervale Shopping Centre,"2- 14 Calder Park Drv, Taylors Hill VIC 3037",3026,-37.723283,144.751407,,(03) 9307 8194,,http://www.shopatwatervale.com.au,0.0,0
+465,"Docklands, VIC",Shopping Centres,Harbour Town,"L 1 122 Studio Lane, Docklands VIC 3008",3026,-37.81,144.93,,0393288600,,http://www.harbourtownmelbourne.com.au,0.0,0
+466,"Keilor Downs, VIC",Shopping Centres,Keilor Shopping Centre,"80 Taylors Rd, Keilor Downs VIC 3038",3026,-37.72988,144.81465,,(03) 9364 0444,,http://www.keilorshoppingcentre.com.au,0.0,0
+467,"Maribyrnong, VIC",Shopping Centres,Highpoint Shopping Centre,"200 Rosamond Rd, Maribyrnong VIC 3032",3026,-37.7733,144.88609,,(03) 9318 1699,,,4.0,8
+468,"Werribee, VIC",Shopping Centres,Werribee Plaza Shopping Centre,"Cnr Heaths & Derrimut Rds, Werribee VIC 3030",3026,-37.877611,144.682746,,(03) 9749 5111,,,0.0,0
+469,"Maribyrnong, VIC",Shopping Centres,Homemaker City,"179 Rosamond Rd, Maribyrnong VIC 3032",3026,-37.77144,144.8844,,(03) 9318 1699,,,0.0,0
+470,"Werribee, VIC",Shopping Centres,Discount Direct,"Shop 27 Werribee Plaza, Cnr Derrimut & Heaths Rd, Werribee VIC 3030",3026,-37.877611,144.682746,,(03) 9748 0366,,,0.0,0
+471,"Werribee, VIC",Shopping Centres,Werribee Plaza Shopping Centre  Market,"Cnr Heaths & Derrimut Rds, Werribee VIC 3030",3026,-37.877611,144.682746,,(03) 9749 5111,,,0.0,0
+472,"Maribyrnong, VIC",Shopping Centres,Homemaker City,"High Point Shopping Centre, 120-200 Rosamond Road, Maribyrnong VIC 3032",3026,-37.7733,144.88609,,(03) 9318 1699,,,0.0,0
+473,"Keilor East, VIC",Shopping Centres,Milleara Shopping Centre,"Cnr Milleara Rd and Buckley St, Keilor East VIC 3033",3026,-37.750137,144.861162,,(03) 9331 1255,,,0.0,0
+474,"Maribyrnong, VIC",Shopping Centres,Ruby Highpoint Shopping Cntre,"1 Warrs Rd, Maribyrnong VIC 3032",3026,-37.76,144.89,,0393170822,,,0.0,0
+475,"Tarneit, VIC",Shopping Centres,Shoppingferrett,Tarneit VIC 3029,3026,-37.847264,144.677758,,0404610249,,,0.0,0
+476,"Ascot Vale, VIC",Shopping Centres,Old World Replica Antiques,"534 Mount Alexander Rd, Ascot Vale VIC 3032",3026,-37.77,144.92,,0393720911,,,0.0,0
+477,"Prahran, VIC",Shopping Centres,Pran Central Shopping Centre,"325 Chapel St, Prahran VIC 3181",3026,-37.847239,144.993556,Centre of Attention,(03) 9521 2853,info@prancentral.com.au,http://www.prancentral.com.au,2.0,1
+478,"Docklands, VIC",Shopping Centres,Spencer Outlet Centre,"Lvl 1/ 201 Spencer St, Docklands VIC 3008",3026,-37.816606,144.952012,Your One Stop Fashion destination!,(03) 8689 7577,info@spenceroutletcentre.com.au,http://www.spenceroutletcentre.com.au,0.0,0
+479,"Melbourne, VIC",Shopping Centres,Block Arcade,"282 Collins St, Melbourne VIC 3000",3026,-37.81598,144.96466,,(03) 9654 5244,management@theblock.com.au,http://www.theblockarcade.com.au,4.2,6
+480,"Essendon Fields, VIC",Shopping Centres,DFO Essendon,"100 Bulla Rd, Essendon Fields VIC 3041",3026,-37.73341,144.90511,,(03) 9937 7222,,http://www.dfo.com.au,3.5,4
+481,"Melbourne, VIC",Shopping Centres,Australia On Collins,"260 Collins St, Melbourne VIC 3000",3026,-37.8158,144.96525,,(03) 9650 4355,,http://www.australiaoncollins.com.au,2.3,3
+482,"South Wharf, VIC",Shopping Centres,DFO South Wharf,"20 Convention Centre Pl, South Wharf VIC 3006",3026,-37.824655,144.949999,,(03) 9099 1111,,http://www.dfo.com.au,4.0,7
+483,"South Yarra, VIC",Shopping Centres,The Jam Factory,South Yarra VIC 3141,3026,-37.840259,144.991384,,(03) 9860 8505,,http://www.thejamfactory.com.au,3.8,6
+484,"Brunswick East, VIC",Shopping Centres,Gaetanos Shoe Warehouse Outlet,"3057 St, Brunswick East VIC 3057",3026,-37.76,144.96,,0393806322,softstyle@aapt.net.au,http://www.gaetanositalianshoe.com.au/,0.0,0
+485,"Tarneit, VIC",Shopping Centres,Shoppingferrett,Tarneit VIC 3029,3029,-37.847264,144.677758,,0404610249,,,0.0,0
+486,"Point Cook, VIC",Shopping Centres,Point Cook Town Centre,"Main St and Murnong St, Point Cook VIC 3030",3029,-37.883178,144.735349,Featuring Over 120 Stores.,(03) 9394 6200,,http://www.pointcook.com.au,0.0,0
+487,"Laverton North, VIC",Shopping Centres,The Blue Oval Store,"22 Agosta Dr, Laverton North VIC 3026",3029,-37.82,144.8,,1300661377,sales@blueovalstore.com.au,http://www.blueovalstore.com.au/,0.0,0
+488,"Werribee, VIC",Shopping Centres,Werribee Plaza Shopping Centre,"Cnr Heaths & Derrimut Rds, Werribee VIC 3030",3029,-37.877611,144.682746,,(03) 9749 5111,,,0.0,0
+489,"Point Cook, VIC",Shopping Centres,Thehaircarestore,"17/ 22-30 Wallace Ave, Point Cook VIC 3030",3029,-37.8732,144.745994,,(03) 8360 3600,,,0.0,0
+490,"Werribee, VIC",Shopping Centres,Discount Direct,"Shop 27 Werribee Plaza, Cnr Derrimut & Heaths Rd, Werribee VIC 3030",3029,-37.877611,144.682746,,(03) 9748 0366,,,0.0,0
+491,"Altona Meadows, VIC",Shopping Centres,Central Square Shopping Centre,"1 Centre Ave, Altona Meadows VIC 3028",3029,-37.873523,144.776059,,(03) 9315 8999,,,0.0,0
+492,"Werribee, VIC",Shopping Centres,Werribee Plaza Shopping Centre  Market,"Cnr Heaths & Derrimut Rds, Werribee VIC 3030",3029,-37.877611,144.682746,,(03) 9749 5111,,,0.0,0
+493,"Deer Park, VIC",Shopping Centres,Go Easy Australia,"U1/ 25 Westwood Drv, Deer Park VIC 3023",3029,-37.759135,144.754031,,1300 766 469,,,0.0,0
+494,"Wyndham Vale, VIC",Shopping Centres,Manor Lakes Central,"8 Manor Lakes Blv, Wyndham Vale VIC 3024",3029,-37.888665,144.617729,,(03) 9742 6696,,,0.0,0
+495,"Point Cook, VIC",Shopping Centres,Sanctuary Lakes Shopping Centre,"300 Point Cook Rd, Point Cook VIC 3030",3029,-37.89558,144.75329,,(03) 9395 1011,,,0.0,0
+496,"Point Cook, VIC",Shopping Centres,Online Auctions Australia,"Ginger Line, Point Cook VIC 3030",3029,-37.9,144.74,,0390169102,,,0.0,0
+497,"Essendon Fields, VIC",Shopping Centres,DFO Essendon,"100 Bulla Rd, Essendon Fields VIC 3041",3029,-37.73341,144.90511,,(03) 9937 7222,,http://www.dfo.com.au,3.5,4
+498,"Port Melbourne, VIC",Shopping Centres,OKME,"Unit 16 345 Plummer St, Port Melbourne VIC 3207",3029,-37.83,144.92,,1800833769,chris.ward@okmart.com.au,http://www.okme.com.au/,0.0,0
+499,"Altona North, VIC",Shopping Centres,Altona Gate Shopping Centre,"124 Millers Rd, Altona North VIC 3025",3029,-37.82787,144.84751,,(03) 9316 2222,,http://www.altonagateshopping.com.au/,0.0,0
+500,"Taylors Hill, VIC",Shopping Centres,Watervale Shopping Centre,"2- 14 Calder Park Drv, Taylors Hill VIC 3037",3029,-37.723283,144.751407,,(03) 9307 8194,,http://www.shopatwatervale.com.au,0.0,0
+501,"Deer Park, VIC",Shopping Centres,Brimbank Central Shopping Centre,"Cnr Station & Neale Rds, Deer Park VIC 3023",3029,-37.752521,144.77768,,(03) 9363 5188,,http://www.brimbankcentralshopping.com.au,0.0,0
+502,"Airport West, VIC",Shopping Centres,Westfield Airport West,"29-35 Louis St, Airport West VIC 3042",3029,-37.714442,144.88857,,(03) 9338 4244,,http://www.westfield.com.au/airportwest,0.0,0
+503,"Docklands, VIC",Shopping Centres,Harbour Town,"L 1 122 Studio Lane, Docklands VIC 3008",3029,-37.81,144.93,,0393288600,,http://www.harbourtownmelbourne.com.au,0.0,0
+504,"Keilor Downs, VIC",Shopping Centres,Keilor Shopping Centre,"80 Taylors Rd, Keilor Downs VIC 3038",3029,-37.72988,144.81465,,(03) 9364 0444,,http://www.keilorshoppingcentre.com.au,0.0,0
+505,"Maribyrnong, VIC",Shopping Centres,Highpoint Shopping Centre,"200 Rosamond Rd, Maribyrnong VIC 3032",3029,-37.7733,144.88609,,(03) 9318 1699,,,4.0,8
+506,"Maribyrnong, VIC",Shopping Centres,Homemaker City,"179 Rosamond Rd, Maribyrnong VIC 3032",3029,-37.77144,144.8844,,(03) 9318 1699,,,0.0,0
+507,"Maribyrnong, VIC",Shopping Centres,Homemaker City,"High Point Shopping Centre, 120-200 Rosamond Road, Maribyrnong VIC 3032",3029,-37.7733,144.88609,,(03) 9318 1699,,,0.0,0
+508,"Sunshine, VIC",Shopping Centres,Sunshine Plaza Shopping Centre,"Cnr Hampshire Rd & Service St, Sunshine VIC 3020",3029,-37.783029,144.832409,,(03) 9312 3555,,,0.0,0
+509,"Keilor East, VIC",Shopping Centres,Milleara Shopping Centre,"Cnr Milleara Rd and Buckley St, Keilor East VIC 3033",3029,-37.750137,144.861162,,(03) 9331 1255,,,0.0,0
+510,"Essendon, VIC",Shopping Centres,Ultimate Inspiration,Essendon VIC 3040,3029,-37.749572,144.909233,,1300 653 148,,,0.0,0
+511,"Sunshine, VIC",Shopping Centres,Sunshine Marketplace,"80 Harvester Rd, Sunshine VIC 3020",3029,-37.78153,144.83091,,(03) 9312 0566,,,0.0,0
+512,"Maribyrnong, VIC",Shopping Centres,Ruby Highpoint Shopping Cntre,"1 Warrs Rd, Maribyrnong VIC 3032",3029,-37.76,144.89,,0393170822,,,0.0,0
+513,"Melton, VIC",Shopping Centres,The Horse Shed Shop Aust Pty Ltd,"U 2/ 3 Industrial Drv, Melton VIC 3337",3029,-37.691326,144.596396,,(03) 8746 2497,,,0.0,0
+514,"Braybrook, VIC",Shopping Centres,Central West Shopping Centre,"67 Ashley St, Braybrook VIC 3019",3029,-37.793264,144.861437,,(03) 9689 8333,,,0.0,0
+515,"Ascot Vale, VIC",Shopping Centres,Old World Replica Antiques,"534 Mount Alexander Rd, Ascot Vale VIC 3032",3029,-37.77,144.92,,0393720911,,,0.0,0
+516,"Prahran, VIC",Shopping Centres,Pran Central Shopping Centre,"325 Chapel St, Prahran VIC 3181",3029,-37.847239,144.993556,Centre of Attention,(03) 9521 2853,info@prancentral.com.au,http://www.prancentral.com.au,2.0,1
+517,"Docklands, VIC",Shopping Centres,Spencer Outlet Centre,"Lvl 1/ 201 Spencer St, Docklands VIC 3008",3029,-37.816606,144.952012,Your One Stop Fashion destination!,(03) 8689 7577,info@spenceroutletcentre.com.au,http://www.spenceroutletcentre.com.au,0.0,0
+518,"Melbourne, VIC",Shopping Centres,Block Arcade,"282 Collins St, Melbourne VIC 3000",3029,-37.81598,144.96466,,(03) 9654 5244,management@theblock.com.au,http://www.theblockarcade.com.au,4.2,6

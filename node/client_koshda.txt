@@ -1,0 +1,1 @@
+{"market":"open","gold_base":"gold","rates":{"gold":{"saleDiff":"100","saleOn":true,"purDiff":"50","purOn":true}},"gold_22k_perc":"93.5","gold_coin_labour":"400","user_id":"koshda","password":"koshda123"}
